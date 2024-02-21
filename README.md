@@ -6,7 +6,11 @@ This repository consists of documents related to the NOAA Fisheries Passive Acou
 
 The meeting report is in Quarto Book format, using the \_quarto.yaml, index.qmd, and associated pages. This repository is based on the [NOAA Tech Memo template](https://github.com/nmfs-opensci/NOAA-tech-memo-template) provided by Eli Holmes.
 
-## Presentations 
+## Discussions
+
+\[screenshot of discussions, link to intro video\]
+
+## Presentations
 
 Presentations created for the meeting will be stored in the presentations folder.
 

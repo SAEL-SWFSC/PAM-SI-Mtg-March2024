@@ -40,8 +40,8 @@ book:
     - text/conclusion.qmd
     - text/references.qmd
 
-  site-url: https://nmfs-opensci.github.io/NOAA-tech-memo-template/
-  repo-url: https://github.com/nmfs-opensci/NOAA-tech-memo-template
+  # site-url: https://nmfs-opensci.github.io/NOAA-tech-memo-template/
+  repo-url: https://github.com/SAEL-SWFSC/PAM-SI-Mtg-March2024
   repo-actions: [edit, source, issue]
   search: true
 
