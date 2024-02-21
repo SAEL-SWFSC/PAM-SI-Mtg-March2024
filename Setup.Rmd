@@ -1,0 +1,37 @@
+## Load Libraries
+
+```{r, load libraries, results='hide'}
+library(devtools)
+devtools::install_github("EmilyMarkowitz-NOAA/NMFSReports", force = TRUE)
+devtools::install_github("nmfs-general-modeling-tools/nmfspalette")
+library(nmfspalette)
+library(NMFSReports)
+library(here)
+```
+
+## Build the Report
+
+Following instructions outlined [here](https://emilymarkowitz-noaa.github.io/NMFSReports/articles/A_use-buildReport.html).
+
+```{r, Build Report}
+NMFSReports::buildReport(
+  sections = c("abstract", "background", "openScience", 
+               "ncei", "cloud", "IT", "soundscape", "stockAssess", "climate",
+               "detection", "pacm", "results_discussion", "endmatter",
+               "presentation"),
+  report_authors = "Me, Myself, and I",
+  report_title = "NOAA Fisheries Passive Acoustic Monitoring Strategic Initiative Meeting Report, March 2024, La Jolla, CA",
+  styles_reference_pptx = "refppt_nmfs",
+  styles_reference_docx = "refdoc_noaa_tech_memo",
+  bibliography.bib = "bib_example",
+  csl = "bulletin-of-marine-science"
+)
+
+```
+
+# Run your run.R file
+
+```{r, Run Report Build}
+source("./code/run.R")
+
+```
