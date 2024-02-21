@@ -1,0 +1,23 @@
+---
+title: Introduction to Meeting Attendees
+---
+
+# Introduction to Meeting Attendees
+
+## Example:
+
+### \[Insert Image\]  Name, Institution (using Header 3)
+
+Write \~ 3 sentences about yourself (the work you do, what you do for fun). Bonus if you'd like to cite a favorite publication (yours or others).
+
+## How to do this:
+
+-   In the lower right hand side of RStudio, navigate to 📁Files and Open AttendeesIntros.qmd
+
+-   View using ***Visual Editor*** \[top right of toolbar\]
+
+-   Select the picture to insert a picture of yourself
+
+-   Select ***'Header 3'*** in Toolbar dropdown (default is 'Normal'), then Type your Name and Institution
+
+-   On the next line, Type a few sentences about yourself. If you'd like to add a citation, see the Open Sciences–\> Zotero for more information.

@@ -36,17 +36,18 @@ book:
         address: R Tradição 35, Portugal 2950-726
   chapters:
     - index.qmd
-    - text/background.qmd
-    - text/conclusion.qmd
-    - text/references.qmd
+    - content/AttendeeIntros.qmd
+    - content/background.qmd
+    - content/conclusion.qmd
+    - content/references.qmd
 
-  # site-url: https://nmfs-opensci.github.io/NOAA-tech-memo-template/
+  site-url: https://sael-swfsc.github.io/PAM-SI-Mtg-March2024/
   repo-url: https://github.com/SAEL-SWFSC/PAM-SI-Mtg-March2024
   repo-actions: [edit, source, issue]
   search: true
 
 bibliography: 
-  - text/references.bib
+  - content/references.bib
 
 execute:
   echo: false
