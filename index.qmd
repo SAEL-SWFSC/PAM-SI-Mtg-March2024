@@ -1,6 +1,6 @@
 # Citation {.unnumbered}
 
-EE Holmes, 2022. Quarto Report Template. Northwest Fisheries Science Center.
+PAM-SI Meeting Repository 
 
 
 ```{=openxml}
