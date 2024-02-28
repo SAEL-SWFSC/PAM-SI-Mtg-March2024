@@ -2,21 +2,51 @@
 
 This repository consists of documents related to the NOAA Fisheries Passive Acoustic Monitoring Strategic Initiative Meeting in March 2024 at Southwest Fisheries Science Center in La Jolla, CA.
 
-## Meeting Report
+## **How to Cite** \[TBD\]
 
-The meeting report is in Quarto Book format, using the \_quarto.yaml, index.qmd, and associated pages. This repository is based on the [NOAA Tech Memo template](https://github.com/nmfs-opensci/NOAA-tech-memo-template) provided by Eli Holmes.
+## **Contents**
+
+The meeting report is in Quarto Book format; this repository is based on the [NOAA Tech Memo template](https://github.com/nmfs-opensci/NOAA-tech-memo-template) provided by Eli Holmes.
+
+This directory contains:
+
+\[*add link to folder on github for each of these tabs, this is a preliminary organization- may modify as report evolves. Also, in trying to clean out some of the unnecessary template info, I have created a 'delete' folder in many places. These will contain items I hope to delete from each folder. Just in case they create problems with the rendered output– I'll keep them there for now. Once we know we can render our project well, then we can delete the delete folders!*\]
+
+-   README.md: Read me Instructions for the front page of the Repository.
+
+-   index.qmd: *Engine for rendering project.*
+
+-   \_quarto.yml: *Primary* *formatting for Report.*
+
+-   \_frontmatter.yml: *Aesthetic formatting for Report*
+
+-   .gitignore: *Identify items on local project repo that should NOT be pushed up to github*
+
+-   📁 text: Report pages (***change this folder name to content!, need to clean up first!***)
+
+-   📁 data: Contains all input data (and metadata) used in this report. (*I do not think we will have data, so we may delete this!*)
+
+-   📁 images: images used in document formatting
+
+-   📁 info: Any miscellaneous background information not directly used in the report (deliverables, reporting requirements, etc)
+
+-   📁 docs: Contains rendered versions of the reports
+
+-   📁 notes: Meeting notes and summaries
+
+-   📁 presentations: Meeting Presentations
+
+-   📁 scratch: random temporary items; entire folder can be deleted when final report is published.
+
+-   📁 functions: scripts that actually do things. Please label explicitly and comment heavily!
+
+-   📁 tex
+
+-   📁 Other stuff- came with the template!
 
 ## Discussions
 
-\[screenshot of discussions, link to intro video\]
-
-## Presentations
-
-Presentations created for the meeting will be stored in the presentations folder.
-
-## Meeting Notes
-
-Meeting Notes will be created/modified using Google Docs (provide link here). At the end of the workshop, these notes will be saved as an rMarkdown document in \[which folder?\].
+\[link to discussions\]
 
 ## R package dependencies
 

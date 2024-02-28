@@ -3,25 +3,11 @@ project:
   output-dir: docs
 
 book:
-  title: An example tech memo
-  subtitle: The subtitle
-  date: January 2023
+  title: First Passive Acoustic Monitoring Strategic Initiative Workshop Report
+  subtitle: La Jolla, California 
+  date: March 2024
   downloads: [pdf, docx]
   author:
-  - name: Jane Doe
-    affiliations:
-      - id: nwfsc-cb
-        name: Northwest Fisheries Science Center
-        department: Conservation Biology Division
-        address: 
-          - 2725 Montlake Boulevard East
-          - Seattle, Washington 98112
-      - id: uw-safs
-        name: University of Washington
-        department: School of Aquatic and Fisheries Sciences
-  - name: Eva Nováková
-    affiliations:
-      - ref: uw-safs
   - name: Matti Meikäläinen
     email: matti@jy.fi
     affiliations:
@@ -29,16 +15,17 @@ book:
         department: Department of Biological and Environmental Science
         address: Kylmäniementie 79, 98120, KEMIJÄRVI, Finland
   - name: Ashok Kumar
+    email: akumar@uminn.edu
     affiliations:
       - name: University of Minnesota
         department: Department of Mathematics
-      - name: HØnefoss Institute
-        address: R Tradição 35, Portugal 2950-726
+        address: 4444 Minneo Drive, Minneapolis, MN
+
   chapters:
     - index.qmd
-    - text/AttendeeIntros.qmd
-    - text/Background.qmd
-    - text/references.qmd
+    - content/AttendeeIntros.qmd
+    - content/Background.qmd
+    - content/references.qmd
 
   site-url: https://sael-swfsc.github.io/PAM-SI-Mtg-March2024
   repo-url: https://github.com/SAEL-SWFSC/PAM-SI-Mtg-March2024
@@ -46,7 +33,7 @@ book:
   search: true
 
 bibliography: 
-  - text/references.bib
+  - content/references.bib
 
 execute:
   echo: false
