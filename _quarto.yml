@@ -24,7 +24,6 @@ book:
   chapters:
     - index.qmd
     - content/AttendeeIntros.qmd
-    - content/Background.qmd
     - content/references.qmd
 
   site-url: https://sael-swfsc.github.io/PAM-SI-Mtg-March2024
