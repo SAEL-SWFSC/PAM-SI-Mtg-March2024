@@ -23,3 +23,8 @@ Write \~ 3 sentences about yourself (the work you do, what you do for fun). Bonu
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
+## 
+
+### ![](images/Cory-Hom-Weaver.jpg){width="276"} Cory Hom-Weaver, SWFSC (Affiliate)
+
+Cory started working as an acoustic ecologist at SWFSC in 2020. During her time at the center, her research has focused the detection and classification of baleen whales in the California Current Ecosystem. She is also interested in technological development of passive acoustic monitoring systems. In her free time she loves to surf, cook and hike.
