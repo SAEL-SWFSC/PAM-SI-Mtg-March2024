@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "content/AttendeeIntros.html#example",
+    "href": "content/AttendeeIntros.html#example",
+    "title": "1  Introduction to Meeting Attendees",
+    "section": "1.1 Example:",
+    "text": "1.1 Example:\n\n1.1.1 [Insert Image] Name, Institution (using Header 3)\nWrite ~ 3 sentences about yourself (the work you do, what you do for fun). Bonus if you’d like to cite a favorite publication (yours or others)."
+  },
+  {
+    "objectID": "content/AttendeeIntros.html#how-to-do-this",
+    "href": "content/AttendeeIntros.html#how-to-do-this",
+    "title": "1  Introduction to Meeting Attendees",
+    "section": "1.2 How to do this:",
+    "text": "1.2 How to do this:\n\nIn the lower right hand side of RStudio, navigate to 📁Files and Open AttendeesIntros.qmd\nView using Visual Editor [top right of toolbar]\nSelect the picture to insert a picture of yourself\nSelect ‘Header 3’ in Toolbar dropdown (default is ‘Normal’), then Type your Name and Institution\nOn the next line, Type a few sentences about yourself. If you’d like to add a citation, see the Open Sciences–> Zotero for more information."
+  },
+  {
+    "objectID": "content/AttendeeIntros.html#section",
+    "href": "content/AttendeeIntros.html#section",
+    "title": "1  Introduction to Meeting Attendees",
+    "section": "1.3 ",
+    "text": "1.3 \n\n1.3.1  Cory Hom-Weaver, SWFSC\nCory started working as an acoustic ecologist at SWFSC in 2020. During her time at the center, her research has focused the detection and classification of baleen whales in the California Current Ecosystem. She is also interested in technological development of passive acoustic monitoring systems. In her free time she loves to surf, cook and hike."
+  }
+]
