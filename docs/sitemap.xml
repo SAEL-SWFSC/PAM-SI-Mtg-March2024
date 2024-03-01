@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sael-swfsc.github.io/PAM-SI-Mtg-March2024/index.html</loc>
+    <lastmod>2024-03-01T20:56:48.035Z</lastmod>
+  </url>
+  <url>
     <loc>https://sael-swfsc.github.io/PAM-SI-Mtg-March2024/content/AttendeeIntros.html</loc>
-    <lastmod>2024-03-01T18:35:29.421Z</lastmod>
+    <lastmod>2024-03-01T20:56:53.608Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/PAM-SI-Mtg-March2024/content/references.html</loc>
-    <lastmod>2024-03-01T18:35:25.845Z</lastmod>
+    <lastmod>2024-03-01T20:56:48.086Z</lastmod>
   </url>
 </urlset>

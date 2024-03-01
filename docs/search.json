@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "First Passive Acoustic Monitoring Strategic Initiative Workshop Report",
+    "section": "",
+    "text": "Citation\nPAM-SI Meeting Repository"
+  },
+  {
     "objectID": "content/AttendeeIntros.html#example",
     "href": "content/AttendeeIntros.html#example",
     "title": "1  Introduction to Meeting Attendees",
@@ -11,7 +18,7 @@
     "href": "content/AttendeeIntros.html#how-to-do-this",
     "title": "1  Introduction to Meeting Attendees",
     "section": "1.2 How to do this:",
-    "text": "1.2 How to do this:\n\nIn the lower right hand side of RStudio, navigate to 📁Files and Open AttendeesIntros.qmd\nView using Visual Editor [top right of toolbar]\nSelect the picture to insert a picture of yourself\nSelect ‘Header 3’ in Toolbar dropdown (default is ‘Normal’), then Type your Name and Institution\nOn the next line, Type a few sentences about yourself. If you’d like to add a citation, see the Open Sciences–> Zotero for more information."
+    "text": "1.2 How to do this:\n\nIn the lower right hand side of RStudio, navigate to 📁Files and Open AttendeesIntros.qmd\nView using Visual Editor [top right of toolbar]\nSelect the picture to insert a picture of yourself\nSelect ‘Header 3’ in Toolbar dropdown (default is ‘Normal’), then Type your Name and Institution\nOn the next line, Type a few sentences about yourself. If you’d like to add a citation, see the Open Sciences–&gt; Zotero for more information."
   },
   {
     "objectID": "content/AttendeeIntros.html#section",
