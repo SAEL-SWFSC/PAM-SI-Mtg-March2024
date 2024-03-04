@@ -26,7 +26,7 @@ book:
     - content/AttendeeIntros.qmd
     - content/references.qmd
 
-  site-url: https://sael-swfsc.github.io/PAM-SI-Mtg-March2024
+  site-url: https://sael-swfsc.github.io/PAM-SI-Mtg-March2024/
   repo-url: https://github.com/SAEL-SWFSC/PAM-SI-Mtg-March2024
   repo-actions: [edit, source, issue]
   search: true
