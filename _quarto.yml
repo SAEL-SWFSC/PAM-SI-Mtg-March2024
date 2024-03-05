@@ -23,8 +23,8 @@ book:
 
   chapters:
     - index.qmd
-    - content/AttendeeIntros.qmd
-    - content/references.qmd
+    - text/AttendeeIntros.qmd
+    - text/references.qmd
 
   site-url: https://sael-swfsc.github.io/PAM-SI-Mtg-March2024/
   repo-url: https://github.com/SAEL-SWFSC/PAM-SI-Mtg-March2024
@@ -32,7 +32,7 @@ book:
   search: true
 
 bibliography: 
-  - content/references.bib
+  - text/references.bib
 
 execute:
   echo: false
