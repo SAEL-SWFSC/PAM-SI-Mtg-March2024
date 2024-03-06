@@ -19,6 +19,12 @@ Write \~ 3 sentences about yourself (the work you do, what you do for fun). Bonu
 
 Cory started working as an acoustic ecologist at SWFSC in 2020. During her time at the center, her research has focused the detection and classification of baleen whales in the California Current Ecosystem. She is also interested in technological development of passive acoustic monitoring systems. In her free time she loves to surf, cook and hike.
 
-### ![](images/P6010586 - Copy.JPG){width="186"}**Shannon Rankin*, [SWFSC](https://www.fisheries.noaa.gov/west-coast/science-data/southwest-acoustic-ecology-lab)***
+### ![](images/P6010586%20-%20Copy.JPG){width="186"}**Shannon Rankin*, [SWFSC](https://www.fisheries.noaa.gov/west-coast/science-data/southwest-acoustic-ecology-lab)***
 
 Shannon leads the Southwest Acoustic Ecology Lab at SWFSC in La Jolla. She has worked with a variety of marine mammals (from vaquita to blue whales, and most everything in between) using mobile PAM platforms: towed arrays, sonobuoys, drifting buoys, and this year she'll begin to work with gliders.
+
+![](/images/Becca_photo.jpg){width="314"}
+
+### **Becca Van Hoeck*,*** [NEFSC](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean)
+
+Becca coordinates the Inflation Reduction Act funding the NEFSC Passive Acoustic Branch received for the PAM Strategic Initiative and North Atlantic right whale monitoring. She also conducts research and participates in regional coordination related to offshore wind energy development focused on fish and soundscapes. Outside of work, she spends her time reading fiction, spending time outside, and wrangling her two year old son.
