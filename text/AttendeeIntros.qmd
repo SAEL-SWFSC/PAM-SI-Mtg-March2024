@@ -2,12 +2,6 @@
 title: Introduction to Meeting Attendees
 ---
 
-## Example:
-
-### \[Insert Image\] Name, *Institution* (using Header 3)
-
-Write \~ 3 sentences about yourself (the work you do, what you do for fun). Bonus if you'd like to cite a favorite publication (yours or others).
-
 ## For detailed instructions, see [OpenScience website](https://sael-swfsc.github.io/OpenScience/content/prep/PAM-SI-Mtg-Prep-step4.html)
 
 ```{=openxml}
@@ -15,7 +9,13 @@ Write \~ 3 sentences about yourself (the work you do, what you do for fun). Bonu
 ```
 ## 
 
-### ![](images/Cory-Hom-Weaver.jpg){width="276"} 
+### ![](images/MarlaHolt-01.jpg){width="309"}
+
+### Marla Holt, [*NWFSC*](https://www.fisheries.noaa.gov/west-coast/science-data/southern-resident-killer-whale-noise-and-disturbance-research)
+
+Marla Holt is a Research Wildlife Biologist for the NWFSC Marine Mammal Ecology Team in Seattle, WA. Her current research focuses on the effects of noise on sound use and behavior of endangered killer whales. When not working, she enjoys skiing, dancing and attending various events with her sports enthusiastic family.
+
+### ![](images/Cory-Hom-Weaver.jpg){width="276"}
 
 ### Cory Hom-Weaver, [*SWFSC*](https://www.fisheries.noaa.gov/west-coast/science-data/southwest-acoustic-ecology-lab)
 
@@ -29,13 +29,13 @@ Cory started working as an acoustic ecologist at SWFSC in 2020. During her time 
 
 Becca coordinates the Inflation Reduction Act funding the NEFSC Passive Acoustic Branch received for the PAM Strategic Initiative and North Atlantic right whale monitoring. She also conducts research and participates in regional coordination related to offshore wind energy development focused on fish and soundscapes. Outside of work, she spends her time reading fiction, spending time outside, and wrangling her two year old son.
 
-### ![](images/MeganMcKenna.jpg){width="234"} 
+### ![](images/MeganMcKenna.jpg){width="234"}
 
 ### **Megan McKenna*,*** [CIRES-NCEI](https://www.ncei.noaa.gov/products/passive-acoustic-data)
 
 Megan works with collaborative teams collecting PAM data, currently with the SoundCoop and previously with SanctSound. Megan helps to unravel these complex data by applying analytical tools- both new and existing- into standardized data processing pathways. While interested in metrics that look at the whole soundscape, vessel noise is often a focus. Megan also teaches graduate classes on marine science and policy at Middlebury Institute of International Studies in Monterey. When not working, Megan is out exploring the beautiful central coast of California with her family.
 
-### ![](images/P6010586 - Copy.JPG){width="319"}  
+### ![](images/P6010586%20-%20Copy.JPG){width="319"}
 
 ### **Shannon Rankin*, [SWFSC](https://www.fisheries.noaa.gov/west-coast/science-data/southwest-acoustic-ecology-lab)***
 
