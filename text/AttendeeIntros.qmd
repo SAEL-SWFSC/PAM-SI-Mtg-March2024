@@ -15,9 +15,7 @@ title: Introduction to Meeting Attendees
 
 Cory started working as an acoustic ecologist at SWFSC in 2020. During her time at the center, her research has focused the detection and classification of baleen whales in the California Current Ecosystem. She is also interested in technological development of passive acoustic monitoring systems. In her free time she loves to surf, cook and hike.
 
-### 
-
-![](/images/Becca_photo.jpg){width="314"}
+### ![](images/Becca_photo-01.jpg){width="332"}
 
 ### **Becca Van Hoeck*,*** [NEFSC](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean)
 
@@ -35,6 +33,8 @@ Megan works with collaborative teams collecting PAM data, currently with the Sou
 
 Shannon leads the Southwest Acoustic Ecology Lab at SWFSC in La Jolla. She has worked with a variety of marine mammals (from vaquita to blue whales, and most everything in between) using mobile PAM platforms: towed arrays, sonobuoys, drifting buoys, and this year she'll begin to work with gliders.
 
-### Annamaria DeAngelis, [*NEFSC*](https://www.fisheries.noaa.gov/contact/annamaria-deangelis-mres) ![](images/P1020809.JPG)
+### ![](images/P1020809.JPG){width="501"}
+
+### Annamaria DeAngelis, [*NEFSC*](https://www.fisheries.noaa.gov/contact/annamaria-deangelis-mres) 
 
 Annamaria works in the NEFSC's Passive Acoustics Branch as the odontocete team lead and IT liaison. She has a passion for beaked whales, and loves to go out in the field to catch a glimpse (acoustically or visually) of them. Unsurprisingly, a very influential paper to her career was Peter Tyack's [Extreme diving of beaked whales](https://journals.biologists.com/jeb/article/209/21/4238/16329/Extreme-diving-of-beaked-whales), as it provided one of the first looks into this elusive genus of whales. She has two young children that keep her busy outside of work.
