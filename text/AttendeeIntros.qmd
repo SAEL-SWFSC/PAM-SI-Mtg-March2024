@@ -2,10 +2,6 @@
 title: Introduction to Meeting Attendees
 ---
 
-### \\\[Insert Image\\\] Name, \*Institution\* (using Header 3)
-
-Write \\\~ 3 sentences about yourself (the work you do, what you do for fun). Bonus if you'd like to cite a favorite publication (yours or others).
-
 ## For detailed instructions, see [OpenScience website](https://sael-swfsc.github.io/OpenScience/content/prep/PAM-SI-Mtg-Prep-step4.html)
 
 ```{=openxml}
