@@ -8,6 +8,15 @@ title: Introduction to Meeting Attendees
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 ## 
+### ![](images/MarlaHolt-01.jpg){width="309"}
+
+### Marla Holt, [*NWFSC*](https://www.fisheries.noaa.gov/west-coast/science-data/southern-resident-killer-whale-noise-and-disturbance-research)
+
+Marla Holt is a Research Wildlife Biologist for the NWFSC Marine Mammal Ecology Team in Seattle, WA. Her current research focuses on the effects of noise on sound use and behavior of endangered killer whales. When not working, she enjoys skiing, dancing and attending various events with her sports enthusiastic family.
+
+### Manolo Castellote, [*AFSC*](https://www.fisheries.noaa.gov/about/marine-mammal-laboratory) *& [CICOES](https://cicoes.uw.edu/)*
+
+Manolo is a U. of Washington employee working for MML/AFSC through the cooperative institute CICOES. He started at MML as a postdoc in 2010 to apply acoustics to Cook Inlet Beluga (CIB) to expand knowledge on seasonal distribution and effects of noise, but soon got involved in other PAM projects for MML, often in collaboration with Catherine Berchok's group. He continues do do beluga PAM in Cook Inlet and other regions of AK, but is also involved in work on other species in topics including hearing, behavioral response, noise mitigation, noise regulation, and soundscape characterization.
 
 ### ![](images/Cory-Hom-Weaver.jpg){width="276"}
 
