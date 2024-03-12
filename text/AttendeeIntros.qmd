@@ -9,6 +9,18 @@ title: Introduction to Meeting Attendees
 ```
 ## 
 
+### ![](images/MarlaHolt-01.jpg){width="219"}
+
+### Marla Holt, [*NWFSC*](https://www.fisheries.noaa.gov/west-coast/science-data/southern-resident-killer-whale-noise-and-disturbance-research)
+
+Marla Holt is a Research Wildlife Biologist for the NWFSC Marine Mammal Ecology Team in Seattle, WA. Her current research focuses on the effects of noise on sound use and behavior of endangered killer whales. When not working, she enjoys skiing, dancing and attending various events with her sports enthusiastic family.
+
+![](images/DSCF2675.JPG){width="304"}
+
+### Manolo Castellote, [*AFSC*](https://www.fisheries.noaa.gov/about/marine-mammal-laboratory) *& [CICOES](https://cicoes.uw.edu/)*
+
+Manolo is a U. of Washington employee working for MML/AFSC through the cooperative institute CICOES. He started at MML as a postdoc in 2010 to apply acoustics to Cook Inlet Beluga (CIB) to expand knowledge on seasonal distribution and effects of noise, but soon got involved in other PAM projects for MML, often in collaboration with Catherine Berchok's group. He continues do do beluga PAM in Cook Inlet and other regions of AK, but is also involved in work on other species in topics including hearing, behavioral response, noise mitigation, noise regulation, and soundscape characterization.
+
 ### ![](images/Cory-Hom-Weaver.jpg){width="276"}
 
 ### Cory Hom-Weaver, [*SWFSC*](https://www.fisheries.noaa.gov/west-coast/science-data/southwest-acoustic-ecology-lab)
@@ -33,7 +45,7 @@ Megan works with collaborative teams collecting PAM data, currently with the Sou
 
 Shannon leads the Southwest Acoustic Ecology Lab at SWFSC in La Jolla. She has worked with a variety of marine mammals (from vaquita to blue whales, and most everything in between) using mobile PAM platforms: towed arrays, sonobuoys, drifting buoys, and this year she'll begin to work with gliders.
 
-### ![](images/P1020809.JPG){width="501"}
+### ![](images/P1020809.JPG){width="340"}
 
 ### Annamaria DeAngelis, [*NEFSC*](https://www.fisheries.noaa.gov/contact/annamaria-deangelis-mres)
 
