@@ -21,7 +21,7 @@ Marla Holt is a Research Wildlife Biologist for the NWFSC Marine Mammal Ecology 
 
 Manolo is a U. of Washington employee working for MML/AFSC through the cooperative institute CICOES. He started at MML as a postdoc in 2010 to apply acoustics to Cook Inlet Beluga (CIB) to expand knowledge on seasonal distribution and effects of noise, but soon got involved in other PAM projects for MML, often in collaboration with Catherine Berchok's group. He continues do do beluga PAM in Cook Inlet and other regions of AK, but is also involved in work on other species in topics including hearing, behavioral response, noise mitigation, noise regulation, and soundscape characterization.
 
-### ![](images/Cory-Hom-Weaver.jpg){width="276"}
+### ![](images/CoryHomWeaver.jpg){width="276"}
 
 ### Cory Hom-Weaver, [*SWFSC*](https://www.fisheries.noaa.gov/west-coast/science-data/southwest-acoustic-ecology-lab)
 
@@ -55,4 +55,10 @@ Annamaria works in the NEFSC's Passive Acoustics Branch as the odontocete team l
 
 ### Samara Haver, [CIMERS](https://www.pmel.noaa.gov/people/dr-samara-haver)
 
-Samara is a research associate in the Oregon State University/NOAA PMEL Cooperative Institute for Marine Ecosystems and Resources Studies. Samara's research primarily focuses on marine soundscapes and ocean noise, and she collaborates closely with NOAA NMFS, ONMS, and the National Park Service to monitor and understand underwater sound in U.S. waters.
+Samara is a research associate in the Oregon State University/NOAA PMEL Cooperative Institute for Marine Ecosystems and Resources Studies. Samara's research primarily focuses on marine soundscapes and ocean noise, and she collaborates closely with NOAA NMFS, ONMS, and the National Park Service to monitor and understand underwater sound in U.S. waters.
+
+### ![](images/Kourtney_photo.JPG){width="410"}
+
+### Kourtney Burger, [*SWFSC*](https://www.fisheries.noaa.gov/west-coast/science-data/southwest-acoustic-ecology-lab)
+
+Kourtney started working with the Southwest Acoustic Ecology lab as a lab technician in 2022. She assists the team with data management and archive, data analysis, an general lab management and maintenance. Outside of work, she enjoys reading, spending time outside, and hanging out with her dog and family.
