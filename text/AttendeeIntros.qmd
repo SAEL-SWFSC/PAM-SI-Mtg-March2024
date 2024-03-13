@@ -68,3 +68,9 @@ Kourtney started working with the Southwest Acoustic Ecology lab as a lab techni
 ### Candice Emmons, [*NWFSC*](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)
 
 Candice is a Research Wildlife Biologist for the NWFSC Marine Mammal Ecology Team in Seattle, WA. She works on variety of projects including winter habitat use and foraging ecology of Southern resident killer whales. Her research has been focused on using PAM to better understand killer whale movements outside the Salish Sea.
+
+### ![](images/carrie.jpg){width="1112"}
+
+### Carrie Wall, [*CIRES*](https://cires.colorado.edu/people/carrie-bell)
+
+Carrie is a Research Scientist for the University of Colorado Boulder Cooperative Institute for Research in Environment Sciences and sits at the NOAA National Centers for Environmental Information in Boulder, CO. She leads the Ocean Acoustic Archives at NCEI encompassing 100s TB of water column sonar and passive acoustic data and leads several projects focused on building community tools and services to process data faster, more efficiently, and comparably. She's also been known to dabble in AI, most recently in making ridiculous pictures.
