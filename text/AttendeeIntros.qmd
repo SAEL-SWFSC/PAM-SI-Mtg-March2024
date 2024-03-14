@@ -71,6 +71,6 @@ Candice is a Research Wildlife Biologist for the NWFSC Marine Mammal Ecology Tea
 
 ### ![](images/carrie.jpg){width="300"}
 
-### Carrie Wall, [*CIRES*](https://cires.colorado.edu/people/carrie-bell)
+### Carrie Wall, [*CIRES-NCEI*](https://www.ncei.noaa.gov/products/passive-acoustic-data)
 
 Carrie is a research scientist for the University of Colorado Boulder Cooperative Institute for Research in Environment Sciences / NOAA National Centers for Environmental Information in Boulder, CO. She leads the Ocean Acoustic Archives at NCEI encompassing 100s TB of water column sonar and passive acoustic data and leads several projects focused on building community tools and services to process data faster, more efficiently, and comparably. She's also been known to dabble in AI, most recently in making ridiculous pictures.
