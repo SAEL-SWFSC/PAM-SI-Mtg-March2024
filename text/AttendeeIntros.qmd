@@ -74,3 +74,9 @@ Candice is a Research Wildlife Biologist for the NWFSC Marine Mammal Ecology Tea
 ### Carrie Wall, [*CIRES-NCEI*](https://www.ncei.noaa.gov/products/passive-acoustic-data)
 
 Carrie is a research scientist for the University of Colorado Boulder Cooperative Institute for Research in Environment Sciences / NOAA National Centers for Environmental Information in Boulder, CO. She leads the Ocean Acoustic Archives at NCEI encompassing 100s TB of water column sonar and passive acoustic data and leads several projects focused on building community tools and services to process data faster, more efficiently, and comparably. She's also been known to dabble in AI, most recently in making ridiculous pictures.
+
+### ![](images/TaikiCookies.jpg){width="300"}
+
+### Taiki Sakai [*SWFSC* / *NEFSC*](https://www.fisheries.noaa.gov/contact/taiki-sakai)
+
+Taiki has been working at the Southwest Fisheries Science Center since 2016, but will transition to the Northeast Fisheries Science Center in April. He loves beaked whales because they are adorable weirdos, but his work unfortunately mostly involves programming instead of hanging out with them. He has built a wide variety of PAM-related tools with the main focus of trying to simplify and streamline various PAM tasks for researchers in his group.
