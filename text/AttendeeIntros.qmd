@@ -80,3 +80,9 @@ Carrie is a research scientist for the University of Colorado Boulder Cooperativ
 ### Taiki Sakai [*SWFSC* / *NEFSC*](https://www.fisheries.noaa.gov/contact/taiki-sakai)
 
 Taiki has been working at the Southwest Fisheries Science Center since 2016, but will transition to the Northeast Fisheries Science Center in April. He loves beaked whales because they are adorable weirdos, but his work unfortunately mostly involves programming instead of hanging out with them. He has built a wide variety of PAM-related tools with the main focus of trying to simplify and streamline various PAM tasks for researchers in his group.
+
+![](images/PXL_20240120_171219685.MP~2.jpg){width="156"}
+
+### Ann Allen [*PIFSC*](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center)
+
+Ann is a Research Oceanographer with the Cetacean Research Program at PIFSC in Hawaii. She primarily manages the Pacific Islands Passive Acoustic Network, made up of HARP recordings collected at locations around the Pacific Islands, dating back to 2005 and currently totalling about 1.6M hours of recording. She has dabbled in cloud and AI to aid in analyzing the large dataset. In 2023, she transitioned to working remotely from Washington state.
