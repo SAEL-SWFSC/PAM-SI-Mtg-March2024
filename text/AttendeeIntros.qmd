@@ -97,5 +97,10 @@ Ann is a Research Oceanographer with the Cetacean Research Program at PIFSC in H
 
 ### Daniel Woodrich [*AFSC*](https://mail.google.com/mail/u/0/?to=daniel.woodrich@noaa.gov&su=Dan%20burning%20Question&body=Dan%20I%20Have%20A%20Question:%20&fs=1&tf=cm)
 
-Dan is a researcher and member of the IT office at the AFSC. He applies/develops AI/ML software to help streamline the work of the marine mammal passive acoustics group, and he provides a range of AI and cloud support across the science center through the IT role.  
+Dan is a researcher and member of the IT office at the AFSC. He applies/develops AI/ML software to help streamline the work of the marine mammal passive acoustics group, and he provides a range of AI and cloud support across the science center through the IT role.
 
+### ![](images/yb_hiking.jpg){width="280"}
+
+### Yvonne Barkley [*CIMAR*](https://www.soest.hawaii.edu/cimar/)- [*PIFSC*](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center)
+
+Yvonne is a Cetacean Acoustics Research with the Cooperative Institute for Marine and Atmospheric Research in support of the Cetacean Research Program at PIFSC. She works on several PAM projects, including acoustic classification models, spatial data analyses that integrate different data streams, and acoustic tracking/localization. On her down time, Yvonne enjoys not staring at a screen and can be found biking, surfing, or hiking.
