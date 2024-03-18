@@ -2,7 +2,7 @@
 title: Introduction to Meeting Attendees
 ---
 
-![](images/ludo_sefsc.jpg)
+![](images/ludo_sefsc.jpg){width="300"}
 
 ### Ludovic (Ludo) Tenorio-Hallé, [*SEFSC*](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center) */ [CIMAS](https://cimas.earth.miami.edu)*
 
