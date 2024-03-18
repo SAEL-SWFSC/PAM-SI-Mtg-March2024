@@ -2,7 +2,11 @@
 title: Introduction to Meeting Attendees
 ---
 
-## For detailed instructions, see [OpenScience website](https://sael-swfsc.github.io/OpenScience/content/prep/PAM-SI-Mtg-Prep-step4.html)
+![](images/ludo_sefsc.jpg)
+
+### Ludovic (Ludo) Tenorio-Hallé, [*SEFSC*](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center) */ [CIMAS](https://cimas.earth.miami.edu)*
+
+Ludo is a postdoctoral associate with University of Miami's Cooperative Institute for Marine and Atmospheric Studies (CIMAS) working with NOAA Southeast Fisheries Science Center. He is currently involved in various PAM projects in the southeast region, including passive acoustic localization and tracking of Rice's whales and quantifying the impacts of seismic airguns surveys in the Gulf of Mexico. All his work so far has been done in MATLAB, but he has never used R before. Ludo also just moved back to San Diego after spending a couple of years in Miami.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
