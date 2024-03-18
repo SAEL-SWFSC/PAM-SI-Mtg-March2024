@@ -22,7 +22,7 @@ This directory contains:
 
 -   .gitignore: *Identify items on local project repo that should NOT be pushed up to github*
 
--   📁 text: Report pages (***change this folder name to content!, need to clean up first!***)
+-   📁 text: Report pages
 
 -   📁 data: Contains all input data (and metadata) used in this report. (*I do not think we will have data, so we may delete this!*)
 
