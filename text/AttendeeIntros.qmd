@@ -92,3 +92,9 @@ Taiki has been working at the Southwest Fisheries Science Center since 2016, but
 ### Ann Allen [*PIFSC*](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center)
 
 Ann is a Research Oceanographer with the Cetacean Research Program at PIFSC in Hawaii. She primarily manages the Pacific Islands Passive Acoustic Network, made up of HARP recordings collected at locations around the Pacific Islands, dating back to 2005 and currently totalling about 1.6M hours of recording. She has dabbled in cloud and AI to aid in analyzing the large dataset. In 2023, she transitioned to working remotely from Washington state.
+
+### Daniel Woodrich [*AFSC*] (https://mail.google.com/mail/u/0/?to=daniel.woodrich@noaa.gov&su=Dan%20burning%20Question&body=Dan%20I%20Have%20A%20Question:%20&fs=1&tf=cm)
+
+Dan is a researcher and member of the IT office at the AFSC. He applies/develops AI/ML software to help streamline the work of the marine mammal passive acoustics group, and he provides a range of AI and cloud support across the science center through the IT role.  
+
+![](images/dfw.jpg){width="460"}
