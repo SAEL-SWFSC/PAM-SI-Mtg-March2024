@@ -8,6 +8,10 @@ title: Introduction to Meeting Attendees
 
 Write \~ 3 sentences about yourself (the work you do, what you do for fun). Bonus if you'd like to cite a favorite publication (yours or others).
 
+### \[https://www.fisheries.noaa.gov/s3/styles/media_250_x_250/s3/2021-05/250x250-SEFSC-CC-MelissaSoldevilla.jpg?itok=WDAORtk4\] Melissa Soldevilla, *SEFSC* (https://www.fisheries.noaa.gov/southeast/science-data/passive-acoustic-monitoring-southeast-united-states)
+Melissa is the Passive Acoustic Ecology Program lead for the Marine Mammal and Turtle Division at NOAA Fisheries' Southeast Fisheries Science Center located in Miami, Florida.  Her current research applies passive acoustic monitoring methods to study marine mammals and their ocean environment for use in management, restoration, and conservation. 
+
+
 ![](images/ludo_sefsc.jpg){width="300"}
 
 ### Ludovic (Ludo) Tenorio-Hallé, [*SEFSC*](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center) */ [CIMAS](https://cimas.earth.miami.edu)*
