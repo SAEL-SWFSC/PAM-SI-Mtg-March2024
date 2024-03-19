@@ -6,16 +6,15 @@ title: Introduction to Meeting Attendees
 
 ### \[Insert Image\] Name, *Institution* (using Header 3)
 
-Write \~ 3 sentences about yourself (the work you do, what you do for fun). Bonus if you'd like to cite a favorite publication (yours or others).
+Write \~ 3 sentences about yourself (the work you do, what you do for fun). Bonus if you'd like to cite a favorite publication (yours or others). Include a link to your institution/website
 
-### \[https://www.fisheries.noaa.gov/s3/styles/media_250_x_250/s3/2021-05/250x250-SEFSC-CC-MelissaSoldevilla.jpg?itok=WDAORtk4\] Melissa Soldevilla, *SEFSC* (https://www.fisheries.noaa.gov/southeast/science-data/passive-acoustic-monitoring-southeast-united-states)
-Melissa is the Passive Acoustic Ecology Program lead for the Marine Mammal and Turtle Division at NOAA Fisheries' Southeast Fisheries Science Center located in Miami, Florida.  Her current research applies passive acoustic monitoring methods to study marine mammals and their ocean environment for use in management, restoration, and conservation. 
+### \[https://www.fisheries.noaa.gov/s3/styles/media_250_x\_250/s3/2021-05/250x250-SEFSC-CC-MelissaSoldevilla.jpg?itok=WDAORtk4\] Melissa Soldevilla, *SEFSC* (https://www.fisheries.noaa.gov/southeast/science-data/passive-acoustic-monitoring-southeast-united-states)
 
+Melissa is the Passive Acoustic Ecology Program lead for the Marine Mammal and Turtle Division at NOAA Fisheries' Southeast Fisheries Science Center located in Miami, Florida. Her current research applies passive acoustic monitoring methods to study marine mammals and their ocean environment for use in management, restoration, and conservation.
 
 ### ![](images/IMG_6639-01.jpg){width="209"} Erin Oleson, [PIFSC](https://www.fisheries.noaa.gov/pacific-islands/population-assessments/passive-acoustics-pacific-islands)
 
 Erin is currently the Cetacean Research Program Leader in the Prtected Species Division of the Pacific Islands FIsheries Science Center. She has been working on cetacean assessment using passive acoustics since her doctoral work at SIO at least 20 years ago. She mainly spends her time thinking about false killer whales.
-
 
 ![](images/ludo_sefsc.jpg){width="300"}
 
