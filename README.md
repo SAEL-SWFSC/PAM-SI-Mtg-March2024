@@ -10,7 +10,7 @@ The meeting report is in Quarto Book format; this repository is based on the [NO
 
 This directory contains:
 
-\[*add link to folder on github for each of these tabs, this is a preliminary organization- may modify as report evolves. Also, in trying to clean out some of the unnecessary template info, I have created a 'delete' folder in many places. These will contain items I hope to delete from each folder. Just in case they create problems with the rendered output– I'll keep them there for now. Once we know we can render our project well, then we can delete the delete folders!*\]
+\[*add link to folder on github for each of these tabs, this is a preliminary organization- may modify as report evolves. Also, in trying to clean out some of the unnecessary template info, I have created a 'delete' folder in many places. These will contain items I hope to delete from each folder. Just in case they create problems with the rendered output-- I'll keep them there for now. Once we know we can render our project well, then we can delete the delete folders!*\]
 
 -   README.md: Read me Instructions for the front page of the Repository.
 
@@ -68,7 +68,7 @@ renv::dependencies()
 
 ## Disclaimer
 
-This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project content is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
+This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project content is provided on an 'as is' basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
 
 ## License addendum
 
