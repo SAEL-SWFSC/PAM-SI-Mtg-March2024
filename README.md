@@ -3,6 +3,7 @@
 This repository consists of documents related to the NOAA Fisheries Passive Acoustic Monitoring Strategic Initiative Meeting in March 2024 at Southwest Fisheries Science Center in La Jolla, CA.
 
 ## **How to Cite** \[TBD\]
+Fregosi Branch. 
 
 ## **Contents**
 
