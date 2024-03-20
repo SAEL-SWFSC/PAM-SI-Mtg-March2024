@@ -24,6 +24,7 @@ book:
   chapters:
     - index.qmd
     - text/AttendeeIntros.qmd
+    - text/PAM-SI-Mtg-Exercises-Soundscape.qmd
     - text/references.qmd
 
   site-url: https://sael-swfsc.github.io/PAM-SI-Mtg-March2024/
