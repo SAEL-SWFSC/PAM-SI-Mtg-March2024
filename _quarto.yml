@@ -35,6 +35,7 @@ book:
 
   chapters:
     - index.qmd
+    - content/Acknowledgements.qmd
     - text/AttendeeIntros.qmd
     - text/references.qmd
     - text/PAM-SI-Mtg-Exercises-Climate.qmd
