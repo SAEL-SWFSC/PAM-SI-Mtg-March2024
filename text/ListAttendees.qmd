@@ -1,0 +1,31 @@
+# List of Attendees
+
+| Names             | Affiliation | Email |
+|-------------------|-------------|-------|
+| Manolo Castellote | AFSC        |       |
+| Carrie Wall Bell  | NCEI        |       |
+| Genevieve Davis   | NEFSC       |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+|                   |             |       |
+
+: List of Attendees
