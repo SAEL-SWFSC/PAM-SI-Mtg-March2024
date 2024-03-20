@@ -134,3 +134,9 @@ Jennifer is a Research Biologist in the Cetacean Research Program at the Pacific
 ### Jason Gedamke, *NMFS [OST](https://www.fisheries.noaa.gov/about/office-science-and-technology)*
 
 Jason manages the Ocean Acoustic Program (OAP) within NMFS' Office of Science & Technology. The OAP supports research examining the potential impacts of anthropogenic sound on marine animals by increasing understanding of how marine animals use sound, how human activities are changing the underwater soundscape, and how these changes may impact marine life and ecosystems.
+
+![](images/CB pic.jpg){width="250"}
+
+### Catherine Berchok - [*AFSC*](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center)
+
+Catherine has led the Passive Acoustics Group at the AFSC Marine Mammal Lab since 2007. Her team uses a combination of long-term moorings and real-time sonobuoys to monitor biological (marine mammal), anthropogenic, and environmental sounds in Alaskan waters, for comparison with oceanographic and prey data. At work, she enjoys being at sea, writing code, and the challenge of studying animals without being able to see them. At home, her interests involve spending time outdoors with her husband and son. She is partial to Seattle's forests, local bands, and rock-free gardening.
