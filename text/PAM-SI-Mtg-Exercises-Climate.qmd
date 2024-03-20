@@ -9,10 +9,9 @@ One sentence description of the goal for this project
 ## Project Team
 
 | Name of Lead                | Name of Lead                |                             |
-|-----------------------------|-----------------------------|-----------------------------|
+|------------------------|------------------------|------------------------|
 | Name of Project Team Member | Name of Project Team Member | Name of Project Team Member |
 | Name of Project Team Member | Name of Project Team Member |                             |
-|                             |                             |                             |
 
 ## Summary
 
