@@ -131,6 +131,6 @@ Jennifer is a Research Biologist in the Cetacean Research Program at the Pacific
 
 ![](images/JTboat.jpg){width="287"}
 
-### Jason Gedamke, NMFS [OST](https://www.fisheries.noaa.gov/about/office-science-and-technology)
+### Jason Gedamke, *NMFS [OST](https://www.fisheries.noaa.gov/about/office-science-and-technology)*
 
 Jason manages the Ocean Acoustic Program (OAP) within NMFS' Office of Science & Technology. The OAP supports research examining the potential impacts of anthropogenic sound on marine animals by increasing understanding of how marine animals use sound, how human activities are changing the underwater soundscape, and how these changes may impact marine life and ecosystems.
