@@ -8,7 +8,7 @@ title: Introduction to Meeting Attendees
 
 Write \~ 3 sentences about yourself (the work you do, what you do for fun). Bonus if you'd like to cite a favorite publication (yours or others). Include a link to your institution/website
 
-### \[https://www.fisheries.noaa.gov/s3/styles/media_250_x\_250/s3/2021-05/250x250-SEFSC-CC-MelissaSoldevilla.jpg?itok=WDAORtk4\] Melissa Soldevilla, *SEFSC* (https://www.fisheries.noaa.gov/southeast/science-data/passive-acoustic-monitoring-southeast-united-states)
+### \[https://www.fisheries.noaa.gov/s3/styles/media_250_x_250/s3/2021-05/250x250-SEFSC-CC-MelissaSoldevilla.jpg?itok=WDAORtk4\] Melissa Soldevilla, *SEFSC* (https://www.fisheries.noaa.gov/southeast/science-data/passive-acoustic-monitoring-southeast-united-states)
 
 Melissa is the Passive Acoustic Ecology Program lead for the Marine Mammal and Turtle Division at NOAA Fisheries' Southeast Fisheries Science Center located in Miami, Florida. Her current research applies passive acoustic monitoring methods to study marine mammals and their ocean environment for use in management, restoration, and conservation.
 
@@ -128,3 +128,15 @@ Yvonne is a Cetacean Acoustics Research with the Cooperative Institute for Marin
 ### Jennifer McCullough [*PIFSC*](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center)
 
 Jennifer is a Research Biologist in the Cetacean Research Program at the Pacific Islands Fisheries Science Center. She has worked in the field of acoustics for over 20 years focusing on various marine mammals, bears, and birds. Current work focuses on acoustic detection and classification of false killer whales and various species of beaked whales.
+
+![](images/JTboat.jpg){width="287"}
+
+### Jason Gedamke, *NMFS [OST](https://www.fisheries.noaa.gov/about/office-science-and-technology)*
+
+Jason manages the Ocean Acoustic Program (OAP) within NMFS' Office of Science & Technology. The OAP supports research examining the potential impacts of anthropogenic sound on marine animals by increasing understanding of how marine animals use sound, how human activities are changing the underwater soundscape, and how these changes may impact marine life and ecosystems.
+
+![](images/CB pic.jpg){width="250"}
+
+### Catherine Berchok - [*AFSC*](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center)
+
+Catherine has led the Passive Acoustics Group at the AFSC Marine Mammal Lab since 2007. Her team uses a combination of long-term moorings and real-time sonobuoys to monitor biological (marine mammal), anthropogenic, and environmental sounds in Alaskan waters, for comparison with oceanographic and prey data. At work, she enjoys being at sea, writing code, and the challenge of studying animals without being able to see them. At home, her interests involve spending time outdoors with her husband and son. She is partial to Seattle's forests, local bands, and rock-free gardening.

@@ -8,24 +8,38 @@ book:
   date: March 2024
   downloads: [pdf, docx]
   author:
-  - name: Matti Meikäläinen
-    email: matti@jy.fi
+  - name: Sofie Van Parijs
+    email: sofie.vanparijs@noaa.gov
     affiliations:
-      - name: University of Kemijärvi
-        department: Department of Biological and Environmental Science
-        address: Kylmäniementie 79, 98120, KEMIJÄRVI, Finland
-  - name: Ashok Kumar
-    email: akumar@uminn.edu
+      - name: NOAA Fisheries
+        department: NEFSC
+        address: 166 Water Street, Woods Hole, MA
+  - name: Catherine Berchok
+    email: catherine.berchok@noaa.gov
     affiliations:
-      - name: University of Minnesota
-        department: Department of Mathematics
-        address: 4444 Minneo Drive, Minneapolis, MN
+      - name: NOAA Fisheries
+        department: AFSC
+        address: 7600 Sand Point Way NE, Seattle, WA
+  - name: Jason Gedamke
+    email: jason.gedamke@noaa.gov
+    affiliations:
+      - name: NOAA Fisheries
+        department: S&T
+        address:  1315 E West Hwy Silver Spring, MD
+  - name: Marla Holt 
+    email: marla.holt@noaa.gov
+    affiliations:
+      - name: NOAA Fisheries
+        department: NWFSC
+        address: 	2725 Montlake Boulevard East, Seattle, WA
 
   chapters:
     - index.qmd
-    - text/PAM-SI-Mtg-Exercises-StockAssess.qmd
+    - content/Acknowledgements.qmd
     - text/AttendeeIntros.qmd
     - text/references.qmd
+    - text/PAM-SI-Mtg-Exercises-Climate.qmd
+    - text/PAM-SI-Mtg-Exercises-StockAssess.qmd
 
   site-url: https://sael-swfsc.github.io/PAM-SI-Mtg-March2024/
   repo-url: https://github.com/SAEL-SWFSC/PAM-SI-Mtg-March2024
