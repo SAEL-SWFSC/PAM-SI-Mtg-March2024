@@ -41,6 +41,7 @@ book:
     - text/references.qmd
     - text/PAM-SI-Mtg-Exercises-Climate.qmd
     - text/PAM-SI-Mtg-Exercises-StockAssess.qmd
+    - text/ListAttendees.qmd
 
   site-url: https://sael-swfsc.github.io/PAM-SI-Mtg-March2024/
   repo-url: https://github.com/SAEL-SWFSC/PAM-SI-Mtg-March2024
