@@ -1,31 +1,38 @@
 # List of Attendees
 
-| Names             | Affiliation | Email |
-|-------------------|-------------|-------|
-| Manolo Castellote | AFSC        |       |
-| Carrie Wall Bell  | NCEI        |       |
-| Genevieve Davis   | NEFSC       |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
-|                   |             |       |
+**\
+**
+
+**Carrie Wall Bell - NOAA Affiliate \<carrie.wall\@noaa.gov\>,**
+
+**Erin Oleson \<erin.oleson\@noaa.gov\>,**
+
+| Names               | Affiliation | Email                         |
+|---------------------|-------------|-------------------------------|
+| Manolo Castellote   | AFSC        |                               |
+| Carrie Wall Bell    | NCEI        | carrie.wall\@noaa.gov         |
+| Genevieve Davis     | NEFSC       |                               |
+| Shannon Rankin      | SWFSC       | shannon.rankin\@noaa.gov      |
+| Marla Holt          | NWFSC       | marla.holt\@noaa.gov          |
+| Ann Allen           | PIFSC       | ann.allen\@noaa.gov           |
+| Taiki Sakai         | SWFSC       | taiki.sakai\@noaa.gov         |
+| Sofie VanParijs     | NEFSC       | sofie.vanparijs\@noaa.gov     |
+| Samara Haver        |             | samara.haver\@noaa.gov        |
+| Rebecca Vanhoeck    |             | rebecca.vanhoeck\@noaa.gov    |
+| Melissa Soldevilla  | SEFSC       | melissa.soldevilla\@noaa.gov  |
+| Megan McKenna       |             | megan.mckenna\@noaa.gov       |
+| Jennifer Keating    | PIFSC       | jennifer.mccullough\@noaa.gov |
+| Jason Gedamke       | OST         | jason.gedamke\@noaa.gov       |
+| Genevieve Davis     | NEFSC       | genevieve.davis\@noaa.gov     |
+| Catherine Berchok   | AFSC        | catherine.berchok\@noaa.gov   |
+| Daniel Woodrich     | AFSC        | daniel.woodrich\@noaa.gov     |
+| Annamaria DeAngelis | NEFSC       | annamaria.deangelis\@noaa.gov |
+| Cory Hom-Weaver     | SWFSC       | cory.hom-weaver\@noaa.gov     |
+| Kourtney Burger     | SWFSC       | kourtney.burger\@noaa.gov     |
+| Yvonne Barkley      | PIFSC       | yvonne.barkley\@noaa.gov      |
+| Candice Emmons      | NWFSC       | candice.emmons\@noaa.gov      |
+| Ludovic Tenorio     | SEFSC       | ludovic.tenorio\@noaa.gov     |
+| Erin Oleson         | PIFSC       | erin.oleson\@noaa.gov         |
+|                     |             |                               |
 
 : List of Attendees
