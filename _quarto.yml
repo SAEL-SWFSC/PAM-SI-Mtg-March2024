@@ -32,7 +32,31 @@ book:
       - name: NOAA Fisheries
         department: NWFSC
         address: 	2725 Montlake Boulevard East, Seattle, WA
-
+  - name: Erin Oleson 
+    email: erin.oleson@noaa.gov
+    affiliations:
+      - name: NOAA Fisheries
+        department: PIFSC
+        address: 	1845 Wasp Blvd, Honolulu, HI
+  - name: Shannon Rankin 
+    email: shannon.rankin@noaa.gov
+    affiliations:
+      - name: NOAA Fisheries
+        department: SWFSC
+        address: 8901 La Jolla Shores Dr.
+  - name: Melissa Soldevilla 
+    email: melissa.soldevilla@noaa.gov
+    affiliations:
+      - name: NOAA Fisheries
+        department: SEFSC
+        address: 75 Virginia Beach Drive, Miami, FL 33149
+  - name: Carrie Wall Bell
+    email: carrie.wall@noaa.gov
+    affiliations:
+      - name: University of Colorado Boulder, Cooperative Institute for Research in Environmental Sciences
+        department: NOAA National Centers for Environmental Information
+        address: 325 Broadway, Boulder, CO 80305
+        
   chapters:
     - index.qmd
     - text/Intro.qmd
