@@ -1,0 +1,254 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "First Passive Acoustic Monitoring Strategic Initiative Workshop Report",
+    "section": "",
+    "text": "Citation\nPAM-SI Meeting Repository"
+  },
+  {
+    "objectID": "text/Intro.html",
+    "href": "text/Intro.html",
+    "title": "First Passive Acoustic Monitoring Strategic Initiative Workshop Report",
+    "section": "",
+    "text": "Introduction\nNMFS’ Passive Acoustic Monitoring (PAM) programs focus on collecting underwater sound recordings of the marine environment. Identification of the sounds produced by protected marine mammal species, fishes, or humans allows for an understanding of marine soundscapes. PAM data collection provides information on changes in species distribution, behavior and/or density, in addition to assessing impacts of man made noise. The technological revolution in PAM over the past decade has allowed both acoustic recorders and analytical approaches to increasingly become an integral part of NMFS’s core science mission. PAM’s capacity for creating long term time series makes it an ideal approach for evaluating changes in species stocks, ecosystem interactions and climate change. There currently are 7 NMFS PAM programs including each NMFS Science Center and the S&T’s Ocean Acoustic Program. PAM data can be archival (recorder needs to be recovered at sea before data can be accessed) or real time (data is transmitted via cable or satellite as it is collected). Currently, NMFS PAM programs use all available acoustic platforms from stationary bottom mounted to mobile towed, drifting, or UxS platforms. However, each program varies in the level of technological development and operational capacity. Over the next 4 years we aim to work to resolve the core roadblocks that hold back PAM’s ability to be fully operational across NMFS.\nThe PAM SI projects focus on; 1) establishing a Pacific region glider program to mirror that in the Atlantic, 2) developing National PAM Cloud capabilities to cope with exponential growth in data and processing needs, 3) expand the existing PACM decision support tool to a National level tool, and 4) streamlining analytical and data integration to remove redundancy and increase across FMC efficiencies."
+  },
+  {
+    "objectID": "text/Github.html#target-outcome",
+    "href": "text/Github.html#target-outcome",
+    "title": "2  PAM Github",
+    "section": "2.1 Target Outcome",
+    "text": "2.1 Target Outcome\nOne sentence description of the goal for this project"
+  },
+  {
+    "objectID": "text/Github.html#project-team",
+    "href": "text/Github.html#project-team",
+    "title": "2  PAM Github",
+    "section": "2.2 Project Team",
+    "text": "2.2 Project Team\n\n\n\n\n\n\n\n\nShannon Rankin\nRebecca VanHoeck\n\n\n\n\n\nName of Project Team Member\nName of Project Team Member\nName of Project Team Member\n\n\nName of Project Team Member\nName of Project Team Member"
+  },
+  {
+    "objectID": "text/Github.html#summary",
+    "href": "text/Github.html#summary",
+    "title": "2  PAM Github",
+    "section": "2.3 Summary",
+    "text": "2.3 Summary\nOne paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives."
+  },
+  {
+    "objectID": "text/Github.html#action-items",
+    "href": "text/Github.html#action-items",
+    "title": "2  PAM Github",
+    "section": "2.4 Action Items",
+    "text": "2.4 Action Items\n\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year."
+  },
+  {
+    "objectID": "text/NCEI.html#target-outcome",
+    "href": "text/NCEI.html#target-outcome",
+    "title": "3  NCEI Archiving",
+    "section": "3.1 Target Outcome",
+    "text": "3.1 Target Outcome\nOne sentence description of the goal for this project"
+  },
+  {
+    "objectID": "text/NCEI.html#project-team",
+    "href": "text/NCEI.html#project-team",
+    "title": "3  NCEI Archiving",
+    "section": "3.2 Project Team",
+    "text": "3.2 Project Team\n\n\n\n\n\n\n\n\nCarrie Wall-Bell\nJason Gedamke\n\n\n\n\n\nName of Project Team Member\nName of Project Team Member\nName of Project Team Member\n\n\nName of Project Team Member\nName of Project Team Member"
+  },
+  {
+    "objectID": "text/NCEI.html#summary",
+    "href": "text/NCEI.html#summary",
+    "title": "3  NCEI Archiving",
+    "section": "3.3 Summary",
+    "text": "3.3 Summary\nOne paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives."
+  },
+  {
+    "objectID": "text/NCEI.html#action-items",
+    "href": "text/NCEI.html#action-items",
+    "title": "3  NCEI Archiving",
+    "section": "3.4 Action Items",
+    "text": "3.4 Action Items\n\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\n\n\nList of PAM Projects to be provided to NCEI\n\n\n\n\n\n\n\n\n\n\nFMC\nProject/Data Sets\nYear of Delivery\nData Type\nData Size\nData Location"
+  },
+  {
+    "objectID": "text/Cloud.html#target-outcome",
+    "href": "text/Cloud.html#target-outcome",
+    "title": "4  Cloud Computing and EDA/IT Needs",
+    "section": "4.1 Target Outcome",
+    "text": "4.1 Target Outcome\nOne sentence description of the goal for this project"
+  },
+  {
+    "objectID": "text/Cloud.html#project-team",
+    "href": "text/Cloud.html#project-team",
+    "title": "4  Cloud Computing and EDA/IT Needs",
+    "section": "4.2 Project Team",
+    "text": "4.2 Project Team\n\n\n\n\n\n\n\n\nName of Lead\nName of Lead\n\n\n\n\n\nSofie Van Parijs\nName of Project Team Member\nName of Project Team Member\n\n\nDaniel Woodrich\nName of Project Team Member"
+  },
+  {
+    "objectID": "text/Cloud.html#summary",
+    "href": "text/Cloud.html#summary",
+    "title": "4  Cloud Computing and EDA/IT Needs",
+    "section": "4.3 Summary",
+    "text": "4.3 Summary\nOne paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives."
+  },
+  {
+    "objectID": "text/Cloud.html#action-items",
+    "href": "text/Cloud.html#action-items",
+    "title": "4  Cloud Computing and EDA/IT Needs",
+    "section": "4.4 Action Items",
+    "text": "4.4 Action Items\n\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year."
+  },
+  {
+    "objectID": "text/Detection.html#target-outcome",
+    "href": "text/Detection.html#target-outcome",
+    "title": "5  Acoustic Detection Software",
+    "section": "5.1 Target Outcome",
+    "text": "5.1 Target Outcome\nOne sentence description of the goal for this project"
+  },
+  {
+    "objectID": "text/Detection.html#project-team",
+    "href": "text/Detection.html#project-team",
+    "title": "5  Acoustic Detection Software",
+    "section": "5.2 Project Team",
+    "text": "5.2 Project Team\n\n\n\n\n\n\n\n\nTaiki Sakai\nAnnamaria DeAngelis\n\n\n\n\n\nName of Project Team Member\nName of Project Team Member\nName of Project Team Member\n\n\nName of Project Team Member\nName of Project Team Member"
+  },
+  {
+    "objectID": "text/Detection.html#summary",
+    "href": "text/Detection.html#summary",
+    "title": "5  Acoustic Detection Software",
+    "section": "5.3 Summary",
+    "text": "5.3 Summary\nOne paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives."
+  },
+  {
+    "objectID": "text/Detection.html#action-items",
+    "href": "text/Detection.html#action-items",
+    "title": "5  Acoustic Detection Software",
+    "section": "5.4 Action Items",
+    "text": "5.4 Action Items\n\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year."
+  },
+  {
+    "objectID": "text/Soundscape.html#target-outcome",
+    "href": "text/Soundscape.html#target-outcome",
+    "title": "6  Soundscape Tools, Metrics, Analyses",
+    "section": "6.1 Target Outcome",
+    "text": "6.1 Target Outcome\nOne sentence description of the goal for this project"
+  },
+  {
+    "objectID": "text/Soundscape.html#project-team",
+    "href": "text/Soundscape.html#project-team",
+    "title": "6  Soundscape Tools, Metrics, Analyses",
+    "section": "6.2 Project Team",
+    "text": "6.2 Project Team\n\n\n\nName of Lead\nName of Lead\n\n\n\n\n\nMarla\nMegan\nSamara\n\n\nName of Project Team Member\nName of Project Team Member"
+  },
+  {
+    "objectID": "text/Soundscape.html#summary",
+    "href": "text/Soundscape.html#summary",
+    "title": "6  Soundscape Tools, Metrics, Analyses",
+    "section": "6.3 Summary",
+    "text": "6.3 Summary\nOne paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives."
+  },
+  {
+    "objectID": "text/Soundscape.html#action-items",
+    "href": "text/Soundscape.html#action-items",
+    "title": "6  Soundscape Tools, Metrics, Analyses",
+    "section": "6.4 Action Items",
+    "text": "6.4 Action Items\n\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year."
+  },
+  {
+    "objectID": "text/Climate.html#target-outcome",
+    "href": "text/Climate.html#target-outcome",
+    "title": "7  Climate and Long Term Data Trends",
+    "section": "7.1 Target Outcome",
+    "text": "7.1 Target Outcome\nOne sentence description of the goal for this project"
+  },
+  {
+    "objectID": "text/Climate.html#project-team",
+    "href": "text/Climate.html#project-team",
+    "title": "7  Climate and Long Term Data Trends",
+    "section": "7.2 Project Team",
+    "text": "7.2 Project Team\n\n\n\n\n\n\n\n\nCatherine Berchok\nGenevieve Davis\n\n\n\n\n\nName of Project Team Member\nName of Project Team Member\nName of Project Team Member\n\n\nName of Project Team Member\nName of Project Team Member"
+  },
+  {
+    "objectID": "text/Climate.html#summary",
+    "href": "text/Climate.html#summary",
+    "title": "7  Climate and Long Term Data Trends",
+    "section": "7.3 Summary",
+    "text": "7.3 Summary\nOne paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives."
+  },
+  {
+    "objectID": "text/Climate.html#action-items",
+    "href": "text/Climate.html#action-items",
+    "title": "7  Climate and Long Term Data Trends",
+    "section": "7.4 Action Items",
+    "text": "7.4 Action Items\n\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year."
+  },
+  {
+    "objectID": "text/StockAssess.html#target-outcome",
+    "href": "text/StockAssess.html#target-outcome",
+    "title": "8  PAM Data Integration for Stock Assessments",
+    "section": "8.1 Target Outcome",
+    "text": "8.1 Target Outcome\nOne sentence description of the goal for this project"
+  },
+  {
+    "objectID": "text/StockAssess.html#project-team",
+    "href": "text/StockAssess.html#project-team",
+    "title": "8  PAM Data Integration for Stock Assessments",
+    "section": "8.2 Project Team",
+    "text": "8.2 Project Team\n\n\n\n\n\n\n\n\nName of Lead\nName of Lead\n\n\n\n\n\nErin Oleson\nName of Project Team Member\nName of Project Team Member\n\n\nMegan McKena\nName of Project Team Member"
+  },
+  {
+    "objectID": "text/StockAssess.html#summary",
+    "href": "text/StockAssess.html#summary",
+    "title": "8  PAM Data Integration for Stock Assessments",
+    "section": "8.3 Summary",
+    "text": "8.3 Summary\nOne paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives."
+  },
+  {
+    "objectID": "text/StockAssess.html#action-items",
+    "href": "text/StockAssess.html#action-items",
+    "title": "8  PAM Data Integration for Stock Assessments",
+    "section": "8.4 Action Items",
+    "text": "8.4 Action Items\n\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year."
+  },
+  {
+    "objectID": "text/Management.html#target-outcome",
+    "href": "text/Management.html#target-outcome",
+    "title": "9  Management Outcomes and Tools",
+    "section": "9.1 Target Outcome",
+    "text": "9.1 Target Outcome\nOne sentence description of the goal for this project"
+  },
+  {
+    "objectID": "text/Management.html#project-team",
+    "href": "text/Management.html#project-team",
+    "title": "9  Management Outcomes and Tools",
+    "section": "9.2 Project Team",
+    "text": "9.2 Project Team\n\n\n\n\n\n\n\n\nName of Lead\nName of Lead\n\n\n\n\n\nSofie Van Parijs\nName of Project Team Member\nName of Project Team Member\n\n\nName of Project Team Member\nName of Project Team Member"
+  },
+  {
+    "objectID": "text/Management.html#summary",
+    "href": "text/Management.html#summary",
+    "title": "9  Management Outcomes and Tools",
+    "section": "9.3 Summary",
+    "text": "9.3 Summary\nOne paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives."
+  },
+  {
+    "objectID": "text/Management.html#action-items",
+    "href": "text/Management.html#action-items",
+    "title": "9  Management Outcomes and Tools",
+    "section": "9.4 Action Items",
+    "text": "9.4 Action Items\n\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year.\nShort Name for Action Item: Description of Action Item in text with as much detail as needed (but no more than needed!). Deadline: Month, Year."
+  },
+  {
+    "objectID": "text/ListAttendees.html",
+    "href": "text/ListAttendees.html",
+    "title": "10  List of Attendees",
+    "section": "",
+    "text": "Carrie Wall Bell - NOAA Affiliate <carrie.wall@noaa.gov>,\nErin Oleson <erin.oleson@noaa.gov>,\n\nList of Attendees\n\n\nNames\nAffiliation\nEmail\n\n\n\n\nManolo Castellote\nAFSC\n\n\n\nCarrie Wall Bell\nNCEI\ncarrie.wall@noaa.gov\n\n\nGenevieve Davis\nNEFSC\n\n\n\nShannon Rankin\nSWFSC\nshannon.rankin@noaa.gov\n\n\nMarla Holt\nNWFSC\nmarla.holt@noaa.gov\n\n\nAnn Allen\nPIFSC\nann.allen@noaa.gov\n\n\nTaiki Sakai\nSWFSC\ntaiki.sakai@noaa.gov\n\n\nSofie VanParijs\nNEFSC\nsofie.vanparijs@noaa.gov\n\n\nSamara Haver\n\nsamara.haver@noaa.gov\n\n\nRebecca Vanhoeck\n\nrebecca.vanhoeck@noaa.gov\n\n\nMelissa Soldevilla\nSEFSC\nmelissa.soldevilla@noaa.gov\n\n\nMegan McKenna\n\nmegan.mckenna@noaa.gov\n\n\nJennifer Keating\nPIFSC\njennifer.mccullough@noaa.gov\n\n\nJason Gedamke\nOST\njason.gedamke@noaa.gov\n\n\nGenevieve Davis\nNEFSC\ngenevieve.davis@noaa.gov\n\n\nCatherine Berchok\nAFSC\ncatherine.berchok@noaa.gov\n\n\nDaniel Woodrich\nAFSC\ndaniel.woodrich@noaa.gov\n\n\nAnnamaria DeAngelis\nNEFSC\nannamaria.deangelis@noaa.gov\n\n\nCory Hom-Weaver\nSWFSC\ncory.hom-weaver@noaa.gov\n\n\nKourtney Burger\nSWFSC\nkourtney.burger@noaa.gov\n\n\nYvonne Barkley\nPIFSC\nyvonne.barkley@noaa.gov\n\n\nCandice Emmons\nNWFSC\ncandice.emmons@noaa.gov\n\n\nLudovic Tenorio\nSEFSC\nludovic.tenorio@noaa.gov\n\n\nErin Oleson\nPIFSC\nerin.oleson@noaa.gov"
+  },
+  {
+    "objectID": "text/Acknowledgements.html",
+    "href": "text/Acknowledgements.html",
+    "title": "11  Acknowledgements",
+    "section": "",
+    "text": "List of all participants here."
+  }
+]
