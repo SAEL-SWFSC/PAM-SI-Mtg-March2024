@@ -26,18 +26,23 @@ One paragraph summary of (1) what work will be done, (2) how it fills a research
 
 3.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
 
-| FMC | **Project/Data Sets** | **Year of Delivery** | Data Type | Data Size | Data Location |
-|-----|-----------------------|----------------------|-----------|-----------|---------------|
-|     |                       |                      |           |           |               |
-|     |                       |                      |           |           |               |
-|     |                       |                      |           |           |               |
-|     |                       |                      |           |           |               |
-|     |                       |                      |           |           |               |
-|     |                       |                      |           |           |               |
-|     |                       |                      |           |           |               |
-|     |                       |                      |           |           |               |
-|     |                       |                      |           |           |               |
-|     |                       |                      |           |           |               |
-|     |                       |                      |           |           |               |
+| FMC   | **Project/Data Sets**                    | **Year of Delivery** | Data Type                   | Data Size | Data Location                    |
+|--------|---------------------|--------|----------------|--------|------------|
+| NEFSC | AMAPPS                                   | FY24                 | Towed Array                 | 30 TB     | Local Server                     |
+| SWFSC | ETP (Digitize Analog)                    | FY24                 | Towed Array                 | 5 TB      | Analog Tape Drives               |
+| PIFSC | PacMAPPS - Pacific Islands               | FY24                 | Drifter, Towed Array        | 100 TB    | Local Server                     |
+| SWFSC | ADRIFT (\~100 datasets)                  | FY24                 | Drifter, Soundscape metrics | 40 TB     | Local Server                     |
+| SWFSC | CCES (\~20 datasets)                     | FY24                 | Drifter, Soundscape metrics | 15 TB     | Local Server                     |
+| SWFSC | PASCAL (\~30 datasets)                   | FY24                 | Drifter, Soundscape metrics | 20 TB     | Local Server                     |
+| SEFSC | Rice's whale Vessel Surveys              | FY25                 | Sonobuoy                    | 3 TB      | External drives                  |
+| PIFSC | Pacific Islands Passive Acoustic Network | FY25                 | Bottom Mounted              | 250 TB    | Local Server                     |
+| SWFSC | PacMAPPs - West Coast                    | FY25                 | Drifter/Glider              | 30 TB     | Local Server                     |
+| AFSC  | All datasets                             | FY25                 | Bottom Mounted              | 65 TB     | Local NAS and External drives    |
+| SEFSC | Rice's whale moorings                    | FY26                 | Bottom Mounted              | 100 TB    | Local Server                     |
+| NEFSC | Southern New England Wind Energy Area    | FY26                 | Bottom Mounted              | 300 TB    | Local Server                     |
+| OAP   | NRS                                      | FY26                 | Bottom Mounted              | 30 TB     | Local Server                     |
+| NWFSC | Outer Coast (Huff)                       | FY26                 | Bottom Mounted              | 30 TB     | Local Server and External drives |
+| NWFSC | PNW coastal recorder                     | FY26                 | Bottom Mounted              | 10 TB     | Local Server and External drives |
+| NWFSC | 2006 -2011 PODS                          | FY26                 | Bottom Mounted              | 5 TB      | Local Server and External drives |
 
 : List of PAM Projects to be provided to NCEI

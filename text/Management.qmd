@@ -6,13 +6,10 @@ title: Management Outcomes and Tools
 
 One sentence description of the goal for this project
 
-## Project Team
+## Discussion Leads
 
-| Name of Lead                | Name of Lead                |                             |
-|------------------------|------------------------|------------------------|
-| Sofie Van Parijs            | Name of Project Team Member | Name of Project Team Member |
-| Name of Project Team Member | Name of Project Team Member |                             |
-|                             |                             |                             |
+| Sofie Van Parijs | Jason Gedamke |     |
+|------------------|---------------|-----|
 
 ## Summary
 

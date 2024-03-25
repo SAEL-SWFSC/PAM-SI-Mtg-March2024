@@ -8,7 +8,7 @@ One sentence description of the goal for this project
 
 ## Project Team
 
-| Shannon Rankin              | Rebecca VanHoeck            |                             |
+| Shannon Rankin              | Rebecca Van Hoeck           |                             |
 |------------------------|------------------------|------------------------|
 | Name of Project Team Member | Name of Project Team Member | Name of Project Team Member |
 | Name of Project Team Member | Name of Project Team Member |                             |
@@ -25,3 +25,16 @@ One paragraph summary of (1) what work will be done, (2) how it fills a research
 2.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
 
 3.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+
+| Use                                         | Urgency | Importance | Complexity | Barrier to Entry |
+|---------------------------------------------|---------|------------|------------|------------------|
+| More efficient QA/QC                        | High    | High       | Med        | Med              |
+| Standardized Analyses                       | Med     | High       | High       | High             |
+| PAM SI Coordination                         | High    | High       | Med        | High             |
+| Standardized data outputs & associated code | Med     | High       | High       | Med              |
+| Hardware Uses/Methods                       | High    | High       | Low        | Low              |
+| Lab Manuals                                 | Low     | High       | Low        | Med              |
+| Reporting templates                         | Low     | Med        | Med        | Med              |
+| Analysis protocols                          | Med     | High       | High       | Low              |
+
+: Potential GitHub Uses for PAM

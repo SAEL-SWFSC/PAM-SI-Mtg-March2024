@@ -8,11 +8,10 @@ One sentence description of the goal for this project
 
 ## Project Team
 
-| Name of Lead                | Name of Lead                |                             |
-|-----------------------------|-----------------------------|-----------------------------|
-| Erin Oleson | Name of Project Team Member | Name of Project Team Member |
-| Megan McKena | Name of Project Team Member |                             |
-|                             |                             |                             |
+| Erin Oleson                 | Melissa Soldevilla          |                             |
+|------------------------|------------------------|------------------------|
+| Name of Project Team Member | Name of Project Team Member | Name of Project Team Member |
+| Name of Project Team Member | Name of Project Team Member | Name of Project Team Member |
 
 ## Summary
 
