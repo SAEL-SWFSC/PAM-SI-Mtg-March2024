@@ -4,24 +4,66 @@ title: Acoustic Detection Software
 
 ## Target Outcome
 
-One sentence description of the goal for this project
+Identify the passive acoustic tools currently used and in development as well as strategize what tools are needed to efficiently analyze passive acoustic datasets.
+
+## Project 1: Create a list of current tools
 
 ## Project Team
 
-| Taiki Sakai                | Annamaria DeAngelis               |                             |
-|-----------------------------|-----------------------------|-----------------------------|
-| Name of Project Team Member | Name of Project Team Member | Name of Project Team Member |
-| Name of Project Team Member | Name of Project Team Member |                             |
-|                             |                             |                             |
+| Annamaria DeAngelis (NEFSC) | Taiki Sakai (SWFSC/NEFSC) |                         |
+|-----------------------------|---------------------------|-------------------------|
+| Jennifer McCullough (PIFSC) | Daniel Woodrich (AFSC)    | Cory Hom-Weaver (SWFSC) |
+| Candice Emmons (NWFSC)      | Ludovic Tenorio (SEFSC)   |                         |
 
 ## Summary
 
-One paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives.
+Create a National table in GitHub that describes what software/tools are available NOW (what species they cover, are they multi/single species, is it retrainable, is it single/cross platform, how stable/mature, where can you find the documentation on how to use them / is there documentation on them)? This supports the National PAM SI Data Integration objective.
 
 ## Action Items
 
-1.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+1.  **Create table template:** Create a table template and share with PAM SI folks. Each FMC lead compiles a list of detectors/classifiers/ancillary tools used by their lab . Include which tools need to be Cloud compatible. POCs: Annamaria DeAngelis & Jennifer McCullough *Deadline: June, 2024.*
 
-2.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+2.  **Research Matlab compiler:** Learn how to use the Matlab Compiler Toolbox to create standalone Matlab executables for Matlab code. POC: Ludovic Tenorio *Deadline: June, 2024.*
 
-3.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+3.  **Tool conversion:** Identify which tools need slight modifications/conversion to open source programming language or wrappers, including which tools should go to R vs Matlab. POCs: Annamaria DeAngelis, Taiki Sakai, Ludovic Tenorio *Deadline: September, 2024.*
+
+4.  **Push to National GitHub:** Be sure that all documentation is in the correct spot in the National GitHub repository. POC: Annamaria DeAngelis *Deadline: Contingent on GitHub National Development.*
+
+## Project 2: Create a list of future long-term tool needs
+
+## Project Team
+
+| Daniel Woodrich (AFSC)      |                           |                             |
+|-----------------------------|---------------------------|-----------------------------|
+| Jennifer McCullough (PIFSC) |                           | Annamaria DeAngelis (NEFSC) |
+| Sofie Van Parijs (NEFSC)    | Taiki Sakai (SWFSC/NEFSC) |                             |
+
+## Summary
+
+Create across FMC list of short term and long term software development needs. This supports the PAM SI Archiving and data integration objective.Create a table in GitHub to coordinate the software needs of the various centers in one location. This will include both short-term needs that might need development during the IRA funding window, as well as long-term needs that more serve to guide any potential free development time. This supports the National PAM SI Data Integration objective and decision support tool objectives.
+
+## Action Items
+
+1.  **Create wish list:** Create and curate a living document of what it is that is needed for detector software. POC: Daniel Woodrich *Deadline: December, 2025.*
+
+2.  **Push to National GitHub:** Be sure that all documentation is in the correct spot in the National GitHub repository. POC: Annamaria DeAngelis *Deadline: Contingent on GitHub National Development.*
+
+## Project 3: Data annotations
+
+## Project Team
+
+| Canidce Emmons (NWFSC)      |                           |                             |
+|-----------------------------|---------------------------|-----------------------------|
+| Jennifer McCullough (PIFSC) |                           | Annamaria DeAngelis (NEFSC) |
+| Sofie Van Parijs (NEFSC)    | Taiki Sakai (SWFSC/NEFSC) | Jennifer McCullough (PIFSC) |
+| Cory Hom-Weaver (SWFSC)     | Ludovic Tenorio (SEFSC)   |                             |
+
+## Summary
+
+Create a table in GitHub listing the annotated datasets available at various FMCs. The table will contain the species that are annotated, availability of the underlying data, and point of contact. Users will also be encouraged to upload these annotations when archiving data with NCEI if applicable. This supports our ability to develop and test new detection and classification by creating a centralized list of the potential training data that might be available, which is a key component of developing new tools. This supports the National PAM SI Data Integration objective.
+
+## Action Items
+
+1.  **Create dataset annotation table on GitHub:** Create table on GitHub listing annotated datasets at centers. POC: Candice Emmons *Deadline: July, 2024.*
+
+2.  **Keep up to date with NCEI:** When archiving with NCEI, include annotations if available/applicable. *Deadline: As needed.*
