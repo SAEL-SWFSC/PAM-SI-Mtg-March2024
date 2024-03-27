@@ -8,11 +8,11 @@ title: Introduction to Meeting Attendees
 
 Write \~ 3 sentences about yourself (the work you do, what you do for fun). Bonus if you'd like to cite a favorite publication (yours or others). Include a link to your institution/website
 
-### \[https://www.fisheries.noaa.gov/s3/styles/media_250_x_250/s3/2021-05/250x250-SEFSC-CC-MelissaSoldevilla.jpg?itok=WDAORtk4\] Melissa Soldevilla, *SEFSC* (https://www.fisheries.noaa.gov/southeast/science-data/passive-acoustic-monitoring-southeast-united-states)
+### \[https://www.fisheries.noaa.gov/s3/styles/media_250_x_250/s3/2021-05/250x250-SEFSC-CC-MelissaSoldevilla.jpg?itok=WDAORtk4\] Melissa Soldevilla, [*SEFSC*](https://www.fisheries.noaa.gov/southeast/science-data/passive-acoustic-monitoring-southeast-united-states)
 
 Melissa is the Passive Acoustic Ecology Program lead for the Marine Mammal and Turtle Division at NOAA Fisheries' Southeast Fisheries Science Center located in Miami, Florida. Her current research applies passive acoustic monitoring methods to study marine mammals and their ocean environment for use in management, restoration, and conservation.
 
-### ![](images/IMG_6639-01.jpg){width="209"} Erin Oleson, [PIFSC](https://www.fisheries.noaa.gov/pacific-islands/population-assessments/passive-acoustics-pacific-islands)
+### ![](images/IMG_6639-01.jpg){width="209"} Erin Oleson, [*PIFSC*](https://www.fisheries.noaa.gov/pacific-islands/population-assessments/passive-acoustics-pacific-islands)
 
 Erin is currently the Cetacean Research Program Leader in the Prtected Species Division of the Pacific Islands FIsheries Science Center. She has been working on cetacean assessment using passive acoustics since her doctoral work at SIO at least 20 years ago. She mainly spends her time thinking about false killer whales.
 
@@ -53,13 +53,13 @@ Cory started working as an acoustic ecologist at SWFSC in 2020. During her time 
 
 ### ![](images/Becca_photo-01.jpg){width="332"}
 
-### **Becca Van Hoeck*,*** [NEFSC](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean)
+### **Becca Van Hoeck*,*** [*NEFSC*](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean)
 
 Becca coordinates the Inflation Reduction Act funding the NEFSC Passive Acoustic Branch received for the PAM Strategic Initiative and North Atlantic right whale monitoring. She also conducts research and participates in regional coordination related to offshore wind energy development focused on fish and soundscapes. Outside of work, she spends her time reading fiction, spending time outside, and wrangling her two year old son.
 
 ### ![](images/MeganMcKenna.jpg){width="234"}
 
-### **Megan McKenna*,*** [CIRES-NCEI](https://www.ncei.noaa.gov/products/passive-acoustic-data)
+### **Megan McKenna*,*** [*CIRES-NCEI*](https://www.ncei.noaa.gov/products/passive-acoustic-data)
 
 Megan works with collaborative teams collecting PAM data, currently with the SoundCoop and previously with SanctSound. Megan helps to unravel these complex data by applying analytical tools- both new and existing- into standardized data processing pathways. While interested in metrics that look at the whole soundscape, vessel noise is often a focus. Megan also teaches graduate classes on marine science and policy at Middlebury Institute of International Studies in Monterey. When not working, Megan is out exploring the beautiful central coast of California with her family.
 
@@ -77,7 +77,7 @@ Annamaria works in the NEFSC's Passive Acoustics Branch as the odontocete team l
 
 ![](images/SamaraHaver.jpg){width="428"}
 
-### Samara Haver, [CIMERS](https://www.pmel.noaa.gov/people/dr-samara-haver)
+### Samara Haver, [*CIMERS*](https://www.pmel.noaa.gov/people/dr-samara-haver)
 
 Samara is a research associate in the Oregon State University/NOAA PMEL Cooperative Institute for Marine Ecosystems and Resources Studies. Samara's research primarily focuses on marine soundscapes and ocean noise, and she collaborates closely with NOAA NMFS, ONMS, and the National Park Service to monitor and understand underwater sound in U.S. waters.
 
@@ -85,7 +85,7 @@ Samara is a research associate in the Oregon State University/NOAA PMEL Cooperat
 
 ### Kourtney Burger, [*SWFSC*](https://www.fisheries.noaa.gov/west-coast/science-data/southwest-acoustic-ecology-lab)
 
-Kourtney started working with the Southwest Acoustic Ecology lab as a lab technician in 2022. She assists the team with data management and archive, data analysis, an general lab management and maintenance. Outside of work, she enjoys reading, spending time outside, and hanging out with her dog and family.
+Kourtney started working with the Southwest Acoustic Ecology lab as a lab technician in 2022. She assists the team with data management and archive, data analysis, and general lab management and maintenance. Outside of work, she enjoys reading, spending time outside, and hanging out with her dog and family.
 
 ### ![](images/WinterPic.jpg){width="306"}
 
@@ -93,11 +93,11 @@ Kourtney started working with the Southwest Acoustic Ecology lab as a lab techni
 
 Candice is a Research Wildlife Biologist for the NWFSC Marine Mammal Ecology Team in Seattle, WA. She works on variety of projects including winter habitat use and foraging ecology of Southern resident killer whales. Her research has been focused on using PAM to better understand killer whale movements outside the Salish Sea.
 
-### ![](images/carrie.jpg){width="300"}
+### ![](images/carrie.jpg){width="200"}
 
 ### Carrie Wall, [*CIRES-NCEI*](https://www.ncei.noaa.gov/products/passive-acoustic-data)
 
-Carrie is a research scientist for the University of Colorado Boulder Cooperative Institute for Research in Environment Sciences / NOAA National Centers for Environmental Information in Boulder, CO. She leads the Ocean Acoustic Archives at NCEI encompassing 100s TB of water column sonar and passive acoustic data and leads several projects focused on building community tools and services to process data faster, more efficiently, and comparably. She's also been known to dabble in AI, most recently in making ridiculous pictures.
+Carrie is a research scientist for the University of Colorado Boulder Cooperative Institute for Research in Environment Sciences / NOAA National Centers for Environmental Information in Boulder, CO. She leads the Ocean Acoustic Archives at NCEI encompassing 100s TB of water column sonar and passive acoustic data and leads several projects focused on building community tools and services to process data faster, more efficiently, and comparably such as *SoundCoop*. She's also been known to dabble in AI, most recently to make ridiculously edited photos.
 
 ### ![](images/TaikiCookies.jpg){width="300"}
 
@@ -135,7 +135,7 @@ Jennifer is a Research Biologist in the Cetacean Research Program at the Pacific
 
 Jason manages the Ocean Acoustic Program (OAP) within NMFS' Office of Science & Technology. The OAP supports research examining the potential impacts of anthropogenic sound on marine animals by increasing understanding of how marine animals use sound, how human activities are changing the underwater soundscape, and how these changes may impact marine life and ecosystems.
 
-![](images/CB pic.jpg){width="250"}
+![](images/CB%20pic.jpg){width="250"}
 
 ### Catherine Berchok - [*AFSC*](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center)
 

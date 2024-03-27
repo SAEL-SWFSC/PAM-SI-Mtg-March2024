@@ -4,30 +4,38 @@ title: NCEI Archiving
 
 ## Target Outcome
 
-One sentence description of the goal for this project
+Building efficient workflows to archive large volumes of NMFS PAM data
 
 ## Project Team
 
-| Carrie Wall-Bell            | Jason Gedamke               |                             |
-|------------------------|------------------------|------------------------|
+| Carrie Wall Bell            | Jason Gedamke               |                             |
+|-----------------------------|-----------------------------|-----------------------------|
 | Name of Project Team Member | Name of Project Team Member | Name of Project Team Member |
 | Name of Project Team Member | Name of Project Team Member |                             |
 |                             |                             |                             |
 
 ## Summary
 
-One paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives.
+The NCEI Passive Acoustic Data (PAD) Archive team will work collaboratively with each NMFS FMC to develop configurable tools that will facilitate FMCs to prepare numerous datasets in a more automated way for archiving at NCEI. This will allow this collective group to meet the PAM SI goal of archiving 900 TB of data in three years (Objective 3) and make significant progress towards meeting NOAA PARR requirements.
 
 ## Action Items
 
-1.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+1.  **Archive Breakdown:** FMCs are asked to update this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1l-Dfh7DtM11FfrXrn1Ub9dqPl3uSQEd3yRSWiaK_eF0/edit#gid=0) with revised information based on the original table of datasets to archive found in [PAM SI proposal](https://docs.google.com/document/d/1BPkv6vRO97T9Vitud8Ng5ws7tudbtD-IF2NwzX4oRmU/edit) / [slide 12](https://docs.google.com/presentation/d/1TewDhV21FjX2ANAzedxMR5s_q94eciiu-iTafjJRUVM/edit#slide=id.g2c4705a5e9b_0_35). The request is to provide more details on prioritized datasets, target month(s) for data submission, identify POCs to work with the archive team, and describe how metadata are stored (e.g., spreadsheet, Oracle database). *Deadline: April, 2024.*
 
-2.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+2.  **FLAC Check:** Confirm FLAC conversion doesn’t alter audio values with Peter Dugan. *Deadline: April, 2024.*
 
-3.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+3.  **Kourtney's Kode:** Kourtney shares her [Passive Packer process](https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-Archive.html#ncei-data-archive) - using [semi automated code](https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/NCEI.html#passive-packer-resources) to convert [deployment metadata](https://docs.google.com/spreadsheets/d/1iyNaKKLbqSHK-iWLADO-YQMNaq4XVsIqYbaeHD2Z_AU/edit?usp=sharing) spreadsheet to Passive Packer ready database. *Deadline: April, 2024.*
+
+4.  **Metadata Madness:** Meeting with NCEI PAD team, Kourtney, Jeff Walker, and Gen Davis to review metadata fields and ensure alignment between NCEI Passive Packer / Kourtney's code / PACM. *Deadline: May, 2024.*
+
+5.  **Bracing for the Data Tsunami:** NCEI PAD team assesses data prioritization and metadata information provided by the FMCs (Action 1) and outlines a plan for build the necessary capabilities into PassivePacker and the archive pipeline. *Deadline: June, 2024.*
+
+6.  **Call Me Maybe:** Establish bimonthly meetings with NCEI PAD team and POCs to ensure regular communication regarding progress of archive development tasks and FMC dataset preparation. *Deadline: July, 2024.*
+
+List of PAM Projects to be provided to NCEI as outlined in the PAM SI proposal.
 
 | FMC   | **Project/Data Sets**                    | **Year of Delivery** | Data Type                   | Data Size | Data Location                    |
-|--------|---------------------|--------|----------------|--------|------------|
+|-------|------------------------------------------|----------------------|-----------------------------|-----------|----------------------------------|
 | NEFSC | AMAPPS                                   | FY24                 | Towed Array                 | 30 TB     | Local Server                     |
 | SWFSC | ETP (Digitize Analog)                    | FY24                 | Towed Array                 | 5 TB      | Analog Tape Drives               |
 | PIFSC | PacMAPPS - Pacific Islands               | FY24                 | Drifter, Towed Array        | 100 TB    | Local Server                     |
@@ -45,4 +53,28 @@ One paragraph summary of (1) what work will be done, (2) how it fills a research
 | NWFSC | PNW coastal recorder                     | FY26                 | Bottom Mounted              | 10 TB     | Local Server and External drives |
 | NWFSC | 2006 -2011 PODS                          | FY26                 | Bottom Mounted              | 5 TB      | Local Server and External drives |
 
-: List of PAM Projects to be provided to NCEI
+---
+title: Native to FLAC to Analysis
+---
+
+## Target Outcome
+
+Improved workflow that omits the step to convert files to wav format
+
+## Project Team
+
+| Not Yet Defined             |                             |                             |
+|-----------------------------|-----------------------------|-----------------------------|
+| Name of Project Team Member | Name of Project Team Member | Name of Project Team Member |
+| Name of Project Team Member | Name of Project Team Member |                             |
+|                             |                             |                             |
+
+## Summary
+
+The goal of this effort will be to eliminate the time consuming step of converting native audio files into wav and then into flac by creating a workflow that directly converts native files into a flac format. It will also make progress on ensuring flac files will be accepted inputs from some of the most commonly used processing software.
+
+## Action Items
+
+1.  **Convert to FLAC:** Develop processing pipeline to save native data formats to flac. This will include three sub tasks: A: Establish a list of what the native file formats are that we want to evaluate going from native to flac. B: Determine the level of effort to convert the formats listed in A to flac and who will complete that work. C: Create processing code to convert identified native file types to flac. *Deadline: A: May, 2024. B: September, 2024. C: Fall 2025*
+
+2.  **Process FLAC:** Update common analysis software to read flac. This will include three sub tasks: A: Establish a list of standard software to develop this capacity. B: Determine what is needed to adjust the software list in A to input flac files. C: Issue contract to complete the work identified in B. *Deadline: A: May, 2024. B: September, 2024. C: Spring 2025*
