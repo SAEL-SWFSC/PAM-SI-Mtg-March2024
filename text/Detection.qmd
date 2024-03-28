@@ -40,7 +40,7 @@ Create a National table in GitHub that describes what software/tools are availab
 
 ## Summary
 
-Create across FMC list of short term and long term software development needs. This supports the PAM SI Archiving and data integration objective.Create a table in GitHub to coordinate the software needs of the various centers in one location. This will include both short-term needs that might need development during the IRA funding window, as well as long-term needs that more serve to guide any potential free development time. This supports the National PAM SI Data Integration objective and decision support tool objectives.
+Create a cross FMC list of short term and long term software development needs. Create a table in GitHub to coordinate the software needs of the various centers in one location. This will include both short-term needs that might need development during the IRA funding window, as well as long-term needs that more serve to guide any potential free development time. This supports the National PAM SI Data Integration, archiving, and decision support tool objectives.
 
 ## Action Items
 
@@ -48,7 +48,7 @@ Create across FMC list of short term and long term software development needs. T
 
 2.  **Push to National GitHub:** Be sure that all documentation is in the correct spot in the National GitHub repository. POC: Annamaria DeAngelis *Deadline: Contingent on GitHub National Development.*
 
-## Project 3: Data annotations
+## Project 3: Create a list of annotated datasets
 
 ## Project Team
 
@@ -60,7 +60,7 @@ Create across FMC list of short term and long term software development needs. T
 
 ## Summary
 
-Create a table in GitHub listing the annotated datasets available at various FMCs. The table will contain the species that are annotated, availability of the underlying data, and point of contact. Users will also be encouraged to upload these annotations when archiving data with NCEI if applicable. This supports our ability to develop and test new detection and classification by creating a centralized list of the potential training data that might be available, which is a key component of developing new tools. This supports the National PAM SI Data Integration objective.
+Create a table in GitHub listing the annotated datasets available at various FMCs. The table will contain the species that are annotated, availability of the underlying data, and point of contact. Users will also be encouraged to upload these annotations when archiving data with NCEI if applicable. This supports our ability to develop and test new detection and classification algorithms by creating a centralized list of the potential training data that might be available, which is a key component of developing new tools. This supports the National PAM SI Data Integration and archiving objective.
 
 ## Action Items
 
