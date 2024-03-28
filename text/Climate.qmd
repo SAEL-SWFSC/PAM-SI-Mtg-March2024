@@ -22,7 +22,7 @@ We will create a streamlined approach to first identify and format data (climato
 
 1.  **Data Identification and Create Workflow:** Create workflow sequence & Identify existing data that we could use now to build long-term comparison tools. *Deadline: May, 2024*
 
-2.  **Determine environmental data:** Determine environmental data (parameters, spatio-termporal range, source) to integrate with daily PACM output. *Deadline: May, 2024.*
+2.  **Determine environmental data:** Determine environmental data (parameters, spatio-temporal range, source) to integrate with daily PACM output. *Deadline: May, 2024.*
 
 3.  **Format Data to PACM:** Get detection data submitted and formatted into PACM on an hourly or daily scale. This phase includes meetings, tutorials (as-needed) for assistance, as well as identifying and developing the tools needed *Deadline: December, 2024.*
 
