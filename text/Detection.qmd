@@ -11,7 +11,7 @@ Identify the passive acoustic tools currently used and in development as well as
 ## Project Team
 
 | Annamaria DeAngelis (NEFSC) | Taiki Sakai (SWFSC/NEFSC) |                         |
-|-----------------------------|---------------------------|-------------------------|
+|--------------------------|------------------------|----------------------|
 | Jennifer McCullough (PIFSC) | Daniel Woodrich (AFSC)    | Cory Hom-Weaver (SWFSC) |
 | Candice Emmons (NWFSC)      | Ludovic Tenorio (SEFSC)   |                         |
 
@@ -33,10 +33,10 @@ Create a National table in GitHub that describes what software/tools are availab
 
 ## Project Team
 
-| Daniel Woodrich (AFSC)      |                           |                             |
-|-----------------------------|---------------------------|-----------------------------|
-| Jennifer McCullough (PIFSC) |                           | Annamaria DeAngelis (NEFSC) |
-| Sofie Van Parijs (NEFSC)    | Taiki Sakai (SWFSC/NEFSC) |                             |
+| Daniel Woodrich (AFSC)      |                             |
+|-----------------------------|-----------------------------|
+| Jennifer McCullough (PIFSC) | Annamaria DeAngelis (NEFSC) |
+| Sofie Van Parijs (NEFSC)    | Taiki Sakai (SWFSC/NEFSC)   |
 
 ## Summary
 
@@ -52,11 +52,11 @@ Create a cross FMC list of short term and long term software development needs. 
 
 ## Project Team
 
-| Canidce Emmons (NWFSC)      |                           |                             |
-|-----------------------------|---------------------------|-----------------------------|
-| Jennifer McCullough (PIFSC) |                           | Annamaria DeAngelis (NEFSC) |
-| Sofie Van Parijs (NEFSC)    | Taiki Sakai (SWFSC/NEFSC) | Jennifer McCullough (PIFSC) |
-| Cory Hom-Weaver (SWFSC)     | Ludovic Tenorio (SEFSC)   |                             |
+| Canidce Emmons (NWFSC)      |                             |                             |
+|-------------------------|-----------------------|-------------------------|
+| Jennifer McCullough (PIFSC) | Annamaria DeAngelis (NEFSC) | Jennifer McCullough (PIFSC) |
+| Sofie Van Parijs (NEFSC)    | Taiki Sakai (SWFSC/NEFSC)   | Ludovic Tenorio (SEFSC)     |
+| Cory Hom-Weaver (SWFSC)     |                             |                             |
 
 ## Summary
 
