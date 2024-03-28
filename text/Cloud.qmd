@@ -6,37 +6,46 @@ title: Cloud Computing and EDA/IT Needs
 |--------------------------|---------|-------|
 | LFDCS - Baleen whales    |         | NEFSC |
 | PAM Guard - Sperm whales |         | NEFSC |
-|                          |         |       |
-|                          |         |       |
-|                          |         |       |
-|                          |         |       |
-|                          |         |       |
-|                          |         |       |
-|                          |         |       |
-|                          |         |       |
 
 : List of Potential Tools/Software/Detectors to Consider for Cloud Computing
 
 ## Target Outcome
 
-One sentence description of the goal for this project
+Developing a National PAM Cloud operational repository for data processing and storage.
 
 ## Project Team
 
-| Name of Lead     | Name of Lead                |                             |
-|------------------------|------------------------|------------------------|
-| Sofie Van Parijs | Name of Project Team Member | Name of Project Team Member |
-| Daniel Woodrich  | Name of Project Team Member |                             |
-|                  |                             |                             |
+| Sofie Van Parijs | Daniel Woodrich  |              |
+|------------------|------------------|--------------|
+| Ann Allen        | Sofie Van Parijs | Ludo Tenorio |
+| Taiki Sakai      |                  |              |
 
 ## Summary
 
-One paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives.
+We will work collaboratively with NMFS OCIO to create our Google Cloud Project (GCP) architecture with data buckets for each FMC. We will have a phased approach to testing and growing the project depending on the hurdles, cost models and successes that we encounter. Once the GCP project is up and running we can have monthly check in calls. Along with our National PACM GCP project fulfills the PAM SI Operational Cloud objective. 
 
 ## Action Items
 
-1.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+1.  **Phase 1:** Stand up the GCP project (Dan/NMFS OCIO team). *Deadline: April 2024*
 
-2.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+2.  **Phase 2:**  Design performance evaluation metrics template (PAM SI GCP team). *Deadline: May 2024*
 
-3.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+3.  **Phase 3:** Upload 1 year long data sets for each of the following science centers: SEFSC, NEFSC, PIFSC, AKFCS (Dan w FMC data experts). *Deadline: June 2024*
+
+4.  **Phase 4:** Software phase I: Upload and test software that are ready for GCP transfer e.g. Google AI, PyPAM, PamGuard, Raven, INSTINCT  (NEFSC IT, Dan, Taiki). *Deadline: June - September 2024*
+
+5.  **Phase 5:** Flac revisit - Flac data and rerun all detectors for second time to evaluate difference between non Flac data (Dan, Ludo, Taiki). *Deadline: October 2024*
+
+6.  **Phase 6:** Evaluate software phase I cost model (Sofie). *Deadline: November 2024*
+
+7.  **Phase 7:** Software phase II - revisit other software needs and options, decide on cross PAM group software (web app, validation, metadata integration between PACM and this GCP repository)(Dan, PAM SI + broader team discussion, FMC data experts, Jeff Walker). *Deadline: November 2024 - March 2025.*
+
+8.  **Phase 8:** Rerun our evaluation tests from Phase 2 (all). *Deadline: March 2025*
+
+9.  **Phase 9:** Evaluate software phase II cost model (Sofie). *Deadline: April 2025*
+
+10. **Phase 10:** Expand PAM data upload, expand to other groups/FMC (Dan w FMC data experts). *Deadline: May - August 2025*
+
+11. **Phase 11:** Group effort to run software through the entire developed data pipeline (Dan w FMC data experts). *Deadline: September 2025 - March 2026.*
+
+12. **Phase 12:** Report out on final established PAM GCP project and cost model (Sofie). *Deadline: April 2026*
