@@ -2,32 +2,95 @@
 title: PAM Github
 ---
 
+# Project 1: PAM SI Coordination
+
 ## Target Outcome
 
-One sentence description of the goal for this project
+Efficient and effective coordination of the PAM Strategic Initiative to support successful implementation.
 
 ## Project Team
 
-| Shannon Rankin              | Rebecca Van Hoeck           |                             |
-|------------------------|------------------------|------------------------|
-| Name of Project Team Member | Name of Project Team Member | Name of Project Team Member |
-| Name of Project Team Member | Name of Project Team Member |                             |
-|                             |                             |                             |
+| Rebecca Van Hoeck | Sofie Van Parijs | PAM SI Working Group |
+|-------------------|------------------|----------------------|
 
 ## Summary
 
-One paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives.
+The PAM SI consists of multiple objectives and priority projects with various subsets of the full PAM SI working group. Coordination of the PAM SI through GitHub will serve to create an easy to access record of PAM SI meetings, provide project management support, and facilitate learning of how to collaborate through GitHub. 
 
 ## Action Items
 
-1.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+1.  **Workshop Report:** Generate and finalize the March 2024 PAM SI Workshop Report. *Deadline: April 2024*
 
-2.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+    **Identify Coordination Needs:** Define high priority coordination needs and workflows based on workshop discussion. *Deadline: April 2024.*
 
-3.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+2.  **Coordinate with UxS SI:** Check in on Pacific Glider objectives and develop a PAM Glider Repository to be shared with the PAM SI. *Deadline: June 2024 (start)*
+
+3.  **Ongoing Coordination:** Continue coordination of the PAM SI priority objectives through GitHub Issues, Project cards, and Discussions. *Deadline: ongoing throughout SI.*
+
+# Project 2: Create National PAM Sharing Structure
+
+## Target Outcome
+
+Enhance National PAM collaboration among the NOAA Fisheries Science Centers through a common GitHub structure. 
+
+## Project Team
+
+| Rebecca Van Hoeck                  | Sofie Van Parijs | Kourtney Burger |
+|------------------------------------|------------------|-----------------|
+| Science center representatives TBD |                  |                 |
+
+## Summary
+
+A priority objective of the IRA PAM Strategic Initiative is to streamline analytical and data integration to remove redundancy and increase cross-FMC efficiencies. To achieve this objective, a framework for improved information sharing across the FMC’s is required. This project will create a standardized method of information sharing across the NOAA Fisheries science center PAM teams through GItHub. By hosting the sharing on GitHub we will create a foundation for sharing beginning with information sharing and building to more complex sharing of specific analysis protocols, data outputs, and other necessary tools. 
+
+## Action Items
+
+1.  **GitHub training:** Kourtney will train Becca on how to create a GitHub lab manual. *Deadline: March 2024*
+
+2.  **Develop and demonstrate National PAM Sharing Structure:** Develop and demonstrate the National and Regional PAM Sharing structures with SWFSC and NEFSC use case examples. *Deadline: May 2024.*
+
+3.  **Establish NMFS PAM Team:** Establish NOAA Fisheries PAM GitHub Team on the Office of Science and Technology GitHub Organization. *Deadline: June 2024*
+
+4.  **Publish National PAM Github Lab Manual:** Publish a National PAM Github Lab Manual on Github. *Deadline: July 2024*
+
+5.  **Create Regional PAM Lab Manuals:** Support each science center in creating a lab manual that aligns with the National sharing structure. *Deadline: October 2024*
+
+6.  **Expand information sharing:** Add the lists created by the Acoustic Detection Software team to the National PAM GitHub. *Deadline November 2024*
+
+7.  **Convene GitHub working group:** Convene a working group of Pam SI members to continue discussing how to advance PAM sharing for analysis, QA/QC methods, and protocols, etc. *Deadline: January 2025*
+
+# Project 3: Participate in OpenScapes
+
+## Target Outcome
+
+Facilitate learning and effective collaboration while creating the NMFS PAM Sharing structure.
+
+## Project Team
+
+| Rebecca Van Hoeck                  | Shannon Rankin |     |
+|------------------------------------|----------------|-----|
+| Science center representatives TBD |                |     |
+
+## Summary
+
+OpenScapes is an open science initiative to support more efficient collaboration and better science. Through a cohort based short-term sprint, participants are provided resources and training to support open science collaboration. Pending finalization of the NOAA Fisheries OpenScapes contract, the PAM SI team plans to have one representative from each science center participate in the 2024 cohort to develop the NMFS PAM Sharing structure (see previous project) in real-time, while bringing the lessons learned back to their broader science center PAM group. Participation in OpenScapes would build foundational knowledge and practical experience collaborating to support successful implementation of all PAM SI objectives and priority projects.  
+
+## Action Items
+
+1.  **Confirm OpenScapes cohort:** NOAA Fisheries in the process of establishing a sole source contract with OpenScapes for a May 2024 cohort, we will stay informed of the progress of this contract. *Deadline: April 2024*
+
+2.  **Sign-up for OpenScapes:** Pending confirmation of the OpenScapes cohort, Shannon will confirm that the PAM team is registered for the cohort. *Deadline: April 2024.*
+
+3.  **Identify cohort:** Each science center will recommend at least one participant for the OpenScapes cohort who can dedicate at least 3 hours a week to the collaboration. *Deadline: April 2024*
+
+4.  **Convene cohort:** The PAM team will convene a meeting prior to the start of the OpenScapes cohot to discuss and agree on project priorities. *Deadline: April 2024*
+
+5.  **Participate in OpenScapes:** OpenScapes is a 6-week sprint scheduled to begin in May 2024 *Deadline: June 2024*
+
+6.  **Report back to Science Centers:** Following conclusion of the cohort we will facilitate knowledge sharing between the science center representatives and the broader regional PAM teams. *Deadline July 2024*
 
 | Use                                         | Urgency | Importance | Complexity | Barrier to Entry |
-|---------------------------------------------|---------|------------|------------|------------------|
+|--------------------------|------------|------------|------------|------------|
 | More efficient QA/QC                        | High    | High       | Med        | Med              |
 | Standardized Analyses                       | Med     | High       | High       | High             |
 | PAM SI Coordination                         | High    | High       | Med        | High             |
