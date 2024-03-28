@@ -30,6 +30,6 @@ We will create a streamlined approach to first identify and format data (climato
 
 5.  **Develop and refine workflow:** Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes creating open source / github hosted repo that is tested and implemented across FSCs. *Deadline: January, 2025.*
 
-6.  **Apply new data to workflow:** Apply new regional-specific or other species-specific data to the "climate/trends" workflow.  This includes: (1) identifying which additional data we want tools for to help predict movements and more towards addressing climate-related questions; (2) incorporating other platforms (i.e. mobile data); and (3) incorporating AI tools for species detection, as available. *Deadline: May, 2026.*
+6.  **Apply new data to workflow:** Apply new regional-specific or other species-specific data to the "climate/trends" workflow. This includes: (1) identifying which additional data we want tools for to help predict movements and more towards addressing climate-related questions; (2) incorporating other platforms (i.e. mobile data); and (3) incorporating AI tools for species detection, as available. *Deadline: May, 2026.*
 
-7.  **Output Products:**  Identify collaborative questions/papers/products to compare across FSC’s and regions *Deadline: July, 2026.*
+7.  **Output Products:** Identify collaborative questions/papers/products to compare across FSC's and regions *Deadline: July, 2026.*
