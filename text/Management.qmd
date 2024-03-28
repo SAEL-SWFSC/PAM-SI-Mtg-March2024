@@ -4,21 +4,42 @@ title: Management Outcomes and Tools
 
 ## Target Outcome
 
-One sentence description of the goal for this project
+One of the primary goals of the IRA Climate Ready Fisheries Strategic Initiatives (SI) is to modernize stock assessments to account for climate change by investing in advanced technologies and data modernization. In support of this goal, the PAM SI held a brainstorming session centered around the target management tools, metrics, and strategies we strive to achieve through the SI. This session included two separate, but connected discussions, one on stock assessments and one on climate trends. The outcomes of both discussions highlighted numerous ways we can demonstrate the effectiveness and benefits of PAM for inclusion in stock assessments and monitoring long-term trends as well as areas for advancement of PAM methods and tools. We split the discussion into three parts, tools, metrics and strategies.
 
 ## Discussion Leads
 
-| Sofie Van Parijs | Jason Gedamke |     |
-|------------------|---------------|-----|
+| Sofie Van Parijs | Jason Gedamke |
+|------------------|---------------|
 
 ## Summary
 
-One paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives.
+*Stock Assessments:* 
 
-## Action Items
+**Priority tools** identified to advance incorporation of PAM data in stock assessments focused on visualizations that demonstrate changes in species distribution over time, where PAM data can fill gaps in existing traditional sampling efforts, and integrate multiple data outputs with existing visualization tools such as the Passive Acoustic Cetacean Map (PACM). 
 
-1.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+Relevant **management metrics** discussed highlighted the need for incorporation of soundscape metrics and noise budgets in Biological Opinions and other NMFS evaluations in order to provide species condition reports in addition to summarizing trends in relative density or abundance and other metrics to be used as a proxy for abundance. 
 
-2.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+**Identified strategies for management** outcomes focused on highlighting the value of PAM and soundscape monitoring to stock assessments, specifically through decision support tools (e.g. PACM), questions that could be answered with greater understanding of PAM data, co-benefits of PAM (ie. reducing vessel strike and entanglement risk), and expanding SARS to include PAM monitoring data. 
 
-3.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+*Climate trends:* 
+
+**Priority tools** discussed focused on the value of data integration - passive acoustics, environmental variables, soundscape metrics, AIS tracks, fishing metrics, species distribution model outputs - to support evaluation of long-term trends and cross-site comparisons as well as inclusion in visualizations or decision support tools. 
+
+Key **metrics to support management** included developing metrics of species distribution change, specifically a metric that aligns with oceanographic metrics of climate change, such as anomaly from an average. Additional key metrics included developing engagement reports for managers from decision support tools, such as PACM, and metrics of ambient noise, noise exceedance, and acoustic data for inclusion in site/regional condition reports. 
+
+\
+**Strategies** to advance the management applications of PAM included expanding existing efforts to support regional functionality (ie. SoundCoop), engaging with users of PAM tools, contributing PAM Data to State of the Ecosystem reports, and calculating year-long noise exposure for an animal throughout its migration.
+
+##  Management goals for the IRA PAM SI efforts
+
+1.  **Develop a National PAM Decision Support Tool:** Expand the Passive Acoustic Cetacean Map (PACM) to be a National tool, including evaluating need for additional functionality with the PAM SI and provide learning opportunities for PACM users to promote understanding and proper use of the tool.
+
+2.  **Expand inclusion of PAM data in management documents and requirements:** The PAM SI will identify NMFS management documents and requirements where PAM data can improve knowledge of stock assessments or climate change (ie. Biological Opinions, SAR, CEFI, State of the Ecosystem reports, etc.). We will work to add relevant PAM data and showcase the value added in several examples.
+
+3.  **Work towards an integrative environmental trends and PAM Decision Support tool:** The PAM SI working group will:
+
+    1.  Explore the creation of a portal-based tool following the examples of SoundCoop and SanctSound.
+
+    2.  Identify desired data sources  - passive acoustics environmental variables, soundscape metrics, AIS tracks, fishing metrics, species distribution model outputs
+
+    3.  Develop several PAM metrics to support evaluation of long-term species or environmental trends and cross-site comparisons for inclusion in the tool. Including, calculating year-long noise exposure for an animal throughout its migration, and developing metrics for quantifying changes in species distribution relative to environmental change
