@@ -4,23 +4,32 @@ title: Climate and Long Term Data Trends
 
 ## Target Outcome
 
-One sentence description of the goal for this project
+To identify data and create tools for climate change applications with PAM data
 
 ## Project Team
 
-| Catherine Berchok           | Genevieve Davis             |                             |
-|-----------------------------|-----------------------------|-----------------------------|
-| Name of Project Team Member | Name of Project Team Member | Name of Project Team Member |
-| Name of Project Team Member | Name of Project Team Member |                             |
+| Catherine Berchok | Genevieve Davis |                    |
+|-------------------|-----------------|--------------------|
+| Candice Evans     | Ann Allen       | Melissa Soldevilla |
+| Manolo Castellote | Shannon Rankin  | Samara Haver       |
+| Taiki Sakai       |                 |                    |
 
 ## Summary
 
-One paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives.
+We will create a streamlined approach to first identify and format data (climatological and acoustic), create tools for accessing and applying these different data, and use these tools and approaches broadly across all regions. The first goal of this will be to have all regions submit and format their detection data for the same species, humpback whales, into the PACM database. The second goal will be to identify and create tools to access and apply the relevant climate data. This will allow for a national comparison of one species to be able to identify and compare changes (or lack thereof) within and across regions. Once this structure has been established, these standardized data formats, tools and environmental data needs can be applied across the range of project goals and regional needs, including regional-specific high-profile species.
 
 ## Action Items
 
-1.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+1.  **Data Identification and Create Workflow:** Create workflow sequence & Identify existing data that we could use now to build long-term comparison tools. *Deadline: May, 2024*
 
-2.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+2.  **Determine environmental data:** Determine environmental data (parameters, spatio-termporal range, source) to integrate with daily PACM output. *Deadline: May, 2024.*
 
-3.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
+3.  **Format Data to PACM:** Get detection data submitted and formatted into PACM on an hourly or daily scale. This phase includes meetings, tutorials (as-needed) for assistance, as well as identifying and developing the tools needed *Deadline: December, 2024.*
+
+4.  **Access and aggregate detection data from PACM:** Pull detection data from PACM out for the same species in standardized format aggregated at daily scale. This phase includes meetings, tutorials, identifying and developing tools as needed. *Deadline: January, 2025.*
+
+5.  **Develop and refine workflow:** Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes creating open source / github hosted repo that is tested and implemented across FSCs. *Deadline: January, 2025.*
+
+6.  **Apply new data to workflow:** Apply new regional-specific or other species-specific data to the "climate/trends" workflow.  This includes: (1) identifying which additional data we want tools for to help predict movements and more towards addressing climate-related questions; (2) incorporating other platforms (i.e. mobile data); and (3) incorporating AI tools for species detection, as available. *Deadline: May, 2026.*
+
+7.  **Output Products:**  Identify collaborative questions/papers/products to compare across FSC’s and regions *Deadline: July, 2026.*
