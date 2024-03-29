@@ -56,6 +56,12 @@ book:
       - name: University of Colorado Boulder, Cooperative Institute for Research in Environmental Sciences
         department: NOAA National Centers for Environmental Information
         address: 325 Broadway, Boulder, CO 80305
+  - name: Rebecca Van Hoeck
+    email: rebecca.vanhoeck@noaa.gov
+    affiliations:
+      - name: NOO Fisheries 
+        department: NEFSC
+        address: 166 Water Street, Woods Hole, MA
         
   chapters:
     - index.qmd

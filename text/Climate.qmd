@@ -4,7 +4,7 @@ title: Climate and Long Term Data Trends
 
 ## Target Outcome
 
-To identify data and create tools for climate change applications with PAM data
+To advance data integration in support of creating tools for climate change applications with PAM data.
 
 ## Project Team
 
@@ -16,20 +16,20 @@ To identify data and create tools for climate change applications with PAM data
 
 ## Summary
 
-We will create a streamlined approach to first identify and format data (climatological and acoustic), create tools for accessing and applying these different data, and use these tools and approaches broadly across all regions. The first goal of this will be to have all regions submit and format their detection data for the same species, humpback whales, into the PACM database. The second goal will be to identify and create tools to access and apply the relevant climate data. This will allow for a national comparison of one species to be able to identify and compare changes (or lack thereof) within and across regions. Once this structure has been established, these standardized data formats, tools and environmental data needs can be applied across the range of project goals and regional needs, including regional-specific high-profile species.
+We will create a streamlined workflow to integrate PAM data with necessary ancillary datasets to address questions relevant to climate change and long-term species trends. This workflow will span include, identifying and formatting data (climatological and acoustic), creating tools for accessing and applying these different data, and using these tools and approaches broadly across all regions. The first goal of this project will be to have all regions submit and format their detection data for the same species, humpback whales, into the Pacific Acoustic Cetacean Map database. The second goal will be to identify and create tools to access and apply the relevant climate data. This workflow will allow for a national comparison of one species to be able to identify and compare changes (or lack thereof) within and across regions. Once this structure has been established, these standardized data formats, tools and environmental data needs can be applied across the range of project goals and regional needs, including regional-specific high-profile species. This project directly supports the PAM SI objective to advance PAM data analysis and integration approaches with an emphasis on addressing long-long trends.
 
 ## Action Items
 
-1.  **Data Identification and Create Workflow:** Create workflow sequence & Identify existing data that we could use now to build long-term comparison tools. *Deadline: May, 2024*
+1.  **Data Identification and Create Workflow:** Create workflow sequence & identify existing data that could be used now to build long-term comparison tools. *Deadline: May, 2024*
 
-2.  **Determine environmental data:** Determine environmental data (parameters, spatio-temporal range, source) to integrate with daily PACM output. *Deadline: May, 2024.*
+2.  **Determine environmental data:** Determine environmental data (i.e. parameters, spatio-temporal range, source) to integrate with daily PACM output. *Deadline: May, 2024.*
 
-3.  **Format Data to PACM:** Get detection data submitted and formatted into PACM on an hourly or daily scale. This phase includes meetings, tutorials (as-needed) for assistance, as well as identifying and developing the tools needed *Deadline: December, 2024.*
+3.  **Format Data to PACM:** Get detection data submitted and formatted into PACM on an hourly or daily scale. This phase includes meetings, as-needed tutorials for assistance, as well as identifying and developing the tools needed *Deadline: December, 2024.*
 
-4.  **Access and aggregate detection data from PACM:** Pull detection data from PACM out for the same species in standardized format aggregated at daily scale. This phase includes meetings, tutorials, identifying and developing tools as needed. *Deadline: January, 2025.*
+4.  **Access and aggregate detection data from PACM:** Pull detection data from PACM for the same species in standardized format aggregated at daily scale. This phase includes meetings, tutorials, identifying and developing tools as needed. *Deadline: January, 2025.*
 
-5.  **Develop and refine workflow:** Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes creating open source / github hosted repo that is tested and implemented across FSCs. *Deadline: January, 2025.*
+5.  **Develop and refine workflow:** Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes creating open source / github hosted repo that is tested and implemented across FMCs. *Deadline: January, 2025.*
 
 6.  **Apply new data to workflow:** Apply new regional-specific or other species-specific data to the "climate/trends" workflow. This includes: (1) identifying which additional data we want tools for to help predict movements and more towards addressing climate-related questions; (2) incorporating other platforms (i.e. mobile data); and (3) incorporating AI tools for species detection, as available. *Deadline: May, 2026.*
 
-7.  **Output Products:** Identify collaborative questions/papers/products to compare across FSC's and regions *Deadline: July, 2026.*
+7.  **Output Products:** Identify collaborative questions, papers, products to compare across FMC's and regions. *Deadline: July, 2026.*

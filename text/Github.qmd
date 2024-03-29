@@ -90,7 +90,7 @@ OpenScapes is an open science initiative to support more efficient collaboration
 6.  **Report back to Science Centers:** Following conclusion of the cohort we will facilitate knowledge sharing between the science center representatives and the broader regional PAM teams. *Deadline July 2024*
 
 | Use                                         | Urgency | Importance | Complexity | Barrier to Entry |
-|--------------------------|------------|------------|------------|------------|
+|---------------------------------------------|---------|------------|------------|------------------|
 | More efficient QA/QC                        | High    | High       | Med        | Med              |
 | Standardized Analyses                       | Med     | High       | High       | High             |
 | PAM SI Coordination                         | High    | High       | Med        | High             |

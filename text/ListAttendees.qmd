@@ -1,38 +1,29 @@
 # List of Attendees
 
-**\
-**
-
-**Carrie Wall Bell - NOAA Affiliate \<carrie.wall\@noaa.gov\>,**
-
-**Erin Oleson \<erin.oleson\@noaa.gov\>,**
-
-| Names               | Affiliation | Email                         |
-|---------------------|-------------|-------------------------------|
-| Manolo Castellote   | AFSC        |                               |
-| Carrie Wall Bell    | NCEI        | carrie.wall\@noaa.gov         |
-| Genevieve Davis     | NEFSC       |                               |
-| Shannon Rankin      | SWFSC       | shannon.rankin\@noaa.gov      |
-| Marla Holt          | NWFSC       | marla.holt\@noaa.gov          |
-| Ann Allen           | PIFSC       | ann.allen\@noaa.gov           |
-| Taiki Sakai         | SWFSC       | taiki.sakai\@noaa.gov         |
-| Sofie VanParijs     | NEFSC       | sofie.vanparijs\@noaa.gov     |
-| Samara Haver        |             | samara.haver\@noaa.gov        |
-| Rebecca Vanhoeck    |             | rebecca.vanhoeck\@noaa.gov    |
-| Melissa Soldevilla  | SEFSC       | melissa.soldevilla\@noaa.gov  |
-| Megan McKenna       |             | megan.mckenna\@noaa.gov       |
-| Jennifer Keating    | PIFSC       | jennifer.mccullough\@noaa.gov |
-| Jason Gedamke       | OST         | jason.gedamke\@noaa.gov       |
-| Genevieve Davis     | NEFSC       | genevieve.davis\@noaa.gov     |
-| Catherine Berchok   | AFSC        | catherine.berchok\@noaa.gov   |
-| Daniel Woodrich     | AFSC        | daniel.woodrich\@noaa.gov     |
-| Annamaria DeAngelis | NEFSC       | annamaria.deangelis\@noaa.gov |
-| Cory Hom-Weaver     | SWFSC       | cory.hom-weaver\@noaa.gov     |
-| Kourtney Burger     | SWFSC       | kourtney.burger\@noaa.gov     |
-| Yvonne Barkley      | PIFSC       | yvonne.barkley\@noaa.gov      |
-| Candice Emmons      | NWFSC       | candice.emmons\@noaa.gov      |
-| Ludovic Tenorio     | SEFSC       | ludovic.tenorio\@noaa.gov     |
-| Erin Oleson         | PIFSC       | erin.oleson\@noaa.gov         |
-|                     |             |                               |
+| Names               | Affiliation                                                  | Email                         |
+|-----------------|--------------------------------|------------------------|
+| Manolo Castellote   | Alaska Fisheries Science Center                              | manuel.castellote\@noaa.gov   |
+| Carrie Wall Bell    | Cooperative Institute for Research in Environmental Sciences | carrie.wall\@noaa.gov         |
+| Genevieve Davis     | Northeast Fisheries Science Center                           | genevieve.davis\@noaa.gov     |
+| Shannon Rankin      | Southwest Fisheries Science Center                           | shannon.rankin\@noaa.gov      |
+| Marla Holt          | Northwest Fisheries Science Center                           | marla.holt\@noaa.gov          |
+| Ann Allen           | Pacific Islands Fisheries Science Center                     | ann.allen\@noaa.gov           |
+| Taiki Sakai         | Southwest Fisheries Science Center                           | taiki.sakai\@noaa.gov         |
+| Sofie VanParijs     | Northeast Fisheries Science Center                           | sofie.vanparijs\@noaa.gov     |
+| Samara Haver        | Cooperative Institute for Marine Ecosystem Resources Studies | samara.haver\@noaa.gov        |
+| Rebecca Vanhoeck    | Northeast Fisheries Science Center                           | rebecca.vanhoeck\@noaa.gov    |
+| Melissa Soldevilla  | Southeast Fisheries Science Center                           | melissa.soldevilla\@noaa.gov  |
+| Megan McKenna       | Office of National Marine Sanctuaries                        | megan.mckenna\@noaa.gov       |
+| Jennifer Keating    | Pacific Islands Fisheries Science Center                     | jennifer.mccullough\@noaa.gov |
+| Jason Gedamke       | Office of Science & Technology                               | jason.gedamke\@noaa.gov       |
+| Catherine Berchok   | Alaska Fisheries Science Center                              | catherine.berchok\@noaa.gov   |
+| Daniel Woodrich     | Alaska Fisheries Science Center                              | daniel.woodrich\@noaa.gov     |
+| Annamaria DeAngelis | Northeast Fisheries Science Center                           | annamaria.deangelis\@noaa.gov |
+| Cory Hom-Weaver     | Southwest Fisheries Science Center                           | cory.hom-weaver\@noaa.gov     |
+| Kourtney Burger     | Southwest Fisheries Science Center                           | kourtney.burger\@noaa.gov     |
+| Yvonne Barkley      | Pacific Islands Fisheries Science Center                     | yvonne.barkley\@noaa.gov      |
+| Candice Emmons      | Northwest Fisheries Science Center                           | candice.emmons\@noaa.gov      |
+| Ludovic Tenorio     | Southeast Fisheries Science Center                           | ludovic.tenorio\@noaa.gov     |
+| Erin Oleson         | Pacific Islands Fisheries Science Center                     | erin.oleson\@noaa.gov         |
 
 : List of Attendees
