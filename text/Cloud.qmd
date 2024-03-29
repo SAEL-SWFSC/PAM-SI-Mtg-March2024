@@ -1,5 +1,5 @@
 ---
-title: Cloud Computing and EDA/IT Needs
+title: Cloud Computing 
 ---
 
 | Tool/Software/Detector   | Dataset | FMC   |
@@ -9,22 +9,22 @@ title: Cloud Computing and EDA/IT Needs
 
 : List of Potential Tools/Software/Detectors to Consider for Cloud Computing
 
-## Target Outcome
+### Target Outcome
 
 Developing a National PAM Cloud operational repository for data processing and storage.
 
-## Project Team
+### Project Team
 
 | Sofie Van Parijs | Daniel Woodrich  |              |
 |------------------|------------------|--------------|
 | Ann Allen        | Sofie Van Parijs | Ludo Tenorio |
 | Taiki Sakai      |                  |              |
 
-## Summary
+### Summary
 
 We will work collaboratively with NMFS OCIO to create our Google Cloud Project (GCP) architecture with data buckets for each FMC. We will have a phased approach to testing and growing the project depending on the hurdles, cost models and successes that we encounter. Once the GCP project is up and running we can have monthly check in calls. Along with our National PACM GCP project fulfills the PAM SI Operational Cloud objective. 
 
-## Action Items
+### Action Items
 
 1.  **Phase 1:** Stand up the GCP project (Dan/NMFS OCIO team). *Deadline: April 2024*
 

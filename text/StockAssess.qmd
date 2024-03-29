@@ -2,22 +2,24 @@
 title: PAM Data Integration for Stock Assessments
 ---
 
-## Target Outcome
+## Project 1: 
+
+### Target Outcome
 
 One sentence description of the goal for this project
 
-## Project Team
+### Project Team
 
 | Erin Oleson                 | Melissa Soldevilla          |                             |
 |------------------------|------------------------|------------------------|
 | Name of Project Team Member | Name of Project Team Member | Name of Project Team Member |
 | Name of Project Team Member | Name of Project Team Member | Name of Project Team Member |
 
-## Summary
+### Summary
 
 One paragraph summary of (1) what work will be done, (2) how it fills a research or operational need, and (3) how it supports one or more of the PAM SI Objectives.
 
-## Action Items
+### Action Items
 
 1.  **Short Name for Action Item:** Description of Action Item in text with as much detail as needed (but no more than needed!). *Deadline: Month, Year.*
 

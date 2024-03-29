@@ -2,23 +2,23 @@
 title: NCEI Archiving
 ---
 
-# Project 1: NCEI Archiving
+## Project 1: NCEI Archiving
 
-## Target Outcome
+### Target Outcome
 
 Building efficient workflows to archive large volumes of NMFS PAM data
 
-## Project Team
+### Project Team
 
 | Carrie Wall Bell | Jason Gedamke |     |
 |------------------|---------------|-----|
 | All Dataset POCs |               |     |
 
-## Summary
+### Summary
 
 The NCEI Passive Acoustic Data (PAD) Archive team will work collaboratively with each NMFS FMC to develop configurable tools that will facilitate FMCs to prepare numerous datasets in a more automated way for archiving at NCEI. This will allow this collective group to meet the PAM SI goal of archiving 900 TB of data in three years (Objective 3) and make significant progress towards meeting NOAA PARR requirements.
 
-## Action Items
+### Action Items
 
 1.  **Archive Breakdown:** FMCs are asked to update this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1l-Dfh7DtM11FfrXrn1Ub9dqPl3uSQEd3yRSWiaK_eF0/edit#gid=0) with revised information based on the original table of datasets to archive found in [PAM SI proposal](https://docs.google.com/document/d/1BPkv6vRO97T9Vitud8Ng5ws7tudbtD-IF2NwzX4oRmU/edit) / [slide 12](https://docs.google.com/presentation/d/1TewDhV21FjX2ANAzedxMR5s_q94eciiu-iTafjJRUVM/edit#slide=id.g2c4705a5e9b_0_35). The request is to provide more details on prioritized datasets, target month(s) for data submission, identify POCs to work with the archive team, and describe how metadata are stored (e.g., spreadsheet, Oracle database). *Deadline: April, 2024.*
 
@@ -35,7 +35,7 @@ The NCEI Passive Acoustic Data (PAD) Archive team will work collaboratively with
 List of PAM Projects to be provided to NCEI as outlined in the PAM SI proposal.
 
 | FMC   | **Project/Data Sets**                    | **Year of Delivery** | Data Type                   | Data Size | Data Location                    |
-|------------|--------------|------------|------------|------------|------------|
+|------------|------------|------------|------------|------------|------------|
 | NEFSC | AMAPPS                                   | FY24                 | Towed Array                 | 30 TB     | Local Server                     |
 | SWFSC | ETP (Digitize Analog)                    | FY24                 | Towed Array                 | 5 TB      | Analog Tape Drives               |
 | PIFSC | PacMAPPS - Pacific Islands               | FY24                 | Drifter, Towed Array        | 100 TB    | Local Server                     |
@@ -53,22 +53,22 @@ List of PAM Projects to be provided to NCEI as outlined in the PAM SI proposal.
 | NWFSC | PNW coastal recorder                     | FY26                 | Bottom Mounted              | 10 TB     | Local Server and External drives |
 | NWFSC | 2006 -2011 PODS                          | FY26                 | Bottom Mounted              | 5 TB      | Local Server and External drives |
 
-# Project 2: Native to flac conversation
+## Project 2: Native to flac conversation
 
-## Target Outcome
+### Target Outcome
 
 A more time-efficient workflow that omits steps in the file conversion process prior to archiving.
 
-## Project Team
+### Project Team
 
 | Not Yet Defined |     |     |
 |-----------------|-----|-----|
 
-## Summary
+### Summary
 
 The goal of this effort will be to eliminate the time consuming step of converting native audio files into wav and then into flac by creating a workflow that directly converts native files into a flac format. It will also make progress on ensuring flac files will be accepted inputs from some of the most commonly used processing software.
 
-## Action Items
+### Action Items
 
 1.  **Convert to FLAC:** Develop processing pipeline to save native data formats to flac. This will include three sub tasks:
 

@@ -2,11 +2,11 @@
 title: Climate and Long Term Data Trends
 ---
 
-## Target Outcome
+### Target Outcome
 
 To advance data integration in support of creating tools for climate change applications with PAM data.
 
-## Project Team
+### Project Team
 
 | Catherine Berchok | Genevieve Davis |                    |
 |-------------------|-----------------|--------------------|
@@ -14,11 +14,11 @@ To advance data integration in support of creating tools for climate change appl
 | Manolo Castellote | Shannon Rankin  | Samara Haver       |
 | Taiki Sakai       |                 |                    |
 
-## Summary
+### Summary
 
 We will create a streamlined workflow to integrate PAM data with necessary ancillary datasets to address questions relevant to climate change and long-term species trends. This workflow will span include, identifying and formatting data (climatological and acoustic), creating tools for accessing and applying these different data, and using these tools and approaches broadly across all regions. The first goal of this project will be to have all regions submit and format their detection data for the same species, humpback whales, into the Pacific Acoustic Cetacean Map database. The second goal will be to identify and create tools to access and apply the relevant climate data. This workflow will allow for a national comparison of one species to be able to identify and compare changes (or lack thereof) within and across regions. Once this structure has been established, these standardized data formats, tools and environmental data needs can be applied across the range of project goals and regional needs, including regional-specific high-profile species. This project directly supports the PAM SI objective to advance PAM data analysis and integration approaches with an emphasis on addressing long-long trends.
 
-## Action Items
+### Action Items
 
 1.  **Data Identification and Create Workflow:** Create workflow sequence & identify existing data that could be used now to build long-term comparison tools. *Deadline: May, 2024*
 

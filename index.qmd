@@ -1,7 +1,6 @@
 # Citation {.unnumbered}
 
-PAM-SI Meeting Repository 
-
+[PAM-SI Meeting Repository](https://github.com/SAEL-SWFSC/PAM-SI-Mtg-March2024)
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
