@@ -1,6 +1,12 @@
 # Acknowledgements
 
-Workshop attendees:
+The PAM SI working group acknowledges the support from the Inflation Reduction Act and NOAA's Climate Ready Fisheries invesments for supporting the Essential Data Acquisition component that the PAM Strategic Initiative is a part of.
+
+Thank you to NOAA Fisheries Office of the Chief Information Officer for their support of the cloud computing projects and to Jeffrey Walker for his work on the PACM cloud transition. Thank you to the UxS Strategic Initiative for their collaboration on the Pacific Glider projects.
+
+Funding for participation of Taiki Sakai was provided by Bureau of Ocean Energy Management (G14 M20PG00013).
+
+### Workshop attendees:
 
 Ann Allen (NOAA Federal); ann.allen\@noaa.gov
 
