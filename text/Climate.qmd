@@ -4,32 +4,36 @@ title: Climate and Long Term Data Trends
 
 ### Target Outcome
 
-To advance data integration in support of creating tools for climate change applications with PAM data.
+To advance data integration in support of creating tools for climate change applications with PAM data and to develop new tools for integration of PAM and environmental data to support climate change investigations.
 
 ### Project Team
 
-| Catherine Berchok | Genevieve Davis |                    |
-|-------------------|-----------------|--------------------|
-| Candice Evans     | Ann Allen       | Melissa Soldevilla |
-| Manolo Castellote | Shannon Rankin  | Samara Haver       |
-| Taiki Sakai       |                 |                    |
+| Genevieve Davis   | Catherine Berchok |                    |
+|-------------------|-------------------|--------------------|
+| Candice Evans     | Ann Allen         | Melissa Soldevilla |
+| Manolo Castellote | Shannon Rankin    | Samara Haver       |
+| Taiki Sakai       |                   |                    |
 
 ### Summary
 
-We will create a streamlined workflow to integrate PAM data with necessary ancillary datasets to address questions relevant to climate change and long-term species trends. This workflow will span include, identifying and formatting data (climatological and acoustic), creating tools for accessing and applying these different data, and using these tools and approaches broadly across all regions. The first goal of this project will be to have all regions submit and format their detection data for the same species, humpback whales, into the Pacific Acoustic Cetacean Map database. The second goal will be to identify and create tools to access and apply the relevant climate data. This workflow will allow for a national comparison of one species to be able to identify and compare changes (or lack thereof) within and across regions. Once this structure has been established, these standardized data formats, tools and environmental data needs can be applied across the range of project goals and regional needs, including regional-specific high-profile species. This project directly supports the PAM SI objective to advance PAM data analysis and integration approaches with an emphasis on addressing long-long trends.
+We will create a streamlined workflow to integrate PAM data with necessary ancillary datasets to address questions relevant to climate change and long-term species trends. This workflow will include: identifying PAM data to be included; identifying the climatological data to be included; creating tools for accessing, formatting, and integrating a subset of these data streams; and using these tools and approaches broadly across all regions and species of interest. The first goal of this project is a comparison of humpback whale occurrence trends nationwide.  All regions will submit and format their humpback detection data into the Passive Acoustic Cetacean Map database.The second goal will be to identify and create tools to access and apply relevant climate data on the humpback whale dataset. This workflow will allow for a national comparison of one species to be able to identify and compare changes (or lack thereof) within and across regions. Once this structure has been established, these standardized data formats, tools, and environmental data needs can be applied across the range of project goals and regional needs, including regional-specific high-profile species. This project directly supports the PAM SI objective to advance PAM data analysis and integration approaches with an emphasis on addressing long-term trends.
 
 ### Action Items
 
-1.  **Data Identification and Create Workflow:** Create workflow sequence & identify existing data that could be used now to build long-term comparison tools. *Deadline: May, 2024*
+1.  **Data Identification:** Identify existing humpback detection data sets to be included. *Deadline: May, 2024*
 
-2.  **Determine environmental data:** Determine environmental data (i.e. parameters, spatio-temporal range, source) to integrate with daily PACM output. *Deadline: May, 2024.*
+2.  **Environmental data identification:** Identify environmental data (i.e. parameters, spatio-temporal range, source) to integrate with daily PACM output. *Deadline: May, 2024.*
 
-3.  **Format Data to PACM:** Get detection data submitted and formatted into PACM on an hourly or daily scale. This phase includes meetings, as-needed tutorials for assistance, as well as identifying and developing the tools needed *Deadline: December, 2024.*
+3.  **Format data to PACM:** Get humpback detection data formatted and submitted into PACM, on an hourly or daily scale. This phase includes meetings, as-needed tutorials, as well as identifying and developing the tools needed. *Deadline: December, 2024.*
 
-4.  **Access and aggregate detection data from PACM:** Pull detection data from PACM for the same species in standardized format aggregated at daily scale. This phase includes meetings, tutorials, identifying and developing tools as needed. *Deadline: January, 2025.*
+4.  **Access and aggregate detection data from PACM:** Pull humpback detection data from PACM in standardized format aggregated at daily scale. This phase includes meetings, tutorials, identifying and developing tools as needed. *Deadline: January, 2025.*
 
-5.  **Develop and refine workflow:** Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes creating open source / github hosted repo that is tested and implemented across FMCs. *Deadline: January, 2025.*
+5.  **Develop and refine workflow:** Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes (Taiki) creating open source / github hosted repo that is tested and implemented across FMCs. *Deadline: May, 2025.*
 
-6.  **Apply new data to workflow:** Apply new regional-specific or other species-specific data to the "climate/trends" workflow. This includes: (1) identifying which additional data we want tools for to help predict movements and more towards addressing climate-related questions; (2) incorporating other platforms (i.e. mobile data); and (3) incorporating AI tools for species detection, as available. *Deadline: May, 2026.*
+6.  **Identify additional data:** Identify which additional data (regional-specific or other species-specific data) we’d want tools for to help predict movements and move towards addressing climate-related questions. *Deadline: May, 2026.*
 
-7.  **Output Products:** Identify collaborative questions, papers, products to compare across FMC's and regions. *Deadline: July, 2026.*
+7.  **Output products:** Identify and draft collaborative questions, papers, products to compare across FMC's and regions. *Deadline: July, 2026.*
+
+8. **Aspirational next steps:** Explore methods for incorporating additional PAM data into workflow from other platforms (mobile or drifting data) or from AI tools for species detection, as available. *Deadline: August, 2026.*
+
+
