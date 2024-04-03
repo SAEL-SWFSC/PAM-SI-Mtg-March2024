@@ -2,13 +2,6 @@
 title: National PAM Operational and Archival Cloud Storage Solutions 
 ---
 
-| Tool/Software/Detector   | Dataset | FMC   |
-|--------------------------|---------|-------|
-| LFDCS - Baleen whales    |         | NEFSC |
-| PAM Guard - Sperm whales |         | NEFSC |
-
-: List of Potential Tools/Software/Detectors to Consider for Cloud Computing
-
 ### Target Outcome
 
 Developing a National PAM Cloud operational repository for data processing and storage.

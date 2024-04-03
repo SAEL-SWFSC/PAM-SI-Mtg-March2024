@@ -77,7 +77,7 @@ book:
     - text/Management.qmd
     - text/ListAttendees.qmd
     - text/Acknowledgements.qmd
-    - text/references.qmd
+ #   - text/references.qmd
 
 
   site-url: https://sael-swfsc.github.io/PAM-SI-Mtg-March2024/
