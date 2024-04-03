@@ -1,5 +1,5 @@
 ---
-title: Climate and Long Term Data Trends
+title: PAM Data Integration for Climate and Long-Term Data Trends
 ---
 
 ### Target Outcome
@@ -16,7 +16,7 @@ To advance data integration in support of creating tools for climate change appl
 
 ### Summary
 
-We will create a streamlined workflow to integrate PAM data with necessary ancillary datasets to address questions relevant to climate change and long-term species trends. This workflow will include: identifying PAM data to be included; identifying the climatological data to be included; creating tools for accessing, formatting, and integrating a subset of these data streams; and using these tools and approaches broadly across all regions and species of interest. The first goal of this project is a comparison of humpback whale occurrence trends nationwide.  All regions will submit and format their humpback detection data into the Passive Acoustic Cetacean Map database.The second goal will be to identify and create tools to access and apply relevant climate data on the humpback whale dataset. This workflow will allow for a national comparison of one species to be able to identify and compare changes (or lack thereof) within and across regions. Once this structure has been established, these standardized data formats, tools, and environmental data needs can be applied across the range of project goals and regional needs, including regional-specific high-profile species. This project directly supports the PAM SI objective to advance PAM data analysis and integration approaches with an emphasis on addressing long-term trends.
+We will create a streamlined workflow to integrate PAM data with necessary ancillary datasets to address questions relevant to climate change and long-term species trends. This workflow will include: identifying PAM data to be included; identifying the climatological data to be included; creating tools for accessing, formatting, and integrating a subset of these data streams; and using these tools and approaches broadly across all regions and species of interest. The first goal of this project is a comparison of humpback whale occurrence trends nationwide. All regions will submit and format their humpback detection data into the Passive Acoustic Cetacean Map database.The second goal will be to identify and create tools to access and apply relevant climate data on the humpback whale dataset. This workflow will allow for a national comparison of one species to be able to identify and compare changes (or lack thereof) within and across regions. Once this structure has been established, these standardized data formats, tools, and environmental data needs can be applied across the range of project goals and regional needs, including regional-specific high-profile species. This project directly supports the PAM SI objective to advance PAM data analysis and integration approaches with an emphasis on addressing long-term trends.
 
 ### Action Items
 
@@ -34,6 +34,4 @@ We will create a streamlined workflow to integrate PAM data with necessary ancil
 
 7.  **Output products:** Identify and draft collaborative questions, papers, products to compare across FMC's and regions. *Deadline: July, 2026.*
 
-8. **Aspirational next steps:** Explore methods for incorporating additional PAM data into workflow from other platforms (mobile or drifting data) or from AI tools for species detection, as available. *Deadline: August, 2026.*
-
-
+8.  **Aspirational next steps:** Explore methods for incorporating additional PAM data into workflow from other platforms (mobile or drifting data) or from AI tools for species detection, as available. *Deadline: August, 2026.*

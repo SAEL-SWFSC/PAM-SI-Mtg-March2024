@@ -1,5 +1,5 @@
 ---
-title: Acoustic Detection Software
+title: PAM Data Integration for Acoustic Detection Software
 ---
 
 ## Project 1: Create a list of current tools

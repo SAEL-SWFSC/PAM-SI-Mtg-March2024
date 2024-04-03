@@ -1,6 +1,6 @@
 # Acknowledgements
 
-The PAM SI working group acknowledges the support from the Inflation Reduction Act and NOAA's Climate Ready Fisheries invesments for supporting the Essential Data Acquisition component that the PAM Strategic Initiative is a part of.
+The PAM SI working group acknowledges the support from the Inflation Reduction Act and NOAA's Climate Ready Fisheries investments for supporting the Essential Data Acquisition component that the PAM Strategic Initiative is a part of. Thank you to the Climate Ready Fisheries and Essential Data Acquisition staff for they administrative support of the the PAM Strategic initiative. The PAM SI working group especially acknowledges all participants of the March 2024 workshop whose valuable time, thoughtful engagement, and productive discussion made the success of this workshop possible.
 
 Thank you to NOAA Fisheries Office of the Chief Information Officer for their support of the cloud computing projects and to Jeffrey Walker for his work on the PACM cloud transition. Thank you to the UxS Strategic Initiative for their collaboration on the Pacific Glider projects.
 

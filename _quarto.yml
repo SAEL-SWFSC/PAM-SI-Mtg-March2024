@@ -67,13 +67,13 @@ book:
     - index.qmd
     - text/Intro.qmd
   # - text/AttendeeIntros.qmd
-    - text/Github.qmd
-    - text/NCEI.qmd
     - text/Cloud.qmd
-    - text/Detection.qmd
-    - text/Soundscape.qmd
+    - text/NCEI.qmd
     - text/Climate.qmd
     - text/StockAssess.qmd
+    - text/Soundscape.qmd
+    - text/Detection.qmd
+    - text/Github.qmd
     - text/Management.qmd
     - text/ListAttendees.qmd
     - text/Acknowledgements.qmd

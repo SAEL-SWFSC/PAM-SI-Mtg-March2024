@@ -1,5 +1,5 @@
 ---
-title: Soundscape analyses, metrics, and tools
+title: PAM Data Integration for Soundscape Analyses, Metrics, and Tools
 ---
 
 ## Project 1: Soundscape metric processing and archiving
