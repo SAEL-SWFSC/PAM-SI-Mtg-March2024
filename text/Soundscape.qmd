@@ -10,11 +10,11 @@ Identify, archive, and process soundscape metrics for priority SI PAM datasets t
 
 ### Project Team
 
-| Samara Haver       |                  |                   |
-|--------------------|------------------|-------------------|
-| Megan McKenna      | Marla Holt       | Catherine Berchok |
-| Melissa Soldevilla | Carrie Wall Bell | Dan Woodrich      |
-| Karli Merkens      | Becca Van Hoeck  |                   |
+| Samara Haver (OST)         |                         |                          |
+|----------------------------|-------------------------|--------------------------|
+| Megan McKenna (ONMS)       | Marla Holt (NWFSC)      | Catherine Berchok (AFSC) |
+| Melissa Soldevilla (SEFSC) | Carrie Wall Bell (NCEI) | Dan Woodrich (AFSC)      |
+| Karli Merkens (PIFSC)      | Becca Van Hoeck (NEFSC) |                          |
 
 ### Summary
 
@@ -24,32 +24,32 @@ This project will add soundscape metrics for priority SI PAM datasets alongside 
 
 1.  **Convene working group:** Establish data processing group, [Google doc folder](https://drive.google.com/drive/folders/1PBQbyajbFgidBvQER1vFL6e_WEQZSLm0?usp=drive_link), regular check-in schedule. *Deadline: March 2024*
 
-2.  **Establish software standards:** Standard software options available for use for use with test NRS dataset results from multiple softwares. *Deadline: May 2024 (MANTA, PyPAM), any other by Sept 2024*
+2.  **Establish software standards:** Identify standard software options available for use and test NRS dataset results from multiple software outputs. *Deadline: May 2024 (MANTA, PyPAM), any other by Sept 2024*
 
 3.  **Identify priority datasets:** In coordination with Carrie Wall Bell and NCEI Archiving group decide on soundscape priority datasets for each FSC and flag in the overall SI priority [dataset table](https://docs.google.com/presentation/d/1TewDhV21FjX2ANAzedxMR5s_q94eciiu-iTafjJRUVM/edit#slide=id.g2c4705a5e9b_0_35). *Deadline: April 2024.*
 
-4.  **Prepare analyses:** For priority soundscape datasets: Prep metadata, Share QA/QC protocol/tools, PassivePack and archive audio data to NCEI. *Deadline: April 2024 - December 2024*
+4.  **Prepare analyses:** For priority soundscape datasets: Prepare metadata, share QA/QC protocol/tools, prepare and submit soundscape metrics and audio data to NCEI for archiving. *Deadline: April 2024 - December 2024*
 
-5.  **Create supporting documents:** Develop technical reports and videos on processing, included data, minimum QA/QC in coordination with SoundCoop efforts. *Deadline: March 2024 - December 2024*
+5.  **Create supporting documents:** Develop technical reports and tutorial videos on processing, included data, minimum QA/QC in coordination with SoundCoop efforts. *Deadline: March 2024 - December 2024*
 
-6.  **Test in pyPAM:** Coordinate with PAM SI Cloud team to test pyPAM cloud processing from NCEI GCP on priority NRS audio data sets. *Deadline: June 2024 (pending pyPAM software development com*
+6.  **Test in pyPAM:** Coordinate with PAM SI Cloud team to test pyPAM cloud processing from NCEI GCP on priority NRS audio data sets. *Deadline: June 2024 (pending pyPAM software development)*
 
 7.  **Compare soundscape software options:** Provide soundscape software options available (MANTA, pyPAM, updated Triton toolbox, etc.) with comparison documentation for example datasets (NRS or others if necessary). *Deadline: December 2024*
 
-8.  **Generate Hybrid milli-decade output:** FMCs will conduct HMD processing either locally or through the PAM SI Cloud computing and save to NCEI or internal PAM SI cloud environment. *Deadline: Jan 2025 - March 2025*
+8.  **Generate Hybrid Milli-Decade (HMD) output:** FMCs will conduct HMD processing either locally or through the PAM SI Cloud computing and save to NCEI or internal PAM SI cloud environment. *Deadline: Jan 2025 - March 2025*
 
-9.  **NCEI archive data products:** All HMDs will be processed and sent to NCEI archive for level 2-3 data products. *Deadline: March 2025*
+9.  **NCEI archive data products:** All HMD outputs will be processed and sent to NCEI archive for level 2-3 data products. *Deadline: March 2025*
 
-10. **Facilitate more complex soundscape analyses:** All priority soundscape datasets and HMD level 1 products will be cloud archived at NCEI or NODD for use in the Soundscape interpretation and visualization project. *Deadline: March 2025*
+10. **Facilitate more complex soundscape analyses:** All priority soundscape datasets and HMD level 1 products will be cloud archived at NCEI for use in the Soundscape interpretation and visualization project. *Deadline: March 2025*
 
 11. **Support comparison across platforms:** Comparison of soundscape metric results from simultaneously deployed platforms; develop tools to support this type of comparison (ie. PAMscapes). The data processing groups will establish methods for comparison, ongoing opportunistic evaluation will occur throughout the SI, and results will be added to the GitHub Soundscape Group and reported with example datasets. *Deadline: Dependent on participation*
 
-| Lead                       | Platform 1 | Platform 2 |
-|----------------------------|------------|------------|
-| Catherine Berchok          | Aurals     | SoundTrap  |
-| Melissa Soldevilla         | HARP       | SoundTrap  |
-| Marla                      | EAR        | SoundTrap  |
-| Jason Gedamke/Samara Haver | Haruphone  | SoundTrap  |
+| ***Lead***                 | ***Platform 1*** | ***Platform 2*** |
+|----------------------------|------------------|------------------|
+| Catherine Berchok          | AURAL            | SoundTrap        |
+| Melissa Soldevilla         | HARP             | SoundTrap        |
+| Marla Holt                 | EAR              | SoundTrap        |
+| Jason Gedamke/Samara Haver | Haruphone        | SoundTrap        |
 
 12. **Support comparison across datasets with known differences:** Develop a format or tool to support comparison of datasets with known differences, such as perfect timing (MARS), dropped time (SoundTrap), duty cycled (AK, NW), frequency-dependent calibration (NRS, HARP), file format (XWAV). *Deadline: Dependent on participation*
 
@@ -61,12 +61,12 @@ Create a set of soundscape metric interpretation open-source processing pathways
 
 ### Project Team
 
-| Samara Haver       | Megan McKenna    |                   |
-|--------------------|------------------|-------------------|
-| Becca Van Hoeck    | Marla Holt       | Catherine Berchok |
-| Melissa Soldevilla | Carrie Wall Bell | Dan Woodrich      |
-| Karli Merkens      | Genevieve Davis  | Sofie Van Parijs  |
-| Jason Gedamke      |                  |                   |
+| Samara Haver (OST)         | Megan McKenna (ONMS)    |                          |
+|----------------------------|-------------------------|--------------------------|
+| Becca Van Hoeck (NEFSC)    | Marla Holt (NWFSC)      | Catherine Berchok (AFSC) |
+| Melissa Soldevilla (SEFSC) | Carrie Wall Bell (NCEI) | Dan Woodrich (AFSC)      |
+| Karli Merkens (PIFSC)      | Genevieve Davis (NEFSC) | Sofie Van Parijs (NEFSC) |
+| Jason Gedamke (OST)        |                         |                          |
 
 ### Summary
 
@@ -76,22 +76,22 @@ This project will build on existing tools in PAMscapes (R/CRAN) to create and do
 
 1.  **Establish working group:** Establish working group and create folder in shared Google doc folder. *Deadline: March 2024*
 
-2.  **Identify datasets:** Decide on priority Noise Reference Stations (NRS) datasets for metric development. *Deadline: April 2024*
+2.  **Identify datasets:** Decide on priority Noise Reference Station (NRS) datasets for metric development. *Deadline: April 2024*
 
 3.  **Data products to NCEI:** NRS Hybrid Milli-Decade (HMD) products to be included in initial comparison sent to NCEI. *Deadline: May 2024*
 
-4.  **Identify visualization options:** Organize and expand on options for HMD data visualizations as originally prepared for PAMscapes, share with working group via Google doc folder for discussion of level 1 visualization goals. Ideas and inspiration will be organized for project team brainstorm and feedback meeting*. Deadline: July 2024*
+4.  **Identify visualization options:** Organize and expand on options for HMD data visualizations as originally prepared for PAMscapes, share with working group via Google doc folder for discussion of level 1 visualization goals. Ideas and inspiration will be organized for project team brainstorming and feedback meeting*. Deadline: July 2024*
 
-5.  **Develop workplan:** Set-up work plan with Taiki Sakai to evaluate HMD QA/QC with visualizations in PAMscapes including level 1 visualizations such as percentiles, LTSA, and bringing together MANTA and pyPAM default output. *Deadline: June 2024*
+5.  **Develop workplan:** Set-up work plan with Taiki Sakai to evaluate HMD QA/QC with visualizations in PAMscapes including level 1 visualizations such as percentiles, LTSA, and bringing together MANTA and pyPAM default outputs. *Deadline: June 2024*
 
 6.  **Present initial results:** Updated PAMscapes tool for HMD QA/QC level 1 visualization will be shared with project team for feedback and further development. *Deadline: December 2024*
 
-7.  **Level 2 data product planning:** In coordination with QA/QC tool development, and informed by ongoing collaboration with SoundCoop partners, the Soundscape group will develop level 2 visualization for HMD output by: integrating environmental data (currents, wind, ice, etc) and time/frequency bins for quantitative visualization (e.g., SPD). The option to integrate these visualization as additional PAMscapes functionality or publish as separate code on GitHub will be evaluated. *Deadline: March 2025 (discuss and gather feedback at 2025 SI Workshop)*
+7.  **Level 2 data product planning:** In coordination with QA/QC tool development, and informed by ongoing collaboration with SoundCoop partners, the Soundscape group will develop level 2 visualization for HMD output by: integrating environmental data (currents, wind, ice, etc.) and time/frequency bins for quantitative visualization (e.g., SPD). The option to integrate these visualizations as additional PAMscapes functionality or publish as separate code on GitHub will be evaluated. *Deadline: March 2025 (discuss and gather feedback at 2025 SI Workshop)*
 
 8.  **Level 3 data product planning:** Plan the development level 3 products from HMD that prioritize and reflect the needs of SI and FMCs including: integration with PACM; noise budgets; sound propagation; automated soundscape analysis; co-variate for species models; categorization from HMD data; repository of labeled HMD data; integration of AIS data. . *Deadline: Working group meeting at 2025 SI Workshop*
 
 9.  **Cloud processing:** Following Cloud Computing project Phase 7 (Software phase II validation), conduct cloud processing for HMD and PAMscapes to apply relevant methods on FMCs priority datasets. *Deadline: 2025 -2026 in coordination with Dan/Cloud team, Taiki, PyPAM development team*
 
-10. **Facilitate national comparisons:** Develop additional products orvisualizations for nationwide comparison of FMC priority soundscapes. *Deadline: Report out at March 2026 meeting for broader group feedback*
+10. **Facilitate national comparisons:** Develop additional products or visualizations for nationwide comparison of FMC priority soundscapes. *Deadline: Report out at March 2026 meeting for broader group feedback*
 
 11. **Present project outcomes:** Present tested and functional cloud processing routines for level 1-3 products for all priority data sets for PAM SI reporting and additional science needs. *Deadline: End of project - 2026*

@@ -2,31 +2,33 @@
 title: PAM Data Integration for Stock Assessments
 ---
 
+This section details three identified priority project options that address data integration needs to support marine mammal stock assessments. At least one project will be selected based on the ability to meet the needs of multiple regions and leveraged funding availability.
+
 ## Project 1: **Improving Sperm Whale and Beaked Whale Density Estimation from towed arrays**
 
 ### Target Outcome
 
-Expanding regional applications and improving functionality of an existing tool to support density estimation through application of a distance sampling framework.
+Expanding the utility of an existing automated tracking and localization tool to facilitate distance sampling-based density estimation from towed array surveys for sperm and beaked whales.
 
 ### Project Team
 
-| Yvonne Barkey      |                     |                      |
-|--------------------|---------------------|----------------------|
-| Melissa Soldevilla | Annamaria DeAngelis | Jennifer McCoullough |
+| Yvonne Barkey (PIFSC)      |                             |                             |
+|------------------------|------------------------|------------------------|
+| Melissa Soldevilla (SEFSC) | Annamaria DeAngelis (NEFSC) | Jennifer McCullough (PIFSC) |
 
 ### Summary
 
-Incorporation of passive acoustic information in stock assessment reports necessitates density estimation. Current methods for density estimation are time consuming or only tested in region- and species-specific datasets. This project will improve functionality of the existing multi-target tracking tool that is used by PIFSC to extract perpendicular distance information from data to support density and abundance estimation. Work will include testing, modifying, and validating the tool on Sperm Whale and Beaked Whale datasets from multiple regions (NEFSC, SEFSC). The outcome of this project would support the PAM SI objective of data integration to support stock assessments by advancing the technology readiness of PAM inclusion in Stock Assessment Reports in multiple NOAA Fisheries regions. 
+Towed hydrophone arrays are a standard part of NMFS line-transect surveys.  Oftentimes acoustic detection of species far out-numbers visual detections, such that inclusion of acoustically detected groups could increase the precision and accuracy of density analyses and improve stock assessments. PIFSC has developed an automated multi-target tracking tool for identification, tracking, and localization of false killer whales subgroups that can be adapted for use with other species. Current methods for density estimation using towed array acoustic detections of sperm whales and beaked whales are time-consuming and use of automated tracking and localization tools would increase efficiency and therefore utility of these datasets to improve the stock assessments for these species. This project will improve functionality of the existing multi-target tracking tool that is used by PIFSC to extract perpendicular distance information from data to support density and abundance estimation. Work will include testing, modifying, and validating the tool on Sperm Whale and Beaked Whale datasets from multiple regions (NEFSC, SEFSC). The outcome of this project would support the PAM SI objective of data integration to support stock assessments by advancing the technology readiness of PAM inclusion in Stock Assessment Reports in multiple NOAA Fisheries regions.
 
 ### Action Items
 
-1.  **Identify challenges:** Yvonne and Jen gather possible array parameters that might break the multi-target tracking tool and meet with Pina to discuss the expected investment required to adapt the tool. *Deadline: April 2024*
+1.  **Identify challenges:** Yvonne and Jen work with Pina Gruden to understand what modifications to the current code are necessary for use for sperm whales and beaked whales, providing an estimate of the expected investment required to adapt the tool. *Deadline: April 2024*
 
 2.  **Prepare test datasets:** Gather test datasets from NE/SE/PI. *Deadline: May 2024*
 
 3.  **Training on Multi-target tracking tool:** Yvonne and Pina will train others on executing the tool in MATLAB. *Deadline: August 2024.*
 
-4.  **Test cases:** Basic assessment of the tool on NE and SE datasets to identify bugs *Deadline: December 2024*
+4.  **Test cases:** Basic assessment of the tool on NE and SE datasets to identify bugs. *Deadline: December 2024*
 
 5.  **Resolve bugs:** Pina or others address usability needs of all users. *Deadline: July 2025*
 
@@ -36,46 +38,45 @@ Incorporation of passive acoustic information in stock assessment reports necess
 
 ### Target Outcome
 
-Advancing the accuracy of stock assessments to capture seasonal and long-term changes using glider PAM datasets.
+Advancing the accuracy of stock assessments to capture seasonal and long-term changes in distribution using PAM glider datasets.
 
 ### Project Team
 
-| Yvonne Barkey  | Janelle Badger |                 |
-|----------------|----------------|-----------------|
-| Shannon Rankin | Selene Fregosi | Danielle Harris |
-| Erin Heloise   | Jason Roberts  |                 |
+| Yvonne Barkey (PIFSC)  | Janelle Badger (PIFSC) |     |
+|------------------------|------------------------|-----|
+| Shannon Rankin (SEFSC) | Selene Fregosi (PIFSC) |     |
+| Erin Oleson (PIFSC)    |                        |     |
 
 ### Summary
 
-This project would support the PAM SI objective of advancing data integration by leveraging glider-based PAM data and visual data to improve the accuracy of stock assessments by capturing seasonal and long-term changes. This project would focus on developing a statistical framework for integrating a density model created with glider PAM data with existing visual-based SDMs to achieve more accurate models with seasonal context. This project is ideally leveraging OPR Climate IRA funding proposed by Badger & Whitney, if funded. 
+This project would develop the analytical framework necessary to integrate PAM data form profiling gliders into quantitative assessments of population distribution and density. The PAM and UxS SIs are heavily investing in the testing and development of PAM-equipped gliders and this effort would ensure that those developments are more quickly leveraged to improve cetacean assessments. This project would focus on developing a statistical framework for integrating a density model created with PAM glider data with existing visual-based species distribution models (SDM) to achieve more accurate ensemble models with seasonal context. This project may leverage an OPR Climate IRA proposal by Badger & Whitney, if funded.  
 
 ### Action Items
 
-1.  **Evaluate state of the science:** Connect with CREEM and other colleagues to assess the state of the science. *Deadline: May 2024*
+1.  **Evaluate state of the science:** Connect with Center for Research into Ecological and Environmental Modelling, Duke, and other colleagues to assess the state of the science. *Deadline: May 2024*
 
 2.  **Evaluate resources required:** Evaluate required funding depending on other proposals and staffing. *Deadline: May 2024*
 
-3.  **Identify datasets and species:** Collect and collate PI, SE, and SW glider data and identify priority species for modeling based on data availability and management needs (e.g., deep-divers). *Deadline: August 2024*
+3.  **Identify datasets and species:** Collect and collate PI, SE, and SW PAM glider data and identify priority species for modeling based on data availability and management needs. *Deadline: Aug*
 
-4.  **Assess analytical next steps:** Establish working group to assess suitable modeling frameworks that fit glider data. February 2025
+4.  **Assess analytical next steps:** Establish a working group to assess suitable modeling frameworks that fit PAM glider data. February 2025
 
 ## Project 3: Incorporating stationary data into a species distribution modeling framework
 
 ### Target Outcome
 
-Advancing the accuracy of stock assessments to capture seasonal and long-term changes using long-term PAM datasets.
+Integrating long-term PAM data into species density models to provide seasonal and long-term changes in distribution and density.
 
 ### Project Team
 
-| Lance Garrison     |               |                    |
-|--------------------|---------------|--------------------|
-| Melissa Soldevilla | Ann Allen     | Genevieve Davis    |
-| Manolo Castellote  | Marla Holt    | Alba Solsona Berga |
-| Jason Gedamke      | Jason Roberts | Laura Feyrer       |
+| Lance Garrison (SEFSC)     | Co-lead TBD        |                         |
+|----------------------------|--------------------|-------------------------|
+| Melissa Soldevilla (SEFSC) | Ann Allen (PIFSC)  | Genevieve Davis (NEFSC) |
+| Manolo Castellote (AFSC)   | Marla Holt (NWFSC) | Jason Gedamke (OST)     |
 
 ### Summary
 
-This project would support the PAM SI objective of advancing data integration by leveraging stationary PAM data and visual data to improve the accuracy of stock assessments by capturing seasonal and long-term changes. This project would focus on developing a statistical framework for integrating a density model created with stationary PAM data with existing visual-based SDMs to achieve more accurate models with seasonal context. This project is ideally leveraging LISTEN GoMex funding to develop models for sperm whales and beaked whales. 
+This project would support the PAM SI objective of advancing data integration by leveraging stationary PAM data and visual data to improve the accuracy of stock assessments by capturing seasonal and long-term changes. This project would focus on developing a statistical framework for integrating a density model created with stationary PAM data with existing visual-based SDMs to achieve more accurate models with seasonal context. This project may leverage LISTEN GoMex funding to develop models for sperm whales and beaked whales. 
 
 ### Action Items
 
@@ -83,6 +84,6 @@ This project would support the PAM SI objective of advancing data integration by
 
 2.  **Identify resources required:** Evaluate whether LISTEN GoMex requires more resources to make these methods broadly applicable. *Deadline: April 2024*
 
-3.  **Establish project team:** Establish working group to meet periodically with the LISTEN GoMex team to assess viability. *Deadline: May 2024*
+3.  **Establish project team:** Establish working group, potentially including colleagues from Duke University, Fisheries and Oceans Canada, etc., to meet periodically with the LISTEN GoMex team to assess viability. *Deadline: May 2024*
 
-4.  **Expand capacity:** Advertise post-doc position to support this effort. *Deadline: June 2024*
+4.  **Expand capacity:** Advertise post-doc position to support this effort. *Deadline: September 2024*

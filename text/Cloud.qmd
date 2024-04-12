@@ -8,14 +8,13 @@ Developing a National PAM Cloud operational repository for data processing and s
 
 ### Project Team
 
-| Sofie Van Parijs | Daniel Woodrich  |              |
-|------------------|------------------|--------------|
-| Ann Allen        | Sofie Van Parijs | Ludo Tenorio |
-| Taiki Sakai      |                  |              |
+| Sofie Van Parijs (NEFSC) | Daniel Woodrich (AFSC) |                      |
+|--------------------------|------------------------|----------------------|
+| Ann Allen (PIFSC)        | Taiki Sakai (SWFSC)    | Ludo Tenorio (SEFSC) |
 
 ### Summary
 
-We will work collaboratively with NMFS OCIO to create our Google Cloud Project (GCP) architecture with data buckets for each FMC. We will have a phased approach to testing and growing the project depending on the hurdles, cost models and successes that we encounter. Once the GCP project is up and running we can have monthly check in calls. Along with our National PACM GCP project fulfills the PAM SI Operational Cloud objective. 
+We will work collaboratively with NMFS OCIO to create our Google Cloud Project (GCP) architecture with data buckets for each FMC. We will have a phased approach to testing and growing the project depending on the hurdles, cost models, and successes that we encounter. Once the GCP project is up and running we can have monthly check in calls. Along with our National PACM GCP project fulfills the PAM SI Operational Cloud objective. 
 
 ### Action Items
 
@@ -23,7 +22,7 @@ We will work collaboratively with NMFS OCIO to create our Google Cloud Project (
 
 2.  **Phase 2:**  Design performance evaluation metrics template (PAM SI GCP team). *Deadline: May 2024*
 
-3.  **Phase 3:** Upload 1 year long data sets for each of the following science centers: SEFSC, NEFSC, PIFSC, AKFCS (Dan w FMC data experts). *Deadline: June 2024*
+3.  **Phase 3:** Upload 1 year long data sets for each of the following science centers: SEFSC, NEFSC, PIFSC, AFCS (Dan w FMC data experts). *Deadline: June 2024*
 
 4.  **Phase 4:** Software phase I: Upload and test software that are ready for GCP transfer e.g. Google AI, PyPAM, PamGuard, Raven, INSTINCT  (NEFSC IT, Dan, Taiki). *Deadline: June - September 2024*
 

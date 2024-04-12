@@ -1,7 +1,7 @@
 # List of Attendees
 
 | Names               | Affiliation                                                  | Email                         |
-|-----------------|--------------------------------|------------------------|
+|------------------|-------------------------------|-----------------------|
 | Manolo Castellote   | Alaska Fisheries Science Center                              | manuel.castellote\@noaa.gov   |
 | Carrie Wall Bell    | Cooperative Institute for Research in Environmental Sciences | carrie.wall\@noaa.gov         |
 | Genevieve Davis     | Northeast Fisheries Science Center                           | genevieve.davis\@noaa.gov     |
@@ -14,14 +14,14 @@
 | Rebecca Vanhoeck    | Northeast Fisheries Science Center                           | rebecca.vanhoeck\@noaa.gov    |
 | Melissa Soldevilla  | Southeast Fisheries Science Center                           | melissa.soldevilla\@noaa.gov  |
 | Megan McKenna       | Office of National Marine Sanctuaries                        | megan.mckenna\@noaa.gov       |
-| Jennifer Keating    | Pacific Islands Fisheries Science Center                     | jennifer.mccullough\@noaa.gov |
+| Jennifer McCullough | Pacific Islands Fisheries Science Center                     | jennifer.mccullough\@noaa.gov |
 | Jason Gedamke       | Office of Science & Technology                               | jason.gedamke\@noaa.gov       |
 | Catherine Berchok   | Alaska Fisheries Science Center                              | catherine.berchok\@noaa.gov   |
 | Daniel Woodrich     | Alaska Fisheries Science Center                              | daniel.woodrich\@noaa.gov     |
 | Annamaria DeAngelis | Northeast Fisheries Science Center                           | annamaria.deangelis\@noaa.gov |
 | Cory Hom-Weaver     | Southwest Fisheries Science Center                           | cory.hom-weaver\@noaa.gov     |
 | Kourtney Burger     | Southwest Fisheries Science Center                           | kourtney.burger\@noaa.gov     |
-| Yvonne Barkley      | Pacific Islands Fisheries Science Center                     | yvonne.barkley\@noaa.gov      |
+| Yvonne Barkley      | Pacific Island Fisheries Science Center                      | yvonne.barkley\@noaa.gov      |
 | Candice Emmons      | Northwest Fisheries Science Center                           | candice.emmons\@noaa.gov      |
 | Ludovic Tenorio     | Southeast Fisheries Science Center                           | ludovic.tenorio\@noaa.gov     |
 | Erin Oleson         | Pacific Islands Fisheries Science Center                     | erin.oleson\@noaa.gov         |

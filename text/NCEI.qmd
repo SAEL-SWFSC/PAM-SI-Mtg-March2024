@@ -10,9 +10,9 @@ Building efficient workflows to archive large volumes of NMFS PAM data
 
 ### Project Team
 
-| Carrie Wall Bell | Jason Gedamke |     |
-|------------------|---------------|-----|
-| All Dataset POCs |               |     |
+| Carrie Wall Bell (NCEI) | Jason Gedamke (OST) |     |
+|-------------------------|---------------------|-----|
+| All Dataset POCs        |                     |     |
 
 ### Summary
 
@@ -28,7 +28,7 @@ The NCEI Passive Acoustic Data (PAD) Archive team will work collaboratively with
 
 4.  **Metadata Madness:** Meeting with NCEI PAD team, Kourtney, Jeff Walker, and Gen Davis to review metadata fields and ensure alignment between NCEI Passive Packer / Kourtney's code / PACM. *Deadline: May, 2024.*
 
-5.  **Bracing for the Data Tsunami:** NCEI PAD team assesses data prioritization and metadata information provided by the FMCs (Action 1) and outlines a plan for build the necessary capabilities into PassivePacker and the archive pipeline. *Deadline: June, 2024.*
+5.  **Bracing for the Data Tsunami:** NCEI PAD team assesses data prioritization and metadata information provided by the FMCs (Action 1) and outlines a plan for building the necessary capabilities into PassivePacker and the archive pipeline. *Deadline: June, 2024.*
 
 6.  **Call Me Maybe:** Establish bimonthly meetings with NCEI PAD team and POCs to ensure regular communication regarding progress of archive development tasks and FMC dataset preparation. *Deadline: July, 2024.*
 

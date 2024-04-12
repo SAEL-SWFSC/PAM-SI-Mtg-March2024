@@ -10,8 +10,8 @@ Efficient and effective coordination of the PAM Strategic Initiative to support 
 
 ### Project Team
 
-| Rebecca Van Hoeck | Sofie Van Parijs | PAM SI Working Group |
-|-------------------|------------------|----------------------|
+| Becca Van Hoeck | Sofie Van Parijs | PAM SI Working Group |
+|-----------------|------------------|----------------------|
 
 ### Summary
 
@@ -35,13 +35,13 @@ Enhance National PAM collaboration among the NOAA Fisheries Science Centers thro
 
 ### Project Team
 
-| Rebecca Van Hoeck                  | Sofie Van Parijs | Kourtney Burger |
+| Becca Van Hoeck                    | Sofie Van Parijs | Kourtney Burger |
 |------------------------------------|------------------|-----------------|
 | Science center representatives TBD |                  |                 |
 
 ### Summary
 
-A priority objective of the IRA PAM Strategic Initiative is to streamline analytical and data integration to remove redundancy and increase cross-FMC efficiencies. To achieve this objective, a framework for improved information sharing across the FMC’s is required. This project will create a standardized method of information sharing across the NOAA Fisheries science center PAM teams through GItHub. By hosting the sharing on GitHub we will create a foundation for sharing beginning with information sharing and building to more complex sharing of specific analysis protocols, data outputs, and other necessary tools. 
+A priority objective of the IRA PAM Strategic Initiative is to streamline processes to remove redundancy and increase cross-FMC efficiencies. To achieve this objective, a framework for improved information sharing across the FMC’s is required. This project will create a standardized method of information sharing across the NOAA Fisheries science center PAM teams through GitHub. By collectively hosting information on GitHub we will create a foundation and culture for sharing that will build in complexity over time to include specific analysis protocols, data outputs, and other necessary tools. 
 
 ### Action Items
 
@@ -51,13 +51,13 @@ A priority objective of the IRA PAM Strategic Initiative is to streamline analyt
 
 3.  **Establish NMFS PAM Team:** Establish NOAA Fisheries PAM GitHub Team on the Office of Science and Technology GitHub Organization. *Deadline: June 2024*
 
-4.  **Publish National PAM Github Lab Manual:** Publish a National PAM Github Lab Manual on Github. *Deadline: July 2024*
+4.  **Publish National PAM Github Lab Manual:** Publish a National PAM GitHub Lab Manual on GitHub. *Deadline: July 2024*
 
-5.  **Create Regional PAM Lab Manuals:** Support each science center in creating a lab manual that aligns with the National sharing structure. *Deadline: October 2024*
+5.  **Create Regional PAM Lab Manuals:** Support each science center in creating a lab manual that aligns with the National sharing structure. *Deadline: July 2025*
 
-6.  **Expand information sharing:** Add the lists created by the Acoustic Detection Software team to the National PAM GitHub. *Deadline November 2024*
+6.  **Expand information sharing:** Add the lists created by the Acoustic Detection Software team to the National PAM GitHub. *Deadline: July 2025*
 
-7.  **Convene GitHub working group:** Convene a working group of Pam SI members to continue discussing how to advance PAM sharing for analysis, QA/QC methods, and protocols, etc. *Deadline: January 2025*
+7.  **Convene GitHub working group:** Convene a working group of PAM SI members to continue discussing how to advance PAM sharing for analysis, QA/QC methods, and protocols, etc. *Deadline: July 2025*
 
 ## Project 3: Participate in OpenScapes
 
@@ -67,30 +67,26 @@ Facilitate learning and effective collaboration while creating the NMFS PAM Shar
 
 ### Project Team
 
-| Rebecca Van Hoeck                  | Shannon Rankin |     |
+| Becca Van Hoeck                    | Shannon Rankin |     |
 |------------------------------------|----------------|-----|
 | Science center representatives TBD |                |     |
 
 ### Summary
 
-OpenScapes is an open science initiative to support more efficient collaboration and better science. Through a cohort based short-term sprint, participants are provided resources and training to support open science collaboration. Pending finalization of the NOAA Fisheries OpenScapes contract, the PAM SI team plans to have one representative from each science center participate in the 2024 cohort to develop the NMFS PAM Sharing structure (see previous project) in real-time, while bringing the lessons learned back to their broader science center PAM group. Participation in OpenScapes would build foundational knowledge and practical experience collaborating to support successful implementation of all PAM SI objectives and priority projects.  
+OpenScapes is an open science initiative to support more efficient collaboration and better science. Through a cohort based short-term sprint, participants are provided resources and training to support open science collaboration.  One representative from each science center will participate in a PAM SI Openscapes cohort to develop the NMFS PAM Sharing structure (see previous project) in real-time, while bringing the lessons learned back to their broader science center PAM group. Participation in OpenScapes would build foundational knowledge and practical experience collaborating to support successful implementation of all PAM SI objectives and priority projects.   
 
 ### Action Items
 
-1.  **Confirm OpenScapes cohort:** NOAA Fisheries in the process of establishing a sole source contract with OpenScapes for a May 2024 cohort, we will stay informed of the progress of this contract. *Deadline: April 2024*
+1.  **Confirm OpenScapes cohort:** Identify potential OpenScapes Champions workshops that can accomodate the NMFS PAM SI cohort. *Deadline: June 2024*
 
-2.  **Sign-up for OpenScapes:** Pending confirmation of the OpenScapes cohort, Shannon will confirm that the PAM team is registered for the cohort. *Deadline: April 2024.*
+2.  **Sign-up for OpenScapes:** Pending confirmation of the OpenScapes cohort, Shannon will confirm that the PAM team is registered for the cohort. *Deadline: June 2024.*
 
-3.  **Identify cohort:** Each science center will recommend at least one participant for the OpenScapes cohort who can dedicate at least 3 hours a week to the collaboration. *Deadline: April 2024*
+3.  **Identify cohort:** Each science center will recommend at least one participant for the OpenScapes cohort who can dedicate at least 3 hours a week to the collaboration. *Deadline: June 2024*
 
-4.  **Convene cohort:** The PAM team will convene a meeting prior to the start of the OpenScapes cohot to discuss and agree on project priorities. *Deadline: April 2024*
-
-5.  **Participate in OpenScapes:** OpenScapes is a 6-week sprint scheduled to begin in May 2024 *Deadline: June 2024*
-
-6.  **Report back to Science Centers:** Following conclusion of the cohort we will facilitate knowledge sharing between the science center representatives and the broader regional PAM teams. *Deadline July 2024*
+4.  **Identify cohort priority:** The PAM team will convene a meeting prior to the start of the OpenScapes cohort to discuss and agree on project priorities from the list provided during the PAM SI Workshop. *Deadline: June 2024*
 
 | Use                                         | Urgency | Importance | Complexity | Barrier to Entry |
-|--------------------|-------------|-------------|-------------|-------------|
+|---------------|---------------|---------------|---------------|---------------|
 | More efficient QA/QC                        | High    | High       | Med        | Med              |
 | Standardized Analyses                       | Med     | High       | High       | High             |
 | PAM SI Coordination                         | High    | High       | Med        | High             |
@@ -100,4 +96,7 @@ OpenScapes is an open science initiative to support more efficient collaboration
 | Reporting templates                         | Low     | Med        | Med        | Med              |
 | Analysis protocols                          | Med     | High       | High       | Low              |
 
-: Potential GitHub Uses for PAM
+: PAM SI Priority GitHub Projects
+
+5.  **Participate in OpenScapes:** OpenScapes is a 6-week sprint scheduled to begin in May 2024 *Deadline: TBD*
+6.  **Report back to Science Centers:** Following conclusion of the cohort we will facilitate knowledge sharing between the science center representatives and the broader regional PAM teams. *Deadline: within 2 months from the end of the OpenScapes workshop.*

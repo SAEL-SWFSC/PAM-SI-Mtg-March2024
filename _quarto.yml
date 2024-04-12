@@ -5,7 +5,7 @@ project:
 book:
   title: IRA Passive Acoustic Monitoring Strategic Initiative Workshop Report
   subtitle: La Jolla, California 
-  date: March 2024
+  date: April 2024
   downloads: [pdf, docx]
   author:
   - name: Sofie Van Parijs
@@ -50,21 +50,36 @@ book:
       - name: NOAA Fisheries
         department: SEFSC
         address: 75 Virginia Beach Drive, Miami, FL 33149
+  - name: Rebecca Van Hoeck
+    email: rebecca.vanhoeck@noaa.gov
+    affiliations:
+      - name: NOAA Fisheries 
+        department: NEFSC
+        address: 166 Water Street, Woods Hole, MA
   - name: Carrie Wall Bell
     email: carrie.wall@noaa.gov
     affiliations:
       - name: University of Colorado Boulder, Cooperative Institute for Research in Environmental Sciences
         department: NOAA National Centers for Environmental Information
         address: 325 Broadway, Boulder, CO 80305
-  - name: Rebecca Van Hoeck
-    email: rebecca.vanhoeck@noaa.gov
-    affiliations:
-      - name: NOO Fisheries 
-        department: NEFSC
-        address: 166 Water Street, Woods Hole, MA
+  - name: Ann Allen
+  - name: Yvonne Barkley
+  - name: Kourtney Burger
+  - name: Manolo Castellote
+  - name: Genevieve Davis
+  - name: Annamaria DeAngelis
+  - name: Candice Emmons
+  - name: Samara Haver
+  - name: Cory Hom-Weaver
+  - name: Jennifer McCullough
+  - name: Megan McKenna
+  - name: Taiki Sakai
+  - name: Ludovic Tenorio
+  - name: Dan Woodrich
         
   chapters:
     - index.qmd
+    - text/ExecutiveSummary.qmd
     - text/Intro.qmd
   # - text/AttendeeIntros.qmd
     - text/Cloud.qmd
@@ -72,10 +87,10 @@ book:
     - text/Climate.qmd
     - text/StockAssess.qmd
     - text/Soundscape.qmd
-    - text/Detection.qmd
     - text/Github.qmd
+    - text/Detection.qmd
     - text/Management.qmd
-    - text/ListAttendees.qmd
+    #- text/ListAttendees.qmd
     - text/Acknowledgements.qmd
  #   - text/references.qmd
 

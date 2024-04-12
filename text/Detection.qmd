@@ -52,11 +52,10 @@ Create a cross FMC list of short term and long term software development needs. 
 
 ### Project Team
 
-| Canidce Emmons (NWFSC)      |                             |                             |
+| Canidce Emmons (NWFSC)      |                             |                         |
 |-------------------------|-----------------------|-------------------------|
-| Jennifer McCullough (PIFSC) | Annamaria DeAngelis (NEFSC) | Jennifer McCullough (PIFSC) |
-| Sofie Van Parijs (NEFSC)    | Taiki Sakai (SWFSC/NEFSC)   | Ludovic Tenorio (SEFSC)     |
-| Cory Hom-Weaver (SWFSC)     |                             |                             |
+| Jennifer McCullough (PIFSC) | Annamaria DeAngelis (NEFSC) | Cory Hom-Weaver (SWFSC) |
+| Sofie Van Parijs (NEFSC)    | Taiki Sakai (SWFSC/NEFSC)   | Ludovic Tenorio (SEFSC) |
 
 ### Summary
 

@@ -1,0 +1,27 @@
+---
+title: Executive Summary
+---
+
+The NOAA Fisheries Passive Acoustic Monitoring Strategic Initiative (PAM SI) is an Inflation Reduction Act (IRA) funded effort as part of NOAA Fisheries’ \$349 million Climate Ready Fisheries initiative to build a dynamically managed fisheries system that accounts for climate change and supports science-based management and conservation. The PAM SI is one of seven Strategic Initiatives within the Essential Data Acquisition and Management component of Climate Ready Fisheries that focuses on development of advanced technologies in support of expanding and modernizing stock assessments, data systems, and infrastructure. In March 2024 the PAM SI team held a three-day workshop to identify specific priority projects that address common barriers and challenges across all PAM programs. 
+
+This report provides a brief background and situational context for the needs of the NOAA Fisheries PAM programs and lays out a target action plan to address each priority project identified. These priority projects represent an ambitious, collaborative effort to make transformational progress towards a modern National PAM enterprise that provides valuable scientific information about stock assessments, long-term species trends, and climate impacts on marine ecosystems.Any progress towards these  PAM SI projects will provide the critical infrastructure - including human capital, hardware, and software - for continued success and expansion of the applications of PAM to the NOAA Fisheries protected species mission and mandates beyond the lifetime of the IRA funding. This is especially important because some components included here are unfunded.
+
+NOAA Fisheries’ PAM programs collect underwater sound recordings of the marine environment. Identification of the sounds produced by protected marine mammal species, fishes, humans, or the  environment allows for an understanding of marine soundscapes and provides information on changes in species distribution, behavior and/or density. The technological revolution in PAM over the past decade has allowed both acoustic recorders and analytical approaches to increasingly become an integral part of NOAA Fisheries core science mission. PAM’s capacity for creating long term time series makes it an ideal approach for evaluating changes in species stocks, ecosystem interactions, and climate change. There are currently 7 NMFS PAM programs including each NMFS Science Center and the S&T’s Ocean Acoustic Program (OAP). The success and advancement of the Fisheries PAM programs also relies on close collaboration with the NOAA National Centers for Environmental Information (NCEI) and the NOAA Office of the National Marine Sanctuaries (ONMS). The transformational value of the PAM SI lies in bringing together representatives from each of these programs to work collaboratively on common high priority infrastructure and analytical needs. 
+
+The PAM SI working groups has identified four key objectives: 1) Accelerate Pacific-wide PAM-glider operations; 2) Establishing National PAM Operational and Archival Cloud Storage solutions; 3) Developing a National PAM Decision Support Tool; and 4) Advancing National PAM Analytical and Integration Approaches. Progress towards these objectives will implement transformational activities that will significantly change the way in which we collect, analyze, and make PAM data accessible for answering mission critical questions. Because PAM SI Objectives 1 and 3 are collaborations with the UxS SI and IRA North Atlantic Right Whale projects, respectively, they are not further detailed in this report. More information about those objectives can be found in the [PAM SI Proposal](https://docs.google.com/document/d/1BPkv6vRO97T9Vitud8Ng5ws7tudbtD-IF2NwzX4oRmU/edit?usp=sharing). 
+
+During the March 2024 workshop, the PAM SI team engaged in a series of eight Round Table Discussions focused on a common barrier or need for all PAM programs, each resulting in one or more priority projects. 
+
+Priority projects supporting Objective 2 include:
+
+-   a Google Cloud Project to establish national operational cloud storage and processing capabilities; and
+-   an NCEI archiving project to build a more streamlined archive workflow. 
+
+Priority projects supporting Objective 4 include:
+
+-   a pilot project to evaluate long-term trends in nationwide humpback whale spatio-temporal distribution that will develop data integration tools that can be applied to any region or species of interest; 
+-   three project options that would expand the applications of PAM data for stock assessments through density estimation and species distribution models; 
+-   two projects to expand the applications of soundscape metrics and visualizations; and
+-   multiple projects focused on establishing an open science approach for information sharing to support collaborative analytical approaches across the regions. 
+
+Lastly, the PAM SI discussed the target management tools, metrics, and strategies relevant to stock assessments and climate that we strive to achieve through the SI. This report details the expected outcome, project leads, project team, action items, and target timeline for each of these priority projects.

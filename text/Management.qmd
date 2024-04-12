@@ -4,7 +4,7 @@ title: Management Outcomes and Tools
 
 ### Target Outcome
 
-One of the primary goals of the IRA Climate Ready Fisheries Strategic Initiatives (SI) is to modernize stock assessments to account for climate change by investing in advanced technologies and data modernization. In support of this goal, the PAM SI held a brainstorming session centered around the target management tools, metrics, and strategies we strive to achieve through the SI. This session included two separate, but connected discussions, one on stock assessments and one on climate trends. The outcomes of both discussions highlighted numerous ways we can demonstrate the effectiveness and benefits of PAM for inclusion in stock assessments and monitoring long-term trends as well as areas for advancement of PAM methods and tools. We split the discussion into three parts, tools, metrics and strategies.
+One of the primary goals of the IRA Climate Ready Fisheries Strategic Initiatives (SI) is to modernize stock assessments to account for climate change by investing in advanced technologies and data modernization. In support of this goal, the PAM SI group held a brainstorming session centered around the target management tools, metrics, and strategies we strive to achieve through the SI. This session included two separate, but connected discussions, one on stock assessments and one on climate trends. The outcomes of both discussions highlighted numerous ways we can demonstrate the effectiveness and benefits of PAM for inclusion in stock assessments and monitoring long-term trends as well as areas for advancement of PAM methods and tools. We split the discussion into three parts, tools, metrics and, strategies.
 
 ### Discussion Leads
 
@@ -27,8 +27,7 @@ Relevant **management metrics** discussed highlighted the need for incorporation
 
 Key **metrics to support management** included developing metrics of species distribution change, specifically a metric that aligns with oceanographic metrics of climate change, such as anomaly from an average. Additional key metrics included developing engagement reports for managers from decision support tools, such as PACM, and metrics of ambient noise, noise exceedance, and acoustic data for inclusion in site/regional condition reports. 
 
-\
-**Strategies** to advance the management applications of PAM included expanding existing efforts to support regional functionality (ie. SoundCoop), engaging with users of PAM tools, contributing PAM Data to State of the Ecosystem reports, and calculating year-long noise exposure for an animal throughout its migration.
+**Strategies** to advance the management applications of PAM included expanding existing efforts to support regional functionality (ie. SoundCoop), engaging with users of PAM tools, contributing PAM Data to State of the Ecosystem reports, and calculating year-long noise exposure for an average animal throughout its migration.
 
 ### Management goals for the IRA PAM SI efforts
 
@@ -42,4 +41,4 @@ Key **metrics to support management** included developing metrics of species dis
 
     2.  Identify desired data sources - passive acoustics environmental variables, soundscape metrics, AIS tracks, fishing metrics, species distribution model outputs
 
-    3.  Develop several PAM metrics to support evaluation of long-term species or environmental trends and cross-site comparisons for inclusion in the tool. Including, calculating year-long noise exposure for an animal throughout its migration, and developing metrics for quantifying changes in species distribution relative to environmental change
+    3.  Develop several PAM metrics to support evaluation of long-term species or environmental trends and cross-site comparisons for inclusion in the tool. Including, calculating year-long noise exposure for an average animal throughout its migration, and developing metrics for quantifying changes in species distribution relative to environmental change
