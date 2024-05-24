@@ -26,36 +26,74 @@ The NCEI Passive Acoustic Data (PAD) Archive team will work collaboratively with
 
 3.  **Kourtney's Kode:** Kourtney will share her [Passive Packer process](https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-Archive.html#ncei-data-archive) - using [semi automated code](https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/NCEI.html#passive-packer-resources) to convert [deployment metadata](https://docs.google.com/spreadsheets/d/1iyNaKKLbqSHK-iWLADO-YQMNaq4XVsIqYbaeHD2Z_AU/edit?usp=sharing) spreadsheet to Passive Packer ready database. *Deadline: April, 2024.*
 
-4.  **Metadata Madness:** Meeting with NCEI PAD team, Kourtney, Jeff Walker, and Gen Davis to review metadata fields and ensure alignment between NCEI Passive Packer / Kourtney's code / PACM. *Deadline: May, 2024.*
+4.  **Metadata Madness:** Meeting with NCEI PAD team, Kourtney, Jeff Walker, and Genevieve Davis to review metadata fields and ensure alignment between NCEI Passive Packer / Kourtney's code / PACM. *Deadline: May, 2024.*
 
-5.  **Bracing for the Data Tsunami:** NCEI PAD team assesses data prioritization and metadata information provided by the FMCs (Action 1) and outlines a plan for building the necessary capabilities into PassivePacker and the archive pipeline. *Deadline: June, 2024.*
+5.  **Bracing for the Data Tsunami:** NCEI PAD team assesses data prioritization and metadata information provided by the FMCs (Action 1) and outlines a plan for building the necessary capabilities into Passive Packer and the archive pipeline. *Deadline: June, 2024.*
 
 6.  **Call Me Maybe:** Establish bimonthly meetings with NCEI PAD team and POCs to ensure regular communication regarding progress of archive development tasks and FMC dataset preparation. *Deadline: July, 2024.*
 
-List of PAM Projects to be provided to NCEI as outlined in the PAM SI proposal.
+List of PAM projects to be provided to NCEI in FY24
 
-| FMC   | **Project/Data Sets**                    | **Year of Delivery** | Data Type                   | Data Size | Data Location                    |
-|------------|------------|------------|------------|------------|------------|
-| NEFSC | AMAPPS                                   | FY24                 | Towed Array                 | 30 TB     | Local Server                     |
-| SWFSC | ETP (Digitize Analog)                    | FY24                 | Towed Array                 | 5 TB      | Analog Tape Drives               |
-| PIFSC | PacMAPPS - Pacific Islands               | FY24                 | Drifter, Towed Array        | 100 TB    | Local Server                     |
-| SWFSC | ADRIFT (\~100 datasets)                  | FY24                 | Drifter, Soundscape metrics | 40 TB     | Local Server                     |
-| SWFSC | CCES (\~20 datasets)                     | FY24                 | Drifter, Soundscape metrics | 15 TB     | Local Server                     |
-| SWFSC | PASCAL (\~30 datasets)                   | FY24                 | Drifter, Soundscape metrics | 20 TB     | Local Server                     |
-| SEFSC | Rice's whale Vessel Surveys              | FY25                 | Sonobuoy                    | 3 TB      | External drives                  |
-| PIFSC | Pacific Islands Passive Acoustic Network | FY25                 | Bottom Mounted              | 250 TB    | Local Server                     |
-| SWFSC | PacMAPPs - West Coast                    | FY25                 | Drifter/Glider              | 30 TB     | Local Server                     |
-| AFSC  | All datasets                             | FY25                 | Bottom Mounted              | 65 TB     | Local NAS and External drives    |
-| SEFSC | Rice's whale moorings                    | FY26                 | Bottom Mounted              | 100 TB    | Local Server                     |
-| NEFSC | Southern New England Wind Energy Area    | FY26                 | Bottom Mounted              | 300 TB    | Local Server                     |
-| OAP   | NRS                                      | FY26                 | Bottom Mounted              | 30 TB     | Local Server                     |
-| NWFSC | Outer Coast (Huff)                       | FY26                 | Bottom Mounted              | 30 TB     | Local Server and External drives |
-| NWFSC | PNW coastal recorder                     | FY26                 | Bottom Mounted              | 10 TB     | Local Server and External drives |
-| NWFSC | 2006 -2011 PODS                          | FY26                 | Bottom Mounted              | 5 TB      | Local Server and External drives |
+| FMC   | **Project/Data Sets**                 | Data Type          | Data Size | Data Location      |
+|---------|---------------------------|---------------|---------|-------------|
+| NEFSC | MA-RI Wind Energy Areas (2020 - 2024) | Bottom Mounted     | 30 TB     | Local Server       |
+| NEFSC | AMAPPS (NE 2011 - 2021)               | Towed Array        | 24 TB     | Local Server       |
+| SWFSC | HICEAS (2002)                         | Towed Array        | 5 TB      | Analog Tape Drives |
+| SWFSC | ADRIFT (2021 - 2023; \~100 datasets)  | Drifter            | 40 TB     | Local Server       |
+| SWFSC | ADRIFT (2021 - 2023; \~100 datasets)  | Soundscape metrics | 2.5 TB    | Local Server       |
+| SWFSC | CCES (2018; \~20 datasets)            | Drifter            | 20 TB     | Local Server       |
+| SWFSC | CCES (2018; \~20 datasets)            | Soundscape metrics | \<1 TB    | Local Server       |
+| SWFSC | PASCAL (\~30 datasets)                | Drifter            | 30 TB     | Local Server       |
+| SWFSC | PASCAL (\~30 datasets)                | Soundscape metrics | 1 TB      | Local Server       |
+| PIFSC | PIPAN (2005 - 2021)                   | Bottom Mounted     | 50 TB     | Local Server       |
+| AFSC  | Altima - AURALS (2022 - 2023)         | Bottom Mounted     | 4 TB      | Local NAS          |
+| SEFSC | AMAPPS SE (2011 - 2021)               | Towed Array        | TBD       | Local Server       |
 
-## Project 2: Native to flac conversation
+List of PAM projects to be provided to NCEI in FY25.
 
-Storing and processing audio data as flac files, a lossless compression format for audio data, saves substantial storage space and processing time. Fully integrating flac files into the PAM processing and storage workflow would require additional investment beyond the current PAM SI funding to develop software to convert from native to flac and ensure that common processing softwares accept flac formats. The PAM SI team will leverage existing effort to make progress towards this projects as possible, but it is currently unfunded.
+| FMC   | Project/Data Sets                            | Data Type      | Data Size | Data Location   |
+|---------|---------------------------|---------------|---------|-------------|
+| NEFSC | Migratorory Cooridor 2.0 MARUs (2015 - 2018) | Bottom Mounted | 20 TB     | Local Server    |
+| AFSC  | Altima - AURALs (2020 - 2022)                | Bottom Mounted | 8 TB      | Local Server    |
+| PIFSC | PIPAN (2005 - 2021)                          | Bottom Mounted | 50 TB     | Local Server    |
+| AFSC  | Altima - AURALs (2018 - 2020)                | Bottom Mounted | 11 TB     | Local Server    |
+| NEFSC | Inshore GOM (2020 - 2024)                    | Bottom Mounted | 60 TB     | Local Server    |
+| AFSC  | Altima - AURALs (2016 - 2018)                | Bottom Mounted | 10 TB     | Local Server    |
+| PIFSC | PIPAN (2005 - 2021)                          | Bottom Mounted | 50 TB     | Local Server    |
+| NEFSC | HARPs Shelfbreak (2015 - 2019; 2kHz)         | Bottom Mounted | TBD       | Local Server    |
+| NEFSC | HARPs Shelfbreak (2015 - 2019; 200kHz)       | Bottom Mounted | 50 TB     | External Drives |
+| AFSC  | Altima - AURALs (2013 - 2016)                | Bottom Mounted | 18 TB     | Local Server    |
+| NWFSC | PNW coastal recorder PAL/EAR (2006 - 2011)   | Bottom Mounted | 10 TB     | External Drives |
+| NWFSC | PODS Cruise (2006 - 2016)                    | Towed Array    | 5 TB      | Local Server    |
+| SEFSC | Rice's Whale Vessel Surveys                  | Sonobuoy       | 3 TB      | External Drives |
+| SWFSC | PacMAPPS - West Coast                        | Drifter        | TBD       | Local Server    |
+| SWFSC | PacMAPPS - West Coast                        | Glider         | TBD       | Local Server    |
+
+List of PAM Projects to be provided to NCEI in FY26.
+
+| FMC   | Project/Data Sets                        | Data Type      | Data Size | Data Location   |
+|---------|---------------------------|---------------|---------|-------------|
+| NEFSC | USTR Offshore GOM (2022+)                | Bottom Mounted | 41 TB     | Local Server    |
+| NEFSC | HARPs Shelfbreak (2015 - 2019, 200kHz)   | Bottom Mounted | 50 TB     | External Drives |
+| AFSC  | Altima - AURALs (2010 - 2013)            | Bottom Mounted | 15 TB     | Local Server    |
+| NEFSC | Mid-Atlantic WEAs STs (2022+)            | Bottom Mounted | 19 TB     | Local Server    |
+| NEFSC | HARPs Shelfbreak (2015 - 2019, 200kHz)   | Bottom Mounted | 50 TB     | External Drives |
+| AFSC  | Altima - AURALs (2007-2010)              | Bottom Mounted | 3 TB      | Local Server    |
+| PIFSC | PIPAN (2005 - 2021)                      | Bottom Mounted | 50 TB     | Local Server    |
+| NEFSC | HARPs Shelfbreak (2015 - 2019, 200kHz)   | Bottom Mounted | 50 TB     | External Drives |
+| NWFSC | Salish Sea SoundTraps (2023 - 2024)      | Bottom Mounted | 2 TB      | External Drives |
+| OAP   | Noise Reference Stations (2014 - 2025+)  | Bottom Mounted | 30 TB     | Local Server    |
+| AFSC  | Altima - non-AURALs (2007+)              | Bottom Mounted | TBD       | Local Server    |
+| NWFSC | PNW EAR (2011 - 2022)                    | Bottom Mounted | 10 TB     | External Drives |
+| NWFSC | Salish Sea Duty Cycled (2020 - 2022)     | Bottom Mounted | 20 TB     | External Drives |
+| PIFSC | PacMAPPS - Pacific Islands (2017 - 2023) | Drifter        | 25 TB     | Local Server    |
+| PIFSC | PIPAN (2005 - 2021)                      | Bottom Mounted | 50 TB     | Local Server    |
+| SEFSC | Rice's whale moorings                    | Bottom Mounted | 100 TB    | Local Server    |
+| NWFSC | Outer Coast (Huff)                       | Bottom Mounted | 30 TB     | TBD             |
+
+## Project 2: Native to FLAC conversion
+
+Storing and processing audio data as FLAC files, a lossless compression format for audio data, saves substantial storage space and processing time. Fully integrating FLAC files into the PAM processing and storage workflow would require additional investment beyond the current PAM SI funding to develop software to convert from native to FLAC and ensure that common processing softwares accept FLAC formats. The PAM SI team will leverage existing effort to make progress towards this project as possible, but it is currently unfunded.
 
 ### Target Outcome
 
@@ -68,22 +106,22 @@ A more time-efficient workflow that omits steps in the file conversion process p
 
 ### Summary
 
-The goal of this effort will be to eliminate the time consuming step of converting native audio files into wav and then into flac by creating a workflow that directly converts native files into a flac format. It will also make progress on ensuring flac files will be accepted inputs from some of the most commonly used processing software.
+The goal of this effort will be to eliminate the time-consuming step of converting native audio files into wav and then into FLAC by creating a workflow that directly converts native files into a FLAC format. It will also make progress on ensuring FLAC files will be accepted inputs from some of the most commonly used processing software.
 
 ### Action Items
 
-1.  **Convert to FLAC:** Develop processing pipeline to save native data formats to flac. This will include three sub tasks:
+1.  **Convert to FLAC:** Develop processing pipeline to save native data formats to FLAC. This will include three sub tasks:
 
-    1.  Establish a list of what the native file formats are that we want to evaluate going from native to flac. *Deadline: May, 2024*
+    1.  Establish a list of what the native file formats are that we want to evaluate going from native to FLAC. *Deadline: May, 2024*
 
-    2.  Determine the level of effort to convert the formats listed in subtask 1 to flac and who will complete that work. *Deadline: September, 2024*
+    2.  Determine the level of effort to convert the formats listed in subtask 1 to FLAC and who will complete that work. *Deadline: September, 2024*
 
-    3.  Create processing code to convert identified native file types to flac. *Deadline: Fall 2025*
+    3.  Create processing code to convert identified native file types to FLAC. *Deadline: Fall 2025*
 
-2.  **Process FLAC:** Update common analysis software to read flac. This will include three sub tasks:
+2.  **Process FLAC:** Update common analysis software to read FLAC. This will include three sub tasks:
 
     1.  Establish a list of standard software to develop this capacity. *Deadline: May, 2024.*
 
-    2.  Determine what is needed to adjust the software list in subtask 1 to input flac files. *Deadline: September, 2024.*
+    2.  Determine what is needed to adjust the software list in subtask 1 to input FLAC files. *Deadline: September, 2024.*
 
     3.  Issue contract to complete the work identified in subtask 2. *Deadline: Spring 2025*

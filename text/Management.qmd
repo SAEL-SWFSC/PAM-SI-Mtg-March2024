@@ -4,12 +4,12 @@ title: Management Outcomes and Tools
 
 ### Target Outcome
 
-One of the primary goals of the IRA Climate Ready Fisheries Strategic Initiatives (SI) is to modernize stock assessments to account for climate change by investing in advanced technologies and data modernization. In support of this goal, the PAM SI group held a brainstorming session centered around the target management tools, metrics, and strategies we strive to achieve through the SI. This session included two separate, but connected discussions, one on stock assessments and one on climate trends. The outcomes of both discussions highlighted numerous ways we can demonstrate the effectiveness and benefits of PAM for inclusion in stock assessments and monitoring long-term trends as well as areas for advancement of PAM methods and tools. We split the discussion into three parts, tools, metrics and, strategies.
+One of the primary goals of the IRA Climate Ready Fisheries Strategic Initiatives is to modernize stock assessments to account for climate change by investing in advanced technologies and data modernization. In support of this goal, the PAM SI group held a brainstorming session centered around the target management tools, metrics, and strategies we strive to achieve through the SI. This session included two separate, but connected discussions, one on stock assessments and one on climate trends. The outcomes of both discussions highlighted numerous ways we can demonstrate the effectiveness and benefits of PAM for inclusion in stock assessments and monitoring long-term trends as well as areas for advancement of PAM methods and tools. We split the discussion into three parts, tools, metrics and strategies.
 
 ### Discussion Leads
 
-| Sofie Van Parijs | Jason Gedamke |
-|------------------|---------------|
+| Sofie Van Parijs (NEFSC) | Jason Gedamke (OST) |
+|--------------------------|---------------------|
 
 ### Summary
 
@@ -41,4 +41,4 @@ Key **metrics to support management** included developing metrics of species dis
 
     2.  Identify desired data sources - passive acoustics environmental variables, soundscape metrics, AIS tracks, fishing metrics, species distribution model outputs
 
-    3.  Develop several PAM metrics to support evaluation of long-term species or environmental trends and cross-site comparisons for inclusion in the tool. Including, calculating year-long noise exposure for an average animal throughout its migration, and developing metrics for quantifying changes in species distribution relative to environmental change
+    3.  Develop several PAM metrics to support evaluation of long-term species or environmental trends and cross-site comparisons for inclusion in the tool. This will include calculating year-long noise exposure for an average animal throughout its migration, and developing metrics for quantifying changes in species distribution relative to environmental change

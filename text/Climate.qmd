@@ -8,11 +8,11 @@ To advance data integration in support of creating tools for climate change appl
 
 ### Project Team
 
-| Genevieve Davis (NEFSC)  | Catherine Berchok (AFSC) |                            |
-|--------------------------|--------------------------|----------------------------|
-| Candice Emmons (NWFSC)   | Ann Allen (PIFSC)        | Melissa Soldevilla (SEFSC) |
-| Manolo Castellote (AFSC) | Shannon Rankin (PIFSC)   | Samara Haver (OST)         |
-| Taiki Sakai (SWFSC)      |                          |                            |
+| Genevieve Davis (NEFSC)   | Catherine Berchok (AFSC) |                            |
+|------------------------|------------------------|-------------------------|
+| Candice Emmons (NWFSC)    | Ann Allen (PIFSC)        | Melissa Soldevilla (SEFSC) |
+| Manolo Castellote (AFSC)  | Shannon Rankin (SWFSC)   | Samara Haver (PMEL)        |
+| Taiki Sakai (SWFSC/NEFSC) | Jeff Walker (NEFSC)      |                            |
 
 ### Summary
 
@@ -24,11 +24,11 @@ We will create a streamlined workflow to integrate PAM data with necessary ancil
 
 2.  **Environmental data identification:** Identify environmental data (i.e. parameters, spatio-temporal range, source) to integrate with daily PACM output. *Deadline: May, 2024.*
 
-3.  **Format data to PACM:** Get humpback detection data formatted and submitted into PACM, on an hourly or daily scale. This phase includes meetings, as-needed tutorials, as well as identifying and developing the tools needed. *Deadline: December, 2024.*
+3.  **Format data to PACM:** Get humpback detection data formatted and submitted into PACM, on an hourly or daily scale. This phase includes meetings, as-needed tutorials, consultation with Jeff Walker, as well as identifying and developing the tools needed. *Deadline: December, 2024.*
 
 4.  **Access and aggregate detection data from PACM:** Pull humpback detection data from PACM in standardized format aggregated at daily scale. This phase includes meetings, tutorials, identifying and developing tools as needed. *Deadline: January, 2025.*
 
-5.  **Develop and refine workflow:** Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes (Taiki) creating open source / github hosted repo that is tested and implemented across FMCs. *Deadline: May, 2025.*
+5.  **Develop and refine workflow:** Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes creating open-source / github hosted repo that is tested and implemented across FMCs (Taiki). *Deadline: May, 2025.*
 
 6.  **Identify additional data:** Identify which additional data (regional-specific or other species-specific data) we’d want tools for to help predict movements and move towards addressing climate-related questions. *Deadline: May, 2026.*
 

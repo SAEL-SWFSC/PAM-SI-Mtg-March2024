@@ -8,10 +8,12 @@ title: PAM Data Integration and SI Coordination through GitHub
 
 Efficient and effective coordination of the PAM Strategic Initiative to support successful implementation.
 
+![Work flow outlining the process and products expected for the PAM SI GitHub work.](images/NMFS%20PAM%20GitHub%20Sharing.png){width="713"}
+
 ### Project Team
 
-| Becca Van Hoeck | Sofie Van Parijs | PAM SI Working Group |
-|-----------------|------------------|----------------------|
+| Becca Van Hoeck (NEFSC) | Sofie Van Parijs (NEFSC) | PAM SI Working Group |
+|-------------------------|--------------------------|----------------------|
 
 ### Summary
 
@@ -21,11 +23,11 @@ The PAM SI consists of multiple objectives and priority projects with various su
 
 1.  **Workshop Report:** Generate and finalize the March 2024 PAM SI Workshop Report. *Deadline: April 2024*
 
-    **Identify Coordination Needs:** Define high priority coordination needs and workflows based on workshop discussion. *Deadline: April 2024.*
+2.  **Identify Coordination Needs:** Define high priority coordination needs and workflows based on workshop discussion. *Deadline: April 2024.*
 
-2.  **Coordinate with UxS SI:** Check in on Pacific Glider objectives and develop a PAM Glider Repository to be shared with the PAM SI. *Deadline: June 2024 (start)*
+3.  **Coordinate with UxS SI:** Check in on Pacific Glider objectives and develop a PAM Glider Repository to be shared with the PAM SI. *Deadline: June 2024 (start)*
 
-3.  **Ongoing Coordination:** Continue coordination of the PAM SI priority objectives through GitHub Issues, Project cards, and Discussions. *Deadline: ongoing throughout SI.*
+4.  **Ongoing Coordination:** Continue coordination of the PAM SI priority objectives through GitHub Issues, Project cards, and Discussions. *Deadline: ongoing throughout SI.*
 
 ## Project 2: Create National PAM Sharing Structure
 
@@ -35,9 +37,9 @@ Enhance National PAM collaboration among the NOAA Fisheries Science Centers thro
 
 ### Project Team
 
-| Becca Van Hoeck                    | Sofie Van Parijs | Kourtney Burger |
-|------------------------------------|------------------|-----------------|
-| Science center representatives TBD |                  |                 |
+| Becca Van Hoeck (NEFSC)            | Sofie Van Parijs (NEFSC) | Kourtney Burger (SWFSC) |
+|--------------------------|--------------------|----------------------|
+| Science center representatives TBD |                          |                         |
 
 ### Summary
 
@@ -67,9 +69,9 @@ Facilitate learning and effective collaboration while creating the NMFS PAM Shar
 
 ### Project Team
 
-| Becca Van Hoeck                    | Shannon Rankin |     |
-|------------------------------------|----------------|-----|
-| Science center representatives TBD |                |     |
+| Becca Van Hoeck (NEFSC)            | Shannon Rankin (SWFSC) |     |
+|------------------------------------|------------------------|-----|
+| Science center representatives TBD |                        |     |
 
 ### Summary
 
@@ -77,13 +79,17 @@ OpenScapes is an open science initiative to support more efficient collaboration
 
 ### Action Items
 
-1.  **Confirm OpenScapes cohort:** Identify potential OpenScapes Champions workshops that can accomodate the NMFS PAM SI cohort. *Deadline: June 2024*
+1.  **Confirm OpenScapes cohort:** Identify potential OpenScapes Champions workshops that can accommodate the NMFS PAM SI cohort. *Deadline: June 2024*
 
 2.  **Sign-up for OpenScapes:** Pending confirmation of the OpenScapes cohort, Shannon will confirm that the PAM team is registered for the cohort. *Deadline: June 2024.*
 
 3.  **Identify cohort:** Each science center will recommend at least one participant for the OpenScapes cohort who can dedicate at least 3 hours a week to the collaboration. *Deadline: June 2024*
 
 4.  **Identify cohort priority:** The PAM team will convene a meeting prior to the start of the OpenScapes cohort to discuss and agree on project priorities from the list provided during the PAM SI Workshop. *Deadline: June 2024*
+
+5.  **Participate in OpenScapes:** OpenScapes is a 6-week sprint scheduled to begin in Spring/Summer 2024 *Deadline: TBD*
+
+6.  **Report back to Science Centers:** Following conclusion of the cohort we will facilitate knowledge sharing between the science center representatives and the broader regional PAM teams. *Deadline: within 2 months from the end of the OpenScapes workshop.*
 
 | Use                                         | Urgency | Importance | Complexity | Barrier to Entry |
 |---------------|---------------|---------------|---------------|---------------|
@@ -97,6 +103,3 @@ OpenScapes is an open science initiative to support more efficient collaboration
 | Analysis protocols                          | Med     | High       | High       | Low              |
 
 : PAM SI Priority GitHub Projects
-
-5.  **Participate in OpenScapes:** OpenScapes is a 6-week sprint scheduled to begin in May 2024 *Deadline: TBD*
-6.  **Report back to Science Centers:** Following conclusion of the cohort we will facilitate knowledge sharing between the science center representatives and the broader regional PAM teams. *Deadline: within 2 months from the end of the OpenScapes workshop.*
