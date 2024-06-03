@@ -13,7 +13,7 @@ Advancing the accuracy of stock assessments to capture seasonal and long-term ch
 ### Project Team
 
 | Yvonne Barkey (PIFSC)  | Janelle Badger (PIFSC)        |                        |
-|----------------------|----------------------------|----------------------|
+|------------------------|-------------------------------|------------------------|
 | Shannon Rankin (SWFSC) | Selene Fregosi (PIFSC)        | Yvonne Barkley (PIFSC) |
 | Erin Oleson (PIFSC)    | Other FMC representatives TBD |                        |
 
@@ -75,7 +75,7 @@ Expanding the utility of an existing automated tracking and localization tool to
 ### Project Team
 
 | Yvonne Barkey (PIFSC)      |                             |                             |
-|------------------------|------------------------|------------------------|
+|----------------------------|-----------------------------|-----------------------------|
 | Melissa Soldevilla (SEFSC) | Annamaria DeAngelis (NEFSC) | Jennifer McCullough (PIFSC) |
 
 ### Summary
